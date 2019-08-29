@@ -1,0 +1,35 @@
+{
+    "query": {
+        "bbox": {
+            "n": "5.5306",
+            "s": "5.1641",
+            "e": "-3.5692",
+            "w": "-4.2208"
+        },
+        "tags": {
+            "public_transport:version": "2"
+        }
+    },
+    "stops": {
+        "name_without": "Add a name to the stop with JungleBus app",
+        "name_auto": "yes"
+    },
+    "agency": {
+        "agency_id": "AT",
+        "agency_name": "AbidjanTransport",
+        "agency_url": "https://wiki.openstreetmap.org/wiki/FR:WikiProject_Côte_d’Ivoire/Transport_Abidjan",
+        "agency_timezone": "Africa/Abidjan",
+        "agency_lang": "fr",
+        "agency_phone": "",
+        "agency_fare_url": ""
+    },
+    "feed_info": {
+        "publisher_name": "Jungle Bus",
+        "publisher_url": "http://junglebus.io",
+        "version": "0.1",
+        "start_date": "20190901",
+        "end_date": "20200730"
+    },
+    "output_file": "data/abidjan.zip",
+    "selector": "gh_accra"
+}
