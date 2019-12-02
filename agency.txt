@@ -1,0 +1,3 @@
+agency_url,agency_name,agency_id,agency_timezone,agency_lang
+,Aqualines,Aqualines,Africa/Abidjan,
+http://sotra.ci/,Société des transports abidjanais (SOTRA) S.A.,SOTRA,Africa/Abidjan,fr
