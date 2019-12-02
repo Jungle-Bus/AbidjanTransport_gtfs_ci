@@ -4,9 +4,9 @@ set -ev
 
 mkdir output
 
-osm2gtfs -c config.json
+osm2gtfs -c osm2gtfs/osm2gtfs/creators/ci_abidjan/config.json
 
-cp ./data/abidjan.zip ./output/abidjan.zip
+cp ./data/ci-abidjan.zip ./output/abidjan.zip
 
 cd output
 

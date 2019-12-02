@@ -7,7 +7,7 @@ wget https://github.com/google/transitfeed/archive/1.2.16.zip --output-document=
 unzip transitfeed.zip
 
 # install osm2gtfs
-git clone https://github.com/grote/osm2gtfs
+git clone --branch=ci_abidjan https://github.com/Jungle-Bus/osm2gtfs
 
 cd osm2gtfs
 
