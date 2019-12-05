@@ -9,7 +9,7 @@ route_type,route_id,route_short_name,route_long_name,agency_id,route_desc,route_
 3,10271257,210,Gare Sud ↔ Cocody SCI Les Rosiers,SOTRA,,1779c2,ffffff
 3,10291228,206,Hôtel de ville ↔ Saint André,SOTRA,,1779c2,ffffff
 3,10270241,33,Gare Sud Plateau ↔ Koumassi Akromiambla,SOTRA,,1779c2,ffffff
-3,10301478,29,Gare Nord ↔ Port-Bouet derrière warf,SOTRA,,1779c2,ffffff
+3,10301478,29,Port-Bouet derrière warf ↔ Gare Nord,SOTRA,,1779c2,ffffff
 3,10235433,28,Gare Sud ↔ M'pouto - CIAD,SOTRA,,1779c2,ffffff
 3,10248235,03,Marcory Anoumabo Aliodan ↔ Gare Nord,SOTRA,,1779c2,ffffff
 3,10211372,84,Gare Nord ↔ Blockauss,SOTRA,,1779c2,ffffff

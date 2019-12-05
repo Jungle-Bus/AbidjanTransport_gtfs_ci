@@ -117,7 +117,7 @@ route_id,trip_id,service_id,shape_id,direction_id,trip_headsign
 10212293,63,Mo-Su,10212292,1,Niangon Sud à gauche
 10235433,64,Mo-Su,10235565,0,Gare Sud
 10235433,65,Mo-Su,10235432,1,M'pouto - CIAD
-10301478,66,Mo-Su,10301477,0,Port-Bouet derrière warf
+10301478,66,Mo-Su,10301477,0,Gare Nord
 10212448,67,Mo-Su,10213300,0,Gare Sud
 10212448,68,Mo-Su,10212447,1,Yopougon Kouté
 10266864,69,Mo-Su,10266863,0,Commissariat Port
@@ -190,7 +190,7 @@ route_id,trip_id,service_id,shape_id,direction_id,trip_headsign
 10291228,40,Mo-Su,10291227,0,Hôtel de Ville
 10291228,41,Mo-Su,10291226,1,Saint André
 10192143,1,Mo-Su,10192310,1,Gare Marcory
-10187611,5,Mo-Su,10186314,1,Attécoubé
+10187611,5,"Mo,Tu,We,Fr,Sa,Su",10186314,1,Attécoubé
 5985016,9,Mo-Su,5986717,1,Terminus Aéroport FHB
 10290233,146,Mo-Su,10290232,0,Plateau Gare Sud
 10290233,147,Mo-Su,10290231,1,La Vie
