@@ -92,6 +92,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -4.0154322,Quai 15,5.4354761,node/6474139033,0,SAnode/6474139033
 -3.984559,Arrêt,5.4102497,node/6932253479,0,SAnode/6927327308
 -3.9808642,Arrêt,5.4127978,node/6932253478,0,SAnode/6932253478
+-4.0150871,Gare lagunaire Aqualines du Plateau,5.3160908,SAnode/1227889258,1,
 -4.0515593,Arrêt,5.4890597,SAnode/6915722699,1,
 -4.0014133,Sainte Monique,5.3997114,SAnode/6934798184,1,
 -4.0544278,Arrêt,5.465098,SAnode/6915722692,1,
@@ -134,6 +135,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9837456,Hôpital Général de Marcory,5.3012025,node/6952200470,0,SAnode/6926943109
 -4.0111108,Destin,5.4554315,node/6934922724,0,SAnode/6902975750
 -4.0738295,Saint André,5.3423254,SAnode/3075945505,1,
+-4.1003513,Arret de bus,5.3419897,node/5934409413,0,SAnode/5934409413
 -4.0063152,Chaîne avion,5.4101483,SAnode/6906590692,1,
 -4.007007,Arrêt,5.3052353,node/6952200475,0,SAnode/6952200475
 -4.0061849,Pharmacie de l'Avenue 27,5.3029158,node/6933231057,0,SAnode/6924979792
@@ -143,6 +145,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -4.0957546,Arrêt,5.3549701,node/6966758105,0,SAnode/6966758105
 -4.0846449,BAE,5.3609547,node/6966758103,0,SAnode/6966758103
 -3.9943103,Las Palmas,5.3809527,node/6912729884,0,SAnode/6912729884
+-3.9736383,Cité étudiante Riviera 2,5.3534289,node/7043603291,0,SAnode/6928179124
 -4.0997625,Arrêt,5.3462622,node/6966758108,0,SAnode/6966758107
 -4.1031267,Arrêt,5.333344,node/6966758109,0,SAnode/6966758109
 -4.0059958,Arrêt,5.386285,node/6927037630,0,SAnode/6927037616
@@ -190,11 +193,11 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.964494,Boulevard du Caire,5.2919737,node/6906596969,0,SAnode/6906596969
 -4.0137548,Arrêt,5.4327535,SAnode/6934922731,1,
 -3.9881326,Délices de France,5.301827,SAnode/6909237622,1,
--4.0745628,Marche Sicogi,5.3395304,node/6913190458,0,SAnode/6913190458
+-3.9788787,Pharmacie de Bietry,5.2744205,node/6961370879,0,SAnode/4107240891
 -4.0751928,Patisserie,5.3379928,node/6913190459,0,SAnode/6912805208
--4.0650474,Ex Chaine Avion Rue Princesse,5.3466167,node/6913190456,0,SAnode/6912805209
+-4.0044435,Karwil,5.3054677,node/6906596962,0,SAnode/6906596962
 -4.0678006,Newton,5.3447353,node/6913190457,0,SAnode/3137243386
--4.0155257,Adjamé Liberté,5.3534513,node/6906596960,0,SAnode/6899241577
+-4.015528,Adjamé Liberté,5.35345,node/6906596960,0,SAnode/6899241577
 -4.0060884,Nanan Yamousso,5.3100359,node/6906596961,0,SAnode/6899053348
 -3.9859637,Cap Sud,5.2987234,node/6906596966,0,SAnode/6832290086
 -4.055093,Pharmacie Sacré-cœur,5.3369773,node/6913190453,0,SAnode/6913190453
@@ -231,7 +234,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.8879555,Pharmacie Du Marché,5.357433,node/6948466339,0,SAnode/6948466339
 -3.8895766,La Poste,5.357652,node/6948466338,0,SAnode/6948466338
 -3.9881294,Petro Ivoire 7è Tranche,5.3806539,node/5958266386,0,SAnode/5958266386
--3.9767852,Arrêt,5.353946,node/6948466331,0,SAnode/6948466331
+-3.9767852,Arrêt,5.353946,node/6948466331,0,SAnode/6928250861
 -3.9273548,Arrêt,5.3732347,node/6948466333,0,SAnode/6948466333
 -3.9695473,Arrêt,5.3560356,node/6948466332,0,SAnode/6948466332
 -3.9116914,Késsé,5.3738883,node/6948466335,0,SAnode/6948466335
@@ -255,6 +258,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -4.0211629,Grand Moulin Abidjan,5.3069377,node/6909521612,0,SAnode/6909521612
 -4.058547,Pharmacie Béatitude,5.3401473,node/6913190454,0,SAnode/6913190454
 -4.0161668,Arrêt,5.3557539,SAnode/6927037628,1,
+-4.0957761,Arrêt,5.3550743,node/7043642288,0,SAnode/6966758105
 -3.9975522,Terminus Vridi-Iran,5.2562337,node/6928704117,0,SAnode/6928681599
 -4.0140854,"Etablissements Rey, Port",5.29778,node/6928704114,0,SAnode/6909521609
 -3.9995223,Arrêt Bolloré logistique,5.264595,node/6928704115,0,SAnode/6928704115
@@ -351,6 +355,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -4.0438735,Arrêt,5.4392603,SAnode/6934648740,1,
 -3.9803499,Petite Mosquée Riviéra Jardin,5.3516026,node/6928250859,0,SAnode/6928179126
 -3.979568,Riviéra 2,5.3531115,node/3145728412,0,SAnode/3145728412
+-4.01577883717,Gare Lagunaire de Treichville,5.31052310396,SAway/336759026,1,
 -4.0007588,Monastère,5.4156503,SAnode/6903504059,1,
 -3.9837323,Arrêt,5.4035247,SAnode/6915341518,1,
 -3.9421921,Arrêt Dr08,5.2516684,node/6961370880,0,SAnode/6961370880
@@ -376,7 +381,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9897184,Chimtec Grand carrefour Marcory,5.3008419,node/6819329285,0,SAnode/6819329285
 -3.9494388,Gare Mesano,5.3001329,node/6917146073,0,SAnode/6917146073
 -3.9902179,Boulevard de France,5.3347766,SAnode/5954541439,1,
--3.9976139,Arrêt,5.3628414,SAnode/6980521689,1,
+-3.9971908,Arrêt,5.3470894,SAnode/6927701716,1,
 -4.0250561,Mirador,5.3567305,SAnode/6927600977,1,
 -3.9498433,CIAD,5.3286164,SAnode/5954541435,1,
 -3.9608221,Arrêt,5.2975636,node/6917146070,0,SAnode/6917146069
@@ -387,9 +392,9 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9867521,Cap Sud,5.2988832,SAnode/6832290086,1,
 -4.0205671,Église Méthodiste Unie de Côte d'Ivoire,5.3299678,node/6831076678,0,SAnode/6831076678
 -4.0026914,Pharmacie les 7 Colonnes,5.3455151,SAnode/6948466345,1,
--3.9094175,Cité Marina,5.3671355,SAnode/6948466342,1,
 -3.9285967,Nouveau Goudron,5.372677,SAnode/6948466343,1,
 -3.8903531,Sous-Prefecture de Bingerville,5.3576379,SAnode/6948466341,1,
+-3.9668678,Centre Commercial Koumassi,5.2889304,node/6935274808,0,SAnode/6935274808
 -4.0043772,Lycée Classique d'Abidjan,5.3317315,SAnode/6912410269,1,
 -3.9973538,Maison du Parti,5.3350719,SAnode/6913703799,1,
 -3.9970399,UCAO,5.3310059,SAnode/6913703798,1,
@@ -424,7 +429,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9226348,Arrêt,5.3329467,SAnode/6948855828,1,
 -4.0446977,Anokoi,5.4390733,node/6915722686,0,SAnode/6903525054
 -4.0485036,PK 18 Agripac,5.4434752,node/6915722687,0,SAnode/6915722687
--4.0037743,Saint Jean,5.3368705,SAnode/3326195828,1,
+-4.0266778,Arrêt,5.4333404,node/6915722685,0,SAnode/6905344267
 -3.9829561,Arrêt,5.403643,node/6915341548,0,SAnode/6915341518
 -3.9807645,Arrêt,5.4033522,node/6915341549,0,SAnode/6910797796
 -3.9932262,Arrêt,5.409531,node/6915341546,0,SAnode/6910797820
@@ -446,7 +451,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9579213,43ème Bima,5.2573475,node/6935494508,0,SAnode/6935274810
 -3.9820156,Chateau d'eau d'Angré,5.4121523,SAnode/5957239660,1,
 -3.9908227,Petro Ivoire Angré,5.4046007,SAnode/5957239661,1,
--3.8841304,Hôpital Mère-Enfant de Bingerville,5.3606583,SAnode/6930917959,1,
+-3.8841063,Hôpital Mère-Enfant de Bingerville,5.360674,SAnode/6930917959,1,
 -4.0706693,Arrêt,5.4485133,node/6938324881,0,SAnode/6938324880
 -4.0713693,Arrêt,5.4517454,node/6938324880,0,SAnode/6938324880
 -4.0681963,Arrêt,5.4435135,node/6938324883,0,SAnode/6934648714
@@ -500,7 +505,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9456984,Camp Millitaire d'Akouédo,5.3671088,node/6930917971,0,SAnode/6930917946
 -4.0013589,Banque Mondiale,5.3278237,node/6907141799,0,SAnode/6907141799
 -4.0441328,Bon choix,5.3134744,node/6913190443,0,SAnode/6910755184
--3.9761321,Cité étudiante Riviera 2,5.3530767,node/6928250861,0,SAnode/6928179124
+-3.9761267,Arrêt,5.3530707,node/6928250861,0,SAnode/6928250861
 -3.9808642,Arrêt,5.4127978,SAnode/6932253478,1,
 -3.9657399,Arrêt,5.3991713,node/6910797809,0,SAnode/6910797809
 -3.960527,Arrêt,5.4011774,node/6910797808,0,SAnode/6910797807
@@ -733,7 +738,6 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9983567,Le Roi du Pain,5.3753472,node/6912820411,0,SAnode/6912820411
 -3.8942168,Station TEXACO,5.3611469,node/6948466340,0,SAnode/6948466337
 -3.8903531,Sous-Prefecture de Bingerville,5.3576379,node/6948466341,0,SAnode/6948466341
--3.9094175,Cité Marina,5.3671355,node/6948466342,0,SAnode/6948466342
 -3.9285967,Nouveau Goudron,5.372677,node/6948466343,0,SAnode/6948466343
 -4.0026914,Pharmacie les 7 Colonnes,5.3455151,node/6948466345,0,SAnode/6948466345
 -3.9372025,Rue K73,5.2456701,SAnode/6935494505,1,
@@ -843,7 +847,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -4.0255918,Macaci,5.3774907,node/6474137944,0,SAnode/6474137944
 -4.0207427,Université Nangui Abrogoua,5.392647,node/6474137942,0,SAnode/6474137942
 -3.945225,Terminus 05 Lycée Municipal de Koumassi,5.3121324,SAnode/2760843854,1,
--4.0021896,Palm Club,5.3517449,SAnode/6907141802,1,
+-4.0021657,Palm Club,5.351632,SAnode/6907141802,1,
 -4.0796923,Vulcanisateur,5.3703887,SAnode/6909225537,1,
 -4.0781781,Arrêt,5.3745633,SAnode/6909225536,1,
 -4.0152949,Feux du plateau,5.325075,SAnode/6899053347,1,
@@ -1014,7 +1018,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9627425,Arrêt,5.3749859,node/6979431051,0,SAnode/6979431051
 -3.9847072,Arrêt,5.4036674,node/6979431052,0,SAnode/6915341518
 -4.0699659,Arrêt,5.428223,node/6934648718,0,SAnode/6934648717
--3.9543647,Collège Ardoise,5.3517214,SAnode/6932323633,1,
+-4.0893341,Terminus 27,5.3164439,SAnode/768587345,1,
 -4.0210558,Arrêt,5.4266332,node/6934648710,0,SAnode/6910797790
 -4.0538116,Arrêt,5.4438112,node/6934648711,0,SAnode/6934648711
 -4.0603428,Arrêt,5.4435976,node/6934648712,0,SAnode/6934648712
@@ -1076,6 +1080,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9424355,Rue K63,5.2508117,node/6952132241,0,SAnode/6952132232
 -3.9914958,drocolor,5.2895653,node/6952132248,0,SAnode/6952132248
 -3.9930183,Sacri,5.2899777,node/6952132249,0,SAnode/6952132249
+-4.0711802,2 poteaux,5.3437686,node/5281604034,0,SAnode/3137217828
 -4.006142,Arrêt,5.3852315,node/6935401276,0,SAnode/6927037616
 -4.0530974,Arrêt,5.4680953,node/6915722694,0,SAnode/6915722692
 -3.9852865,Rue G39,5.2849322,SAnode/6952132226,1,
@@ -1125,7 +1130,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.981805,Arrêt,5.2774525,node/6961370878,0,SAnode/6961370878
 -3.9804116,Hassan,5.2823321,SAnode/6954138439,1,
 -3.9775054,Rue G 69,5.2807083,SAnode/6954138438,1,
--4.0044435,Karwil,5.3054677,node/6906596962,0,SAnode/6906596962
+-4.0650474,Ex Chaine Avion Rue Princesse,5.3466167,node/6913190456,0,SAnode/6912805209
 -4.1004632,Pharmacie Cité Maroc,5.3404237,node/6909707228,0,SAnode/6909707228
 -4.0892462,CIE,5.3407014,node/6909707229,0,SAnode/6909707229
 -3.9790913,Arrêt,5.3297881,node/6933080265,0,SAnode/6933080256
@@ -1182,8 +1187,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.986118,Commissariat du 9éme,5.3055778,SAnode/6905719618,1,
 -3.9847286,Station Shell,5.308097,SAnode/6905719619,1,
 -4.0061063,Pont de Vridi,5.2705271,node/6909737830,0,SAnode/6909521608
--3.9788787,Pharmacie de Bietry,5.2744205,node/6961370879,0,SAnode/4107240891
--3.997229,Sunu assurance,5.3471068,node/6927701716,0,SAnode/6927701716
+-3.9971908,Arrêt,5.3470894,node/6927701716,0,SAnode/6927701716
 -4.0792436,Pont Vagabond,5.3382505,node/6963093976,0,SAnode/6963093976
 -4.0747274,Arrêt,5.3403236,node/6963093977,0,SAnode/6963093977
 -4.0858988,Amondji,5.3396466,node/6963093974,0,SAnode/6963093974
@@ -1222,6 +1226,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -4.0065511,Arrêt,5.4015232,node/6980521691,0,SAnode/6927037614
 -4.0239746,Immeuble Sogephia Hévéa,5.3282245,node/6905772460,0,SAnode/6905772460
 -3.9930996,Opéra,5.3845481,SAnode/6912820408,1,
+-4.0374551,Gare lagunaire Aqualines Yopougon,5.308096,SAnode/5390465849,1,
 -3.9481486,Centre Médico-social,5.3097742,node/6952200469,0,SAnode/6952200469
 -4.0773951,Arrêt,5.3747704,node/6934648725,0,SAnode/6909225536
 -4.0757427,Arrêt,5.3836466,node/6934648724,0,SAnode/6934648724
@@ -1255,7 +1260,6 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -4.0185824,Gare Sud,5.3147951,node/6969583474,0,SAnode/6474137967
 -4.0106696,Supermarché Casino,5.3451973,node/6969583472,0,SAnode/6969583472
 -4.0097992,Clinique Providence,5.3472803,node/6969583471,0,SAnode/6969583471
--4.0021858,Arrêt,5.3514878,node/6969583470,0,SAnode/6927327305
 -4.0550937,La Poste,5.3337753,SAnode/6913190452,1,
 -4.055093,Pharmacie Sacré-cœur,5.3369773,SAnode/6913190453,1,
 -4.058547,Pharmacie Béatitude,5.3401473,SAnode/6913190454,1,
@@ -1377,7 +1381,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9736351,Cité étudiante Riviera 2,5.3533983,SAnode/6928179124,1,
 -4.0961792,kiosque,5.3727101,node/6909225533,0,SAnode/6909225533
 -3.9630926,Rue H61,5.2921887,SAnode/6951224049,1,
--4.0711802,2 poteaux,5.3437686,node/5281604034,0,SAnode/3137217828
+-4.0222108,Gendarmerie,5.4284112,node/6905344268,0,SAnode/6903602207
 -3.9619419,Arrêt,5.2972737,node/6917146079,0,SAnode/6917146069
 -3.9585451,Arrêt,5.2980163,node/6917146078,0,SAnode/6917146078
 -4.0281877,Gare Nord,5.3589119,node/6905326498,0,SAnode/6474137946
@@ -1465,6 +1469,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9580205,Arrêt,5.3710263,SAnode/6955514935,1,
 -3.9598243,Arrêt Pharmacie Palmeraie,5.3635731,SAnode/6955514934,1,
 -3.964382,Cocody SCI Les Rosiers,5.3808935,SAnode/6955514937,1,
+-4.0374551,Gare lagunaire Aqualines Yopougon,5.308096,node/5390465849,0,SAnode/5390465849
 -4.0832298,Terminus bus 47,5.3396167,SAnode/2948146673,1,
 -4.0494999,Add a name to the stop with JungleBus app,5.3247299,SAnode/6912805217,1,
 -4.0581514,Rue O130,5.3300685,node/6933043356,0,SAnode/6933043356
@@ -1569,7 +1574,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -4.021322,Cathédrale Saint paul,5.3317403,node/6195348341,0,SAnode/6195348341
 -4.0288774,Château,5.4359152,SAnode/6903602210,1,
 -3.9838718,Gare Marcory,5.3087649,node/6909521620,0,SAnode/6904188585
--4.0021896,Palm Club,5.3517449,node/6907141802,0,SAnode/6907141802
+-4.0021657,Palm Club,5.351632,node/6907141802,0,SAnode/6907141802
 -4.0277536,Gare Nord,5.3586294,node/6924851833,0,SAnode/6474137946
 -4.003555,Banque Bicici,5.300882,node/6924851830,0,SAnode/6924851830
 -4.0062869,Mikhalil Technologie,5.2999593,node/6924851831,0,SAnode/6924851831
@@ -1699,6 +1704,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -4.0189201,Avenue Kaza,5.4382274,node/6474138996,0,SAnode/6474137927
 -4.013945,Au tournant,5.4230451,SAnode/6903097496,1,
 -4.0138587,Carrefour Akeïkoi,5.4383936,SAnode/6474138997,1,
+-4.0150871,Gare lagunaire Aqualines du Plateau,5.3160908,node/1227889258,0,SAnode/1227889258
 -3.9859892,Arrêt,5.3971746,SAnode/6970095633,1,
 -3.9875704,Pharmacie Les 7 Lys,5.3841166,SAnode/6970095634,1,
 -3.9978983,Vridi-Iran,5.2588247,node/6909546908,0,SAnode/6909546908
@@ -1851,7 +1857,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -4.0029552,Saint Jean,5.3358129,node/6927544636,0,SAnode/3326195828
 -3.9737651,Arrêt,5.3839137,SAnode/6979431048,1,
 -4.0030417,Saint Jean,5.3359628,node/6927544634,0,SAnode/3326195828
--3.9972612,INSAAC,5.346124,node/6927544633,0,SAnode/6908618074
+-3.9972169,INSAAC,5.3463523,node/6927544633,0,SAnode/6908618074
 -3.928193,Arrêt,5.3687351,SAnode/6979712513,1,
 -3.9754421,Arrêt,5.3902524,SAnode/6979431046,1,
 -3.9031767,Université de Cocody Pole Scientifique,5.3606115,node/6930917953,0,SAnode/6930917953
@@ -1862,7 +1868,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.8909747,Lycée garçon de Bingerville,5.3577634,node/6930917956,0,SAnode/6930917956
 -3.8963887,Add a name to the stop with JungleBus app,5.360916,node/6930917955,0,SAnode/6930917955
 -3.8979524,CIE,5.360275,node/6930917954,0,SAnode/6930917954
--3.8841304,Hôpital Mère-Enfant de Bingerville,5.3606583,node/6930917959,0,SAnode/6930917959
+-3.8841063,Hôpital Mère-Enfant de Bingerville,5.360674,node/6930917959,0,SAnode/6930917959
 -3.8843503,Espace Orange,5.3583363,node/6930917958,0,SAnode/6930917958
 -3.9620358,Chic Shop,5.3596047,node/6915696795,0,SAnode/6915696795
 -3.9657802,Cap Nord,5.3574857,node/6915696796,0,SAnode/6915487641
@@ -1938,7 +1944,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9608596,Pharmacie Océan,5.2568159,node/6935274796,0,SAnode/6935274796
 -3.9581761,Lycée Moderne Port Bouët,5.256199,node/6935274797,0,SAnode/6935274797
 -3.965703,Marché,5.2585828,node/6935274794,0,SAnode/6935274794
--4.0222108,Gendarmerie,5.4284112,node/6905344268,0,SAnode/6903602207
+-3.9761267,Arrêt,5.3530707,SAnode/6928250861,1,
 -3.9970998,Gendarmerie,5.3482687,SAnode/6927544637,1,
 -4.0101948,Arrêt Cuirasse Ciment,5.2947326,SAnode/6928681601,1,
 -4.0135168,Petro Ivoire,5.4186048,SAnode/6902638989,1,
@@ -2073,6 +2079,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9692172,Camp Commando de Koumassi,5.282599,node/6819328985,0,SAnode/6819328985
 -3.9840318,Station Service African Petroleum,5.3051694,node/6927022357,0,SAnode/6927022357
 -4.0225102,Gendarmerie,5.4284566,node/6905553518,0,SAnode/6903602207
+-4.01577883717,Gare Lagunaire de Treichville,5.31052310396,way/336759026,0,SAway/336759026
 -4.0510764,Arrêt Terminus,5.4483606,SAnode/6915722734,1,
 -4.0491425,Arrêt Agripac,5.4449974,SAnode/6915722735,1,
 -4.0484067,Arrêt,5.4436482,SAnode/6915722736,1,
@@ -2094,6 +2101,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9495367,Arrêt,5.3091986,SAnode/6952200468,1,
 -4.0148424,Maison du Congres,5.3097288,node/6905719609,0,SAnode/6905719609
 -3.9696513,Arrêt,5.2576259,SAnode/6935274793,1,
+-3.9760919,Arrêt,5.3530066,node/6948695738,0,SAnode/6928250861
 -3.9693475,Marché DjeKonan,5.2892455,SAnode/6954138445,1,
 -3.9694727,Clinique Médicale Sainte Justine,5.3971939,SAnode/6912820396,1,
 -3.9765606,"Ancien Terminus 90, Les Arcades",5.4033098,SAnode/6912820394,1,
@@ -2149,10 +2157,9 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9498116,Pharmacie Regina,5.298266,node/6935274804,0,SAnode/6935274804
 -3.9495504,Pharmacie Regina,5.2982253,node/6935274805,0,SAnode/6935274804
 -4.0160152,Anador,5.4089746,SAnode/6474137940,1,
--3.9668678,Centre Commercial Koumassi,5.2889304,node/6935274808,0,SAnode/6935274808
+-4.0851445,CHU de Yopougon,5.3570551,SAnode/6968911556,1,
 -4.080236,Arrêt,5.3698106,SAnode/6968911557,1,
 -4.0255918,Macaci,5.3774907,SAnode/6474137944,1,
--4.0849172,CHU de Yopougon,5.3571159,SAnode/6968911552,1,
 -4.027655,Gare Nord,5.3592442,SAnode/6474137946,1,
 -3.9586683,Rond-Point de la Palmeraie,5.360974,SAnode/6915487639,1,
 -3.96346,9 Kilo,5.3585446,SAnode/6915487638,1,
@@ -2227,6 +2234,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9845519,Commisariat 30è Art.,5.373758,node/5958266387,0,SAnode/5958266387
 -3.9451392,Pharmacie Campement,5.3050831,SAnode/6926943108,1,
 -3.9835873,Hôpital Général de Marcory,5.3011838,SAnode/6926943109,1,
+-4.0138507,Rue du Canal,5.2649101,SAnode/6945966272,1,
 -4.0161832,Cité Policière,5.308109,node/6909237627,0,SAnode/6909039468
 -3.9983993,Mobil 2 Plateaux,5.367356,SAnode/6912729879,1,
 -3.9976354,MACACI,5.3648148,SAnode/6912729878,1,
@@ -2235,7 +2243,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9867521,Cap Sud,5.2988832,node/6832290086,0,SAnode/6832290086
 -3.998725,SOCITECH,5.3601195,SAnode/6912729877,1,
 -4.0012691,BMW,5.3581253,SAnode/6912729876,1,
--3.997229,Sunu assurance,5.3471068,SAnode/6927701716,1,
+-3.9976139,Arrêt,5.3628414,SAnode/6980521689,1,
 -4.0802555,Sideci Matignon,5.3218817,node/6934872151,0,SAnode/6934872151
 -4.0506908,Yopougon Kowëit,5.3221354,node/6934872150,0,SAnode/6910755180
 -3.9734097,Petit Café,5.2862329,node/6954138437,0,SAnode/6954138437
@@ -2281,7 +2289,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9535043,Pharmacie Riviera III,5.348653,node/6932239014,0,SAnode/6932239014
 -3.9637336,Arrêt,5.3569209,node/6932239017,0,SAnode/6932239016
 -3.9606719,Arrêt,5.3550168,node/6932239016,0,SAnode/6932239016
--4.0893341,Terminus 27,5.3164439,SAnode/768587345,1,
+-3.9543647,Collège Ardoise,5.3517214,SAnode/6932323633,1,
 -3.9707407,Grand carrefour de Koumassi,5.2892136,node/6819329085,0,SAnode/6819329085
 -3.9741109,Hôtel Ibis Marcory,5.2921087,node/6819329086,0,SAnode/6819329086
 -4.0047298,Immeuble CNMS,5.3362229,SAnode/6927330414,1,
@@ -2295,7 +2303,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -4.0923724,SOA-CI,5.373881,SAnode/6961643501,1,
 -4.0945986,Garbadrome,5.3718154,SAnode/6961643502,1,
 -3.9324215,Coris Bank,5.3716378,SAnode/6930917969,1,
--3.9097515,Arrêt Adaman,5.3683024,SAnode/6930917966,1,
+-3.9097783,Cité Marina,5.368265,SAnode/6930917966,1,
 -3.9108391,Interinterpreter,5.3714883,SAnode/6930917967,1,
 -3.9424717,Arrêt,5.2467278,SAnode/6937770647,1,
 -3.9594314,Arrêt,5.2618319,SAnode/6937770646,1,
@@ -2378,13 +2386,12 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -4.0751626,Carrefour Express,5.3290976,SAnode/6912654329,1,
 -3.9273548,Arrêt,5.3732347,SAnode/6948466333,1,
 -3.9695473,Arrêt,5.3560356,SAnode/6948466332,1,
--3.9767852,Arrêt,5.353946,SAnode/6948466331,1,
 -3.9233838,Jules Verne,5.3740098,node/6930917968,0,SAnode/6930917950
 -3.9324215,Coris Bank,5.3716378,node/6930917969,0,SAnode/6930917969
 -3.8912027,Lycée garçon de Bingerville,5.35772,node/6930917962,0,SAnode/6930917956
 -3.8980114,CIE,5.3601255,node/6930917963,0,SAnode/6930917954
 -3.886655,Carrefour marché,5.3573589,node/6930917961,0,SAnode/6930917957
--3.9097515,Arrêt Adaman,5.3683024,node/6930917966,0,SAnode/6930917966
+-3.9097783,Cité Marina,5.368265,node/6930917966,0,SAnode/6930917966
 -3.9108391,Interinterpreter,5.3714883,node/6930917967,0,SAnode/6930917967
 -3.9020951,Université de Cocody Pole Scientifique,5.360215,node/6930917964,0,SAnode/6930917953
 -3.9084989,Cité Hévéas,5.364481,node/6930917965,0,SAnode/6930917952
@@ -2420,6 +2427,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -4.0333199,Terminus bus 51/52,5.4148488,node/6281030720,0,SAnode/6281030720
 -4.0943199,Carrefour Marché,5.3202551,node/6913201910,0,SAnode/6913201910
 -3.9707407,Grand carrefour de Koumassi,5.2892136,SAnode/6819329085,1,
+-4.0745628,Marche Sicogi,5.3395304,node/6913190458,0,SAnode/6913190458
 -3.9973698,"ENA Cocody, Boulevard Latrille",5.3616481,SAnode/4029208102,1,
 -4.0485819,PK 18 Agripac,5.4435976,node/6967074787,0,SAnode/6915722687
 -4.0391982,Arrêt,5.4381539,node/6967074785,0,SAnode/6967070484
@@ -2501,7 +2509,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9598243,Arrêt Pharmacie Palmeraie,5.3635731,node/6955514934,0,SAnode/6955514934
 -3.973691,Hôtel Ibis Marcory,5.2916293,node/6819329185,0,SAnode/6819329086
 -4.0134249,Ciprel,5.260642,SAnode/6945966271,1,
--4.0138507,Rue du Canal,5.2649101,SAnode/6945966272,1,
+-4.1003513,Arret de bus,5.3419897,SAnode/5934409413,1,
 -4.0197301,Arrêt,5.4255661,node/6967158577,0,SAnode/6910797790
 -4.0060763,Rue des Pétroliers,5.2688363,SAnode/6945966275,1,
 -3.9592516,Arrêt,5.3685488,node/6955514939,0,SAnode/6955514935
@@ -2517,7 +2525,7 @@ stop_lon,stop_name,stop_lat,stop_id,location_type,parent_station
 -3.9117702,Feh Kessé,5.3743039,SAnode/6969371620,1,
 -4.0063262,HMA,5.382931,SAnode/6902639009,1,
 -4.0060126,Vidange,5.3851864,SAnode/6902639008,1,
--4.0266778,Arrêt,5.4333404,node/6915722685,0,SAnode/6905344267
+-4.0037743,Saint Jean,5.3368705,SAnode/3326195828,1,
 -4.0734547,Figayo,5.3493507,SAnode/3950172145,1,
 -4.0007897,Marché de Cocody,5.3356901,SAnode/6907141797,1,
 -4.0181049,Gare Sud,5.3145043,SAnode/6474137967,1,
