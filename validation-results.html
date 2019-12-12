@@ -29,59 +29,53 @@ GTFS validation results for feed:<br>
 FeedValidator extension used: None
 <br><br>
 <table>
-<tr><th class="header">Agencies:</th><td class="header"><a href="">Aqualines</a>, <a href="http://sotra.ci/">Société des transports abidjanais (SOTRA) S.A.</a></td></tr>
-<tr><th class="header">Routes:</th><td class="header">110</td></tr>
-<tr><th class="header">Stops:</th><td class="header">2560</td></tr>
-<tr><th class="header">Trips:</th><td class="header">215</td></tr>
-<tr><th class="header">Shapes:</th><td class="header">215</td></tr>
+<tr><th class="header">Agencies:</th><td class="header"><a href="https://fr-fr.facebook.com/STL.ABIDJAN/">STL</a>, <a href="https://www.facebook.com/aqualinesbycitrans/">Aqualines</a>, <a href="http://www.sotra.ci">SOTRA</a>, <a href="https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan">Divers opérateurs</a></td></tr>
+<tr><th class="header">Routes:</th><td class="header">128</td></tr>
+<tr><th class="header">Stops:</th><td class="header">1754</td></tr>
+<tr><th class="header">Trips:</th><td class="header">251</td></tr>
+<tr><th class="header">Shapes:</th><td class="header">251</td></tr>
 <tr><th class="header">Effective:</th><td class="header">January 01, 2019 to December 31, 2019</td></tr>
 </table>
 <br>
-During the upcoming service dates Mon Dec 09 to Mon Dec 30:
+During the upcoming service dates Thu Dec 12 to Mon Dec 30:
 <table>
-<tr><th class="header">Average trips per date:</th><td class="header">6717</td></tr>
-<tr><th class="header">Most trips on a date:</th><td class="header">6721, on 19 service dates (Mon Dec 09, Tue Dec 10, Wed Dec 11, ...)</td></tr>
-<tr><th class="header">Least trips on a date:</th><td class="header">6695, on 3 service dates (Thu Dec 12, Thu Dec 19, Thu Dec 26)</td></tr>
+<tr><th class="header">Average trips per date:</th><td class="header">9646</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">9646, on 19 service dates (Thu Dec 12, Fri Dec 13, Sat Dec 14, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">9646, on 19 service dates (Thu Dec 12, Fri Dec 13, Sat Dec 14, ...)</td></tr>
 </table>
 <br>
 <span class="fail">Found these problems:</span>
 <table class="count_outside">
-<tr><td><span class="fail">1 error</span></td><td><span class="fail">298 warnings</span></td></tr>
+<tr><td><span class="fail">5 warnings</span></td></tr>
 <tr><td>
-<table><tr><td>1</td><td><a href="#ErrorMissingValue">Missing Value</a></td></tr>
-</table>
-</td>
-<td>
 <table><tr><td>1</td><td><a href="#WarningExpirationDate">Expiration Date</a></td></tr>
+<tr><td>1</td><td><a href="#WarningInvalidValue">Invalid Value</a></td></tr>
 <tr><td>1</td><td><a href="#WarningNoServiceExceptions">No Service Exceptions</a></td></tr>
-<tr><td>296</td><td><a href="#WarningStopTooFarFromParentStation">Stop Too Far From Parent Stations</a></td></tr>
+<tr><td>1</td><td><a href="#WarningStopsTooClose">Stops Too Close</a></td></tr>
+<tr><td>1</td><td><a href="#WarningTooFastTravel">Too Fast Travel</a></td></tr>
 </table>
 </td>
 </table>
 <br><br>
-<h3 class="issueHeader">Errors:</h3><h4 class="issueHeader"><a name="ErrorMissingValue">Missing Value</a></h4><ul>
-<li><div class="problem">Missing value for column <code>agency_url</code></div>in line 2 of <code>agency.txt</code><br>
-<table class="dump"><tr><th class="problem">agency_url</th><th>agency_name</th><th>agency_id</th><th>agency_timezone</th><th>agency_lang</th></tr>
-<tr><td class="problem"></td><td>Aqualines</td><td>Aqualines</td><td>Africa/Abidjan</td><td></td></tr></table>
-<br></li>
-</ul>
 <h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningExpirationDate">Expiration Date</a></h4><ul>
 <li><div class="problem">This feed will soon expire, on December 31, 2019 (feed_end_date in feed_info.txt)</div><br></li>
+</ul>
+<h4 class="issueHeader"><a name="WarningInvalidValue">Invalid Value</a></h4><ul>
+<li><div class="problem">Invalid value gbaka : adjamé liberté ↔ abobo gare mairie in field <code>route_long_name</code><br>The same combination of route_short_name and route_long_name shouldn't be used for more than one route, as it is for the for the two routes with IDs "10179435" and "10184139".</div><br></li>
 </ul>
 <h4 class="issueHeader"><a name="WarningNoServiceExceptions">No Service Exceptions</a></h4><ul>
 <li><div class="problem">All services are defined on a weekly basis from 2019-01-01 to 2019-12-31 with no single day variations. If there are exceptions such as holiday service dates please ensure they are listed in calendar_dates.txt</div><br></li>
 </ul>
-<h4 class="issueHeader"><a name="WarningStopTooFarFromParentStation">Stop Too Far From Parent Station</a></h4><ul>
-<li><div class="problem">Arrêt (ID node/6926746750) is too far from its parent station Arrêt (ID SAnode/6915341528) : 498.72 meters.</div><br></li>
-<li><div class="problem">Arrêt (ID node/6939014892) is too far from its parent station Arrêt (ID SAnode/6939014891) : 497.30 meters.</div><br></li>
-<li><div class="problem">Arrêt (ID node/6938324871) is too far from its parent station Arrêt (ID SAnode/6938324870) : 497.01 meters.</div><br></li>
-<li><div class="problem">Arrêt (ID node/6915341544) is too far from its parent station Arrêt (ID SAnode/6910797820) : 496.35 meters.</div><br></li>
-<li><div class="problem">Arrêt (ID node/6919758026) is too far from its parent station Arrêt (ID SAnode/6919758025) : 496.17 meters.</div><br></li>
-<li>and 291 more of this type.</ul>
+<h4 class="issueHeader"><a name="WarningStopsTooClose">Stops Too Close</a></h4><ul>
+<li><div class="problem">The stops "Parmacie St Bernard" (ID node/5958266389) and "Pharmacie Saint Bernard" (ID node/6903968407) are 1.83m apart and probably represent the same location.</div><br></li>
+</ul>
+<h4 class="issueHeader"><a name="WarningTooFastTravel">Too Fast Travel</a></h4><ul>
+<li><div class="problem">High speed travel detected in trip 228: Arrêt du CHU to Arrêt du CHU. 0 meters in 0 seconds.</div><br></li>
+</ul>
 
 <div class="footer">
 Generated by <a href="https://github.com/google/transitfeed/wiki/FeedValidator">
-FeedValidator</a> version 1.2.16 on December 09, 2019 at 08:15 PM UTC.
+FeedValidator</a> version 1.2.16 on December 12, 2019 at 05:59 PM UTC.
 </div>
 </body>
 </html>

@@ -1,3 +1,5 @@
 agency_url,agency_name,agency_id,agency_timezone,agency_lang
-,Aqualines,Aqualines,Africa/Abidjan,
-http://sotra.ci/,Société des transports abidjanais (SOTRA) S.A.,SOTRA,Africa/Abidjan,fr
+https://fr-fr.facebook.com/STL.ABIDJAN/,STL,STL,Africa/Abidjan,
+https://www.facebook.com/aqualinesbycitrans/,Aqualines,Aqualines,Africa/Abidjan,
+http://www.sotra.ci,SOTRA,SOTRA,Africa/Abidjan,
+https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Divers opérateurs,divers,Africa/Abidjan,fr
