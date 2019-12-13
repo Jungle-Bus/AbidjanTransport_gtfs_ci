@@ -160,7 +160,6 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.357433,-3.8879555,node/6948466339,,Pharmacie Du Marché,0
 5.357652,-3.8895766,node/6948466338,,La Poste,0
 5.353946,-3.9767852,node/6948466331,,Arrêt,0
-5.3090218,-4.0069793,node/6905719611,,[Arret sans nom],0
 5.3732347,-3.9273548,node/6948466333,,Arrêt,0
 5.3560356,-3.9695473,node/6948466332,,Arrêt,0
 5.3738883,-3.9116914,node/6948466335,,Késsé,0
@@ -171,6 +170,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3464621,-3.9946557,node/6908599212,,Gare Campus Cocody,0
 5.4148038,-4.0334697,node/6944920986,,Terminus bus 51/52,0
 5.3373639,-3.9533649,node/6951182059,,Arrêt,0
+5.3080275,-4.005442,node/6905719612,,Nanan Yamousso,0
 5.2948647,-4.004071,node/4999458824,,Terminus CHU Treichville,0
 5.4429021,-4.0144891,node/6903193216,,Mosquée,0
 5.4463091,-4.0144891,node/6903193217,,A l'étage,0
@@ -902,6 +902,8 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3149553,-4.0184346,node/6955514940,,Gare Sud,0
 5.3145043,-4.0181049,node/6474137967,,Gare Sud,0
 5.379605,-4.0068716,node/6927037629,,Arrêt,0
+5.3080062,-3.946713,node/6919758038,,Bon Samaritain,0
+5.3099762,-3.9473403,node/6919758039,,Pharmacie Fanny,0
 5.2921887,-3.9630926,node/6951224049,,Arrêt,0
 5.3154387,-4.01752,node/6969583476,,Gare Sud,0
 5.3147951,-4.0185824,node/6969583474,,Gare Sud,0
@@ -909,6 +911,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3472803,-4.0097992,node/6969583471,,Clinique Providence,0
 5.3202726,-4.015578,node/6969583479,,Arrêt,0
 5.3172748,-4.0151837,node/6969583478,,Arrêt,0
+5.2932236,-3.9690283,node/6919758030,,Arrêt,0
 5.3547793,-4.0029137,node/6903544089,,2ème pont,0
 5.3520361,-4.0141134,node/6903544088,,Adjamé Liberté,0
 5.3481387,-4.0180948,node/6903544087,,Maternité,0
@@ -1002,6 +1005,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3078566,-3.9888954,node/6930487819,,Arrêt,0
 5.3095505,-4.0439558,node/6910794085,,Santé Village,0
 5.3101983,-4.0353389,node/6910794088,,Gare Abobodoumé,0
+5.2940469,-3.965347,node/6919758031,,Arrêt,0
 5.3727101,-4.0961792,node/6909225533,,[Arret sans nom],0
 5.3437686,-4.0711802,node/5281604034,,[Arret sans nom],0
 5.2972737,-3.9619419,node/6917146079,,Arrêt,0
@@ -1263,8 +1267,8 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3741086,-4.0896792,node/6909430729,,JOMACO,0
 5.3400629,-4.0973067,node/3067766555,,Mosquée du Maroc,0
 5.3073425,-4.0116929,node/6905719610,,Pharmacie du Rond-point,0
-5.4126483,-4.0064133,node/6906575638,,ANADER,0
-5.3080275,-4.005442,node/6905719612,,Nanan Yamousso,0
+5.3090218,-4.0069793,node/6905719611,,[Arret sans nom],0
+5.3722754,-3.9301027,node/6948920967,,Nouveau Goudron,0
 5.3417243,-3.9220896,node/6948920961,,Arrêt,0
 5.3329487,-3.9227374,node/6948920960,,Arrêt,0
 5.3443775,-3.9222706,node/6948920962,,Arrêt,0
@@ -1551,6 +1555,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3521541,-3.99141,node/6945017053,,École de Police,0
 5.2914467,-3.9957435,node/6909039471,,Pharmacie Santé Publique,0
 5.2927793,-3.9984496,node/6909039470,,PTT Km4,0
+5.4126483,-4.0064133,node/6906575638,,ANADER,0
 5.3016585,-3.9778785,node/6917146084,,Cabinet Médical du 3ème pont,0
 5.2980069,-3.9712863,node/6917146082,,Pharmacie Bagoué,0
 5.300615,-3.9760119,node/6917146083,,Marché de Marcory,0
@@ -1577,10 +1582,6 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3397928,-3.9225573,node/6948855827,,Oribat Cité Don Mello,0
 5.3498507,-3.9233825,node/6948855826,,Collège Jeune Filles,0
 5.3532496,-3.924163,node/6948855825,,Arrêt,0
-5.3080062,-3.946713,node/6919758038,,Bon Samaritain,0
-5.3099762,-3.9473403,node/6919758039,,Pharmacie Fanny,0
-5.2932236,-3.9690283,node/6919758030,,Arrêt,0
-5.2940469,-3.965347,node/6919758031,,Arrêt,0
 5.2951953,-3.9603108,node/6919758032,,Arrêt,0
 5.2961324,-3.9565101,node/6919758033,,Arrêt,0
 5.297599,-3.9526269,node/6919758034,,Sogefia,0
@@ -1661,7 +1662,6 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3088407,-3.9840127,node/6909121487,,Gare Marcory,0
 5.305135,-4.0149536,node/6909108450,,arrêt,0
 5.29123,-3.9902017,node/6909108451,,Services Techniques du District,0
-5.3648148,-3.9976354,node/6912729878,,MACACI,0
 5.3213662,-4.0021925,node/7047101136,,Gare lagunaire de Blockauss Sotra,0
 5.4366266,-4.0307925,node/6905326503,,Château,0
 5.4148488,-4.0333199,node/6281030720,,Terminus bus 51/52,0
@@ -1676,7 +1676,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.4156671,-4.0037419,node/6903406998,,Eglise,0
 5.2380744,-3.888965,node/6937770657,,Collège privé les Cartésiens d'Abidjan,0
 5.2368898,-3.8798529,node/6937770654,,Anani,0
-5.2369172,-3.8749894,node/6937770655,,Arrêt,0
+5.2369172,-3.8749894,node/6937770655,,Anani,0
 5.2375957,-3.8845293,node/6937770652,,Pharmacie Bénediction,0
 5.2369286,-3.8802069,node/6937770653,,Anani,0
 5.2389973,-3.893671,node/6937770650,,Arrêt,0
@@ -1740,7 +1740,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3350719,-3.9973538,node/6913703799,,Maison du Parti,0
 5.3310059,-3.9970399,node/6913703798,,UCAO,0
 5.367356,-3.9983993,node/6912729879,,Mobil 2 Plateaux,0
-5.3722754,-3.9301027,node/6948920967,,Nouveau Goudron,0
+5.3648148,-3.9976354,node/6912729878,,MACACI,0
 5.3601195,-3.998725,node/6912729877,,SOCITECH,0
 5.3581253,-4.0012691,node/6912729876,,BMW,0
 5.329485,-3.9977011,node/6913703797,,CNTG-BNETD,0
