@@ -7,8 +7,8 @@ route_id,trip_id,service_id,shape_id,direction_id,trip_headsign
 10480360,341,Mo-Su,10480359,1,Gare Kobenan Agban
 10480446,342,Mo-Su,10480445,0,Yopougon Carrefour Académie
 10480446,343,Mo-Su,10480444,1,Gare Kobenan Agban
-5985016,348,Mo-Su,5985015,0,Gare Sud Plateau
-5985016,349,Mo-Su,5986717,1,Terminus Aéroport FHB
+10521453,348,Mo-Su,10521452,0,Bingerville
+10521453,349,Mo-Su,10521451,1,Adjame Agban
 10430197,298,Mo-Su,10430196,0,Abobo Azur Mobil
 10430197,299,Mo-Su,10430195,1,Cocody gare Saint Jean
 10430127,296,Mo-Su,10430126,0,Ndotre
@@ -256,6 +256,8 @@ route_id,trip_id,service_id,shape_id,direction_id,trip_headsign
 10261222,162,Mo-Su,10261221,0,Bingerville
 10261222,163,Mo-Su,10261220,1,La Vie
 10184139,9,Mo-Su,10184124,1,Adjamé Liberté
+5985016,351,Mo-Su,5986717,1,Terminus Aéroport FHB
+5985016,350,Mo-Su,5985015,0,Gare Sud Plateau
 10291228,216,Mo-Su,10291227,0,Hôtel de Ville
 10291228,217,Mo-Su,10291226,1,Saint André
 10290876,214,Mo-Su,8778704,0,Riviera 2

@@ -130,10 +130,11 @@ route_type,route_id,route_short_name,route_long_name,agency_id,route_desc,route_
 3,10190159,14,Gare Marcory ↔ Gare Williamsville,SOTRA,,1779c2,ffffff
 3,10290233,708,Plateau Gare Sud ↔ La Vie,SOTRA,,1779c2,ffffff
 3,10187611,04,Gare Marcory ↔ Attécoubé,SOTRA,,1779c2,ffffff
-3,10476005,Doublons de la ligne 187,Akouedo Attié ↔ Adjamé gare en haut,divers,,1779c2,ffffff
+3,10476005,,gbaka : Adjamé gare en haut ↔ Akouedo Attié,divers,,1779c2,ffffff
 3,10247522,68,Gare Koumassi ↔ Anani,SOTRA,,1779c2,ffffff
 3,10241381,76,Cité Administrative ↔ PK 18 (Abobo),SOTRA,,1779c2,ffffff
 3,10179435,,gbaka : Adjamé ↔ Abobo Gare Mairie,divers,,1779c2,ffffff
+3,10521453,,gbaka : Adjame Agban ↔ Bingerville,divers,,1779c2,ffffff
 3,10271088,50,Gare Koumassi ↔ Gare Nord,SOTRA,,1779c2,ffffff
 3,10286458,211,Terminus Gonzagueville ↔ Cité Administrative,SOTRA,,1779c2,ffffff
 3,10416510,,woro woro : Palmeraie ↔ Les Rosiers,divers,,1779c2,ffffff
