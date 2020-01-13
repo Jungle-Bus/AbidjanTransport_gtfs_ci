@@ -15,7 +15,7 @@ route_type,route_id,route_short_name,route_long_name,agency_id,route_desc,route_
 3,10270241,33,Gare Sud Plateau ↔ Koumassi Akromiambla,SOTRA,,1779c2,ffffff
 3,10301478,29,Port-Bouet derrière warf ↔ Gare Nord,SOTRA,,1779c2,ffffff
 3,10411047,,gbaka : Yopougon gare Gesco ↔ Adjamé Agban,divers,,1779c2,ffffff
-3,10235433,28,Gare Sud ↔ M'pouto - CIAD,SOTRA,,1779c2,ffffff
+3,10235433,28,Gare Sud ↔ Riviera 2,SOTRA,,1779c2,ffffff
 4,10395178,502,Treichville ↔ Blockauss,SOTRA,,1779c2,ffffff
 3,10260743,78,Gare Nord ↔ M'badon,SOTRA,,1779c2,ffffff
 3,10211372,84,Gare Nord ↔ Blockauss,SOTRA,,1779c2,ffffff
@@ -48,9 +48,10 @@ route_type,route_id,route_short_name,route_long_name,agency_id,route_desc,route_
 3,10413686,,woro woro : Abobo Azur Mobil ↔ Angré Château,divers,,1779c2,ffffff
 3,10461307,,gbaka : Carrefour JAUG ↔ Adjamé Nouvelle Gare,divers,,1779c2,ffffff
 3,10442364,,gbaka : Yopougon Sideci IGES ↔ Adjamé Liberté,divers,,1779c2,ffffff
-4,10464893,A,Yopougon (Abobo Doumé) ↔ Plateau,Citrans,,1779c2,ffffff
+4,10464893,,bateau-bus : Yopougon (Abobo Doumé) ↔ Plateau,Citrans,,1779c2,ffffff
 3,10431102,,woro woro : Zoo ↔ Attoban,divers,,1779c2,ffffff
 3,10430593,,woro woro : Zoo ↔ Aghien,divers,,1779c2,ffffff
+3,10408669,,woro woro : Riviera 2 ↔ Angré Terminus 81-82,divers,,1779c2,ffffff
 3,10261637,21,CHU Treichville ↔ Dépôt Cocody,SOTRA,,1779c2,ffffff
 3,10301548,48,Abobo Gendarmerie ↔ Saint Jean,SOTRA,,1779c2,ffffff
 3,10476178,,gbaka : Gare Kobenan Agban ↔ Bingerville,divers,,1779c2,ffffff
@@ -64,6 +65,7 @@ route_type,route_id,route_short_name,route_long_name,agency_id,route_desc,route_
 3,10240676,77,Micao Youpougon ↔ Abobo Gendarmerie,SOTRA,,1779c2,ffffff
 3,10241191,36,Yopougon Abobo Doumé ↔ Gare Nord,SOTRA,,1779c2,ffffff
 3,10231465,10,Gare Sud Plateau ↔ Gare nord Adjamé,SOTRA,,1779c2,ffffff
+3,9589447,15,Quai 15 Gare SOTRA Abobo Sogefiha ↔ Terminus 15 Gare Sud SOTRA Plateau,SOTRA,,1779c2,ffffff
 3,10240686,12,Port-Bouët Phare ↔ Gare nord,SOTRA,,1779c2,ffffff
 3,10430127,,gbaka : Abobo Gare ↔ Ndotre,divers,,1779c2,ffffff
 3,10185403,,gbaka : Adjamé gare en haut ↔ Cocody Attoban Camp,divers,,1779c2,ffffff
@@ -72,14 +74,14 @@ route_type,route_id,route_short_name,route_long_name,agency_id,route_desc,route_
 3,10434093,728,Yopougon Lubafrique ↔ Ecole de police,SOTRA,,1779c2,ffffff
 3,10234049,25,Gare Sud ↔ Koumassi Sicogi - Dépôt SOTRA,SOTRA,,1779c2,ffffff
 3,10173635,37,Gare Sud ↔ Yopougon Camp Militaire,SOTRA,,1779c2,ffffff
-3,10413253,15,Adjamé Mairie Dallas ↔ Adjamé Liberté,divers,,1779c2,ffffff
+3,10413253,,woro woro : Adjamé Liberté ↔ Adjamé Mairie Dallas,divers,,1779c2,ffffff
 3,10460517,,gbaka : BC ↔ Adjamé Nouvelle Gare,divers,,1779c2,ffffff
 3,10247373,61,Ebimpé ↔ Ebimpé,SOTRA,,1779c2,ffffff
 3,10220245,44,Abobo Doumé ↔ Yopougon Cité Verte,SOTRA,,1779c2,ffffff
 3,10402518,,gbaka : Adjamé gare en haut ↔ Cocody Anono,divers,,1779c2,ffffff
 3,10416736,,woro woro : Carrefour 9km ↔ Palmeraie SIPIM 4,divers,,1779c2,ffffff
 3,10246874,52,Campus Cocody ↔ Abobo Sagbé,SOTRA,,1779c2,ffffff
-3,10408669,1,Riviera 2 ↔ Angré Terminus 81-82,divers,,1779c2,ffffff
+3,10406621,1,Koumassi ↔ Adjamé Liberté,divers,,1779c2,ffffff
 3,10459360,,gbaka : Yopougon Niangon Terminus 27 ↔ Adjamé mosquée,divers,,1779c2,ffffff
 3,10233569,610,Adjamé Liberté ↔ Bingerville,SOTRA,,1779c2,ffffff
 3,10265827,18,Plateau Gare Sud ↔ Centre Pilote Port-Bouët,SOTRA,,1779c2,ffffff
@@ -90,9 +92,10 @@ route_type,route_id,route_short_name,route_long_name,agency_id,route_desc,route_
 3,10256167,51,Cité Administrative ↔ Abobo Sagbé,SOTRA,,1779c2,ffffff
 3,10412781,,woro woro : Zoo ↔ Sococe Deux plateaux,divers,,1779c2,ffffff
 3,10266864,31,Commissariat Port ↔ Marcory Alliodan,SOTRA,,1779c2,ffffff
+3,10406129,,gbaka : Treichville Gare de Bassam ↔ Port-Bouët Gonzagueville,divers,,1779c2,ffffff
 3,10409714,,gbaka : Adjamé Liberté ↔ Carrefour Lokoa,divers,,1779c2,ffffff
 3,10403061,,gbaka : Adjamé Texaco ↔ Yopougon Kowët,divers,,1779c2,ffffff
-3,10408694,2,Riviera 2 ↔ Angré 22ème,divers,,1779c2,ffffff
+3,10408694,,woro woro : Riviera 2 ↔ Angré 22ème,divers,,1779c2,ffffff
 3,10397199,773,Gare Sud ↔ Bingerville,SOTRA,,1779c2,ffffff
 3,10206969,42,Abobo Doumé ↔ Yopougon Sideci,SOTRA,,1779c2,ffffff
 3,10474747,,gbaka : Gare kobenan Agban ↔ Yopougon Lubafrique,divers,,1779c2,ffffff
@@ -103,10 +106,11 @@ route_type,route_id,route_short_name,route_long_name,agency_id,route_desc,route_
 3,10184964,,gbaka : Abobo Gare Mairie ↔ Kennedy Marché,divers,,1779c2,ffffff
 3,10220807,92,Gare Nord ↔ Gare Koumassi,SOTRA,,1779c2,ffffff
 3,10206986,611,CHU Angré ↔ Gendarmerie Abobo,SOTRA,,1779c2,ffffff
+4,10465035,,bateau-bus : Abatta ↔ Plateau,Citrans,,1779c2,ffffff
 3,10270989,34,Yopougon Gesco ↔ Cité Administrative,SOTRA,,1779c2,ffffff
 3,10192143,02,Cité Fairmont ↔ Gare Marcory,SOTRA,,1779c2,ffffff
 3,10283796,718,Gonzagueville ↔ Adjamé Liberté,SOTRA,,1779c2,ffffff
-3,10408727,3,Riviera 2 ↔ Attoban Camp,divers,,1779c2,ffffff
+3,10408727,,woro woro : Riviera 2 ↔ Attoban Camp,divers,,1779c2,ffffff
 3,10192153,20,Gare Sud ↔ Yopougon Micao,SOTRA,,1779c2,ffffff
 3,10461146,,gbaka : Abobo Gare ↔ Angre Petro Ivoire,divers,,1779c2,ffffff
 3,10300549,616,Gare Nord Adjamé ↔ Abatta Village,SOTRA,,1779c2,ffffff
@@ -122,7 +126,7 @@ route_type,route_id,route_short_name,route_long_name,agency_id,route_desc,route_
 4,10394941,901,Treichville ↔ Koumassi,STL,,1779c2,ffffff
 3,10480446,,gbaka : Gare Kobenan Agban ↔ Yopougon Carrefour Académie,divers,,1779c2,ffffff
 3,10459458,,gbaka : Gare Kobenan Agban ↔ Yopougon marché Bagnon,divers,,1779c2,ffffff
-3,10408771,16,Treichville Gare de Bassam ↔ Treichville Gare Bateau-bus,divers,,1779c2,ffffff
+3,10408771,,woro woro : Treichville Gare de Bassam ↔ Treichville Gare Bateau-bus,divers,,1779c2,ffffff
 3,10265924,41,M'pouto ↔ Adjamé Liberté,SOTRA,,1779c2,ffffff
 3,10289989,710,La Vie ↔ Feh Kesse,SOTRA,,1779c2,ffffff
 3,10409494,,gbaka : Adjamé Renault ↔ Abobo Gare Mairie,divers,,1779c2,ffffff
@@ -138,6 +142,7 @@ route_type,route_id,route_short_name,route_long_name,agency_id,route_desc,route_
 3,10271088,50,Gare Koumassi ↔ Gare Nord,SOTRA,,1779c2,ffffff
 3,10286458,211,Terminus Gonzagueville ↔ Cité Administrative,SOTRA,,1779c2,ffffff
 3,10416510,,woro woro : Palmeraie ↔ Les Rosiers,divers,,1779c2,ffffff
+3,10408836,,woro woro : Yopougon Gabriel gare ↔ Yopougon Micao,divers,,1779c2,ffffff
 3,10412424,,woro woro : Zoo ↔ Vallon,divers,,1779c2,ffffff
 3,10404238,,gbaka : Adjamé gare en haut ↔ Cocody Akouédo,divers,,1779c2,ffffff
 3,10235280,209,Gandhi ↔ Gare Sud,SOTRA,,1779c2,ffffff
@@ -165,6 +170,7 @@ route_type,route_id,route_short_name,route_long_name,agency_id,route_desc,route_
 3,10480461,,gbaka : Yopougon Carrefour Académie ↔ Adjamé mosquée,divers,,1779c2,ffffff
 3,10185169,,gbaka : Adjamé gare en haut ↔ Cocody Riviera M'badon,divers,,1779c2,ffffff
 3,10266646,26,Gare Koumassi ↔ Gare Nord,SOTRA,,1779c2,ffffff
+3,10228047,16,Gare Nord ↔ Abobo Biabou,SOTRA,,1779c2,ffffff
 3,10413050,,woro woro : Abobo Azur Mobil ↔ Nouveau Chu Angré,divers,,1779c2,ffffff
 3,10282981,716,Grand carrefour Koumassi ↔ Carrefour Palmeraie (Riviera III),SOTRA,,1779c2,ffffff
 3,10212448,30,Gare Sud ↔ Yopougon Kouté,SOTRA,,1779c2,ffffff

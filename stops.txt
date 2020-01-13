@@ -65,6 +65,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.328364,-3.9479502,node/6933080253,,Pharmacie M'pouto,0
 5.3284154,-3.9401878,node/6933080258,,Mosquée Cité Eden,0
 5.4350792,-4.0127537,node/6474139031,,Cité Universitaire Abobo,0
+5.4354761,-4.0154322,node/6474139033,,Quai 15,0
 5.4102497,-3.984559,node/6932253479,,Arrêt,0
 5.4127978,-3.9808642,node/6932253478,,Angré Château,0
 5.4186623,-4.0060106,node/6903296477,,Carrefour Kennedy,0
@@ -75,11 +76,26 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3580852,-3.9641507,node/6815808830,,Station Shell Riviera 3,0
 5.3233739,-4.0925668,node/6913201901,,EPP Niangon,0
 5.3513262,-4.0170747,node/6908914490,,Liberté,0
+5.422222,-3.9904401,node/6926746761,,Arrêt,0
+5.4196603,-3.9908193,node/6926746760,,Sotra,0
+5.43368,-3.9886816,node/6926746763,,Arrêt,0
+5.4265157,-3.9898619,node/6926746762,,Arrêt,0
+5.4402786,-3.9850082,node/6926746765,,Arrêt,0
+5.4374054,-3.9873449,node/6926746764,,Arrêt,0
+5.4451883,-3.9785569,node/6926746767,,Arrêt,0
+5.443381,-3.9807703,node/6926746766,,Arrêt,0
 5.3458217,-3.9505483,node/6903347584,,2ème rond-point,0
 5.3419897,-4.1003513,node/5934409413,,Arrêt,0
 5.3384154,-3.9427407,node/6903347580,,2 poteaux,0
 5.3461517,-3.9471733,node/6903347583,,École,0
 5.345935,-3.9457017,node/6903347582,,Carrefour Akouédo,0
+5.3468223,-3.9752188,node/6948695740,,Arrêt,0
+5.343802,-3.9750874,node/6948695741,,Arrêt,0
+5.3416148,-3.9760651,node/6948695742,,Arrêt,0
+5.3397193,-3.9757586,node/6948695743,,Arrêt,0
+5.3385022,-3.9754911,node/6948695744,,Arrêt,0
+5.3344937,-3.9902714,node/6948695745,,Arrêt,0
+5.3349056,-3.9957176,node/6948695746,,Arrêt,0
 5.348406,-4.0732683,node/7076835397,,Cosmos Yopougon,0
 5.3052353,-4.007007,node/6952200475,,Arrêt,0
 5.3029158,-4.0061849,node/6933231057,,Pharmacie de l'Avenue 27,0
@@ -144,6 +160,8 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.35345,-4.015528,node/6906596960,,Adjamé Liberté,0
 5.3100359,-4.0060884,node/6906596961,,Nanan Yamousso,0
 5.3337753,-4.0550937,node/6913190452,,La Poste,0
+5.2924331,-3.9752094,node/7054999103,,Ibis Marcory,0
+5.2922114,-3.9740923,node/7054999100,,Ibis Marcory,0
 5.2998444,-3.9983918,node/6906596965,,Collège Moderne Autoroute,0
 5.3202551,-4.0943199,node/6913201910,,Carrefour Marché,0
 5.3233885,-4.0926667,node/6913201911,,EPP Niangon,0
@@ -275,12 +293,16 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.41527,-4.0068417,node/6906590691,,Samake,0
 5.335819,-3.9767155,node/6820855646,,Ambassade des USA,0
 5.3309825,-3.9728877,node/6820855647,,Hotel du Golf,0
+5.2994752,-4.0026612,node/7054593081,,Gare de bassam,0
 5.3310297,-3.9730064,node/6820855648,,Hotel du Golf,0
 5.3312498,-3.9579229,node/6820855649,,Ex Terminus Sotra;Carrefour Sol Beni,0
 5.2891307,-4.0082905,node/6967158580,,Pharmacie du Port,0
 5.3470567,-4.0884501,node/3666057101,,Pharmacie Port-Bouët II,0
 5.3573882,-3.8872746,node/7083191185,,CIE,0
 5.2857761,-3.9543311,node/6931792548,,Arrêt,0
+5.239249,-3.8965698,node/7054593068,,Gonzagueville - Corridor,0
+5.239452,-3.8968273,node/7054593066,,Gonzagueville - Corridor,0
+5.2412776,-3.9084828,node/7054593065,,Marché Jean folly,0
 5.3074119,-4.0117713,node/6931792543,,Pharmacie du Rond-point,0
 5.3090558,-4.0071049,node/6931792544,,[Arret sans nom],0
 5.2889971,-3.9672808,node/6931792545,,Centre comercial Koumassi,0
@@ -313,6 +335,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3001329,-3.9494388,node/6917146073,,Gare Mesano,0
 5.3999811,-4.003952,node/7058225058,,Azur 2,0
 5.3998756,-3.9992702,node/7058225059,,Geo-Beton,0
+5.2862983,-3.9702836,node/7054593075,,Grand Carrefour de Koumassi - Après le feu,0
 5.3540868,-4.0177184,node/7055147061,,Adjamé Texaco,0
 5.3604967,-4.0276406,node/7055147060,,En bas du pont,0
 5.3603818,-3.9617569,node/7060277177,,Warren Palmeraie,0
@@ -446,8 +469,16 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.399963,-3.9570893,node/6910797804,,CHU Angré,0
 5.4003923,-3.9592423,node/6910797807,,Arrêt,0
 5.3997812,-3.9570173,node/6910797806,,CHU Angré,0
+5.3003252,-3.9894412,node/7054593079,,Grand Carrefour de Marcory,0
 5.3672689,-3.9796695,node/6903968407,,Pharmacie Saint Bernard,0
+5.2690216,-3.9621313,node/7054593074,,Akwaba - Station Total,0
 5.3655779,-3.9794498,node/6903968408,,Carrefour garage,0
+5.2888222,-3.9709514,node/7054593076,,Grand Carrefour de Koumassi - Avant le feu,0
+5.3000261,-3.9889035,node/7054593077,,Gare de bassam,0
+5.2416175,-3.9120106,node/7054593070,,Mosquée Sylla,0
+5.2423247,-3.9165281,node/7054593071,,Casier,0
+5.246864,-3.9446484,node/7054593072,,Après le pont,0
+5.2667851,-3.9614162,node/7054593073,,Akwaba - Rond-Point,0
 5.38365,-3.9824142,node/7066277285,,Termunis Aghien,0
 5.3540087,-4.0166228,node/7058310543,,Adjamé Liberté,0
 5.3414766,-4.0256196,node/7058310541,,Adjame Mairie-Dallas,0
@@ -622,6 +653,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3933681,-3.9736088,node/6910797811,,Arrêt,0
 5.4042516,-3.9898295,node/6910797818,,Arrêt,0
 5.4070126,-3.9911934,node/6910797819,,Saint Ambroise,0
+5.2987194,-4.0014656,node/7054593049,,Grand Carrefour de Treichville,0
 5.347056,-4.0307164,node/7085040030,,Arrêt Mouton,0
 5.297832,-4.014139,node/7085040033,,Cimivoire,0
 5.3293417,-3.9332267,node/6903347575,,Nouveau marché,0
@@ -797,6 +829,16 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.4189547,-4.0141176,node/6935401284,,Arrêt,0
 5.2509145,-3.9560491,node/6980258130,,Terminus Port-Bouët Phare,0
 5.403546,-4.0181825,node/6979256984,,Arrêt,0
+5.2863103,-3.9700744,node/7054593056,,Grand Carrefour de Koumassi,0
+5.2821639,-3.9691208,node/7054593057,,Koumassi - Gendarmerie,0
+5.2957328,-3.9806651,node/7054593054,,Échangeur Marcory,0
+5.2915945,-3.9731844,node/7054593055,,Hôpital Ibis,0
+5.3006443,-3.9893769,node/7054593052,,Grand Carrefour de Marcory,0
+5.2985331,-3.9856721,node/7054593053,,Cap Sud,0
+5.2998985,-3.9982536,node/7054593050,,Feux Collège Autoroute,0
+5.3004494,-3.9967114,node/7054593051,,Solibra,0
+5.2760791,-3.9660276,node/7054593058,,Ancien Koumassi,0
+5.2593053,-3.958447,node/7054593059,,Carrefour Mosquée,0
 5.3552565,-4.0867444,node/6909812229,,[Arret sans nom],0
 5.3572641,-4.0849641,node/6909812228,,Carrefour Zone,0
 5.3281463,-3.9195342,node/6979712503,,Arrêt,0
@@ -1617,6 +1659,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.4378844,-4.0351391,node/6905344265,,Arrêt Centre Bus,0
 5.4446991,-4.0143429,node/6934922727,,Arrêt,0
 5.3284442,-3.9410686,node/5143751833,,Terminus M'pouto - CIAD,0
+5.3563174,-4.0717421,node/7056274249,,Gabriel Gare,0
 5.3471108,-4.0344246,node/6905719624,,Commissariat du 10ᵉ arrondissement,0
 5.4339703,-4.012329,node/6908728765,,[Arret sans nom],0
 5.4273213,-4.0162121,node/6908728767,,[Arret sans nom],0
@@ -1773,10 +1816,14 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3538358,-3.9777998,node/7056202800,,Riviera 2,0
 5.4000018,-4.0061853,node/7058185549,,Mobil Azur,0
 5.3583363,-3.8843503,node/6930917958,,Espace Orange,0
+5.3810256,-4.0955186,node/7056274254,,Pharmacie Micao,0
 5.3596047,-3.9620358,node/6915696795,,Chic Shop,0
+5.3562386,-4.0717945,node/7056274256,,Gabriel Gare,0
 5.3504609,-3.9881605,node/6915696797,,École de Police,0
 5.3577741,-4.0741675,node/7056274250,,Sicomex,0
+5.3826599,-4.0947756,node/7056274251,,Micao,0
 5.3587403,-3.9635319,node/6915696792,,9 Kilo,0
+5.3826332,-4.0946871,node/7056274253,,Micao,0
 5.3320274,-4.0733314,node/7054787078,,Saguidiba,0
 5.3494956,-3.9916044,node/6915696798,,Carrefour CHU,0
 5.3493834,-3.994457,node/6915696799,,École de la Gendarmerie,0
@@ -1846,6 +1893,11 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.2585828,-3.965703,node/6935274794,,Marché,0
 5.4284112,-4.0222108,node/6905344268,,Gendarmerie,0
 5.3164439,-4.0893341,node/768587345,,Yopougon Niangon-Terminus 27,0
+5.242513,-3.9161177,node/7054593064,,Casier,0
+5.2418018,-3.9118704,node/7054593063,,Mosquée Sylla,0
+5.2470683,-3.9447315,node/7054593062,,Carrefour Aéroport,0
+5.2511455,-3.9553222,node/7054593061,,Port-Bouët Phare,0
+5.2565175,-3.9573392,node/7054593060,,43ème Bima,0
 5.2678334,-4.0031259,node/6910272309,,CPMA-Vridi,0
 5.4355472,-4.0202491,node/6474137929,,Camp Commando,0
 5.4382745,-4.0147435,node/6474137925,,Cours Sociaux,0
@@ -1931,6 +1983,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.2961604,-4.0033572,node/6916152426,,Arrêt du CHU,0
 5.2991407,-4.0024808,node/6916152427,,Gare de Bassam,0
 5.3599299,-4.0289535,node/7078209298,,Adjamé Nouvelle Gare,0
+5.3768899,-4.0946435,node/7056274255,,Carrefour Gargill,0
 5.4327081,-4.0133578,node/7078209296,,15ème Arrondissement,0
 5.4272496,-4.0186773,node/7078209297,,Collège Elites,0
 5.3195012,-4.0144649,node/6907121514,,CNPS,0
@@ -1950,6 +2003,8 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.495095,-4.0517794,node/6915722705,,Arrêt,0
 5.4940805,-4.0517658,node/6915722704,,Arrêt,0
 5.3560129,-3.8818196,node/7083153381,,Escalier,0
+5.4385456,-3.9864522,node/6926746750,,Arrêt,0
+5.4222388,-3.9903197,node/6926746751,,Arrêt,0
 5.3403169,-4.0479054,node/7083218795,,Pharmacie Notre Dame des Victoires,0
 5.4037764,-3.9853318,node/7058185557,,Terminus 81/82,0
 5.3892384,-4.078453,node/6934648723,,Arrêt,0
@@ -1989,7 +2044,14 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3671401,-4.1020437,node/5936892363,,Yopougon Gesco - Terminus du bus 34,0
 5.4211603,-4.0182616,node/7056562838,,Abobo Gare,0
 5.3574857,-3.9657802,node/6915696796,,Cap Nord,0
+5.35209,-3.9766203,node/6948695739,,Arrêt,0
 5.3530066,-3.9760919,node/6948695738,,Arrêt,0
+5.3346312,-3.9906777,node/6948695731,,Arrêt,0
+5.3414919,-3.9761442,node/6948695733,,Arrêt,0
+5.3396564,-3.9758237,node/6948695732,,Arrêt,0
+5.3470921,-3.975412,node/6948695735,,Arrêt,0
+5.3438403,-3.9751571,node/6948695734,,Arrêt,0
+5.3520693,-3.9767209,node/6948695736,,Arrêt,0
 5.4131456,-4.015971,node/6474137938,,Banco,0
 5.3641726,-4.0188664,node/6908914498,,Croix Bleue,0
 5.3653249,-4.0202826,node/6908914499,,Infirmerie Sinikeya,0
@@ -2136,6 +2198,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3959876,-4.0210712,node/6967070476,,Arrêt,0
 5.4118438,-4.016604,node/6967070477,,Arrêt,0
 5.2655592,-4.0007964,node/6967070473,,Arrêt,0
+5.3263049,-3.9211819,node/7079782626,,Gare lagunaire Aqualines Abatta,0
 5.2467278,-3.9424717,node/6937770647,,Arrêt,0
 5.2618319,-3.9594314,node/6937770646,,Arrêt,0
 5.2395482,-3.8973275,node/6937770649,,Arrêt,0
@@ -2156,6 +2219,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3478959,-4.0026565,node/6916181080,,Arrêt,0
 5.3700062,-3.9983308,node/6916181081,,Grande Pharmacie /Terminus 300FCFA,0
 5.3451185,-4.0634467,node/7052366521,,Centre Commercial,0
+5.4538834,-3.9737989,node/6926746749,,Arrêt,0
 5.3291271,-3.951901,node/6932239011,,Arrêt,0
 5.3286224,-3.9502595,node/6932239010,,CIAD,0
 5.3443655,-3.9526011,node/6932239013,,Carrefour Mel Theodore,0
@@ -2332,6 +2396,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3593604,-4.028861,node/7076835395,,Adjamé Nouvelle Gare,0
 5.4306474,-4.0200922,node/6474137931,,Station Shell,0
 5.4155963,-4.0019605,node/6926746758,,Arrêt,0
+5.4156232,-3.9928882,node/6926746759,,Arrêt,0
 5.4195782,-4.017465,node/6967158578,,Arrêt,0
 5.3053862,-4.0226068,node/6967158579,,Arrêt,0
 5.3368705,-4.0037743,node/3326195828,,Saint Jean,0
@@ -2357,6 +2422,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.2629757,-3.9635653,node/6938407501,,Hôpital Géneral de Port-Bouët,0
 5.3407344,-4.0646331,node/6913857611,,"Complexe Sportif, Yopougon",0
 5.3485715,-4.0031956,node/7051810979,,Carrefour La Vie,0
+5.3527876,-4.0145963,node/7054999108,,Adjamé Liberté,0
 5.315627,-3.952125,node/7046900012,,Gare Lagunaire Koumassi STL,0
 5.3808935,-3.964382,node/6955514937,,Cocody SCI Les Rosiers,0
 5.3166192,-4.0890048,node/7076835390,,Yopougon Niangon-Terminus 27,0
@@ -2371,6 +2437,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3574386,-3.9463048,node/7052994970,,Ancien Camp Akouedo,0
 5.4434752,-4.0485036,node/6915722687,,PK 18 Agripac,0
 5.3312516,-4.0560298,node/6933128807,,[Arret sans nom],0
+5.2993537,-3.9875966,node/7054999106,,Grand Carrefour de Marcory,0
 5.3589924,-3.978316,node/6903639373,,Doraville,0
 5.3532917,-3.9242797,node/6948920964,,Arrêt,0
 5.3876602,-3.9872687,node/7056202794,,Côte d'Ivoire Télécom,0
@@ -2388,12 +2455,14 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3601195,-3.998725,node/6912729877,,SOCITECH,0
 5.3581253,-4.0012691,node/6912729876,,BMW,0
 5.329485,-3.9977011,node/6913703797,,CNTG-BNETD,0
+5.296287,-3.9820196,node/7054999104,,Échangeur Marcory,0
 5.3072484,-4.005186,node/6899034708,,Pharmacie Nanan Yamousso,0
 5.3099574,-4.0061407,node/6899034709,,Après le pont,0
 5.2996481,-4.0022393,node/6899034705,,Gare de bassam,0
 5.3004143,-3.9997862,node/6899034706,,Gendarmerie,0
 5.303315,-4.0037983,node/6899034707,,Notre-dame,0
 5.3781977,-4.0062734,node/7058023900,,Gare Warren ZOO,0
+5.2978587,-3.9849244,node/7054999105,,Siège de Orange Côte d'Ivoire,0
 5.3299817,-4.0580978,node/6933128808,,[Arret sans nom],0
 5.3624675,-3.956674,node/7098748083,,Socoprix,0
 5.3685214,-3.9098829,node/7098748082,,Adaman,0
