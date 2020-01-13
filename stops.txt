@@ -303,7 +303,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3653423,-4.0295215,node/7056562832,,Garage en Haut,0
 5.3811191,-4.0237091,node/7056562833,,Cissé 1er,0
 5.429723,-4.014638,node/6908782550,,[Arret sans nom],0
-5.3396157,-4.0912463,node/3067761599,,Arret du Maroc,0
+5.3396157,-4.0912463,node/3067761599,,Arrêt du Maroc,0
 5.3582581,-3.9643623,node/5953580668,,Station Shell Riviera 3,0
 5.3618751,-3.9593077,node/5953580667,,Carrefour Palmeraie,0
 5.3802448,-3.967352,node/5953580661,,Pharmacie Val de Grace,0
@@ -1955,7 +1955,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3892384,-4.078453,node/6934648723,,Arrêt,0
 5.3088742,-3.984068,node/6907121515,,Gare Marcory,0
 5.3469185,-4.0892637,node/7055696184,,Carrefour Niangon,0
-5.3396078,-4.0893938,node/7055696183,,Carrefour CIE,0
+5.3396078,-4.0893938,node/7055696183,,Carrefour Cité CIE,0
 5.4979794,-4.0513918,node/6915722709,,Arrêt,0
 5.3276549,-4.0968034,node/7055696181,,Église Sainte-Rita,0
 5.327928,-4.0983658,node/7055696180,,Carrefour Marché,0
