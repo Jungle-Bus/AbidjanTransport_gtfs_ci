@@ -122,8 +122,16 @@ route_id,trip_id,service_id,shape_id,direction_id,trip_headsign
 10187611,23,Mo-Su,10186314,1,Attécoubé
 10190159,28,Mo-Su,10191926,0,Gare Marcory
 10190159,29,Mo-Su,10190158,1,Gare Williamsville
-9589447,401,Mo-Su,9589446,1,Terminus 15 Gare Sud SOTRA Plateau
-9589447,400,Mo-Su,9589445,0,Terminus 15 Gare SOTRA Abobo Sogefiha
+10651976,407,Mo-Su,10651974,1,Abobo Gendarmerie
+10651976,406,Mo-Su,10651975,0,Ndotre
+10651885,405,Mo-Su,10651883,1,Abobo Gare
+10651885,404,Mo-Su,10651884,0,BC
+10647737,403,Mo-Su,10647735,1,Anani
+10647737,402,Mo-Su,10647736,0,Marché de Port-Bouët
+10647596,401,Mo-Su,10647594,1,Marché de Port-Bouët
+10647596,400,Mo-Su,10647595,0,Vridi Canal
+10653426,409,Mo-Su,10653424,1,Abobo Gare
+10653426,408,Mo-Su,10653425,0,Biabou
 10476298,379,Mo-Su,10476296,1,Adjame Agban
 10476298,378,Mo-Su,10476297,0,Yopougon boassi
 10474495,371,Mo-Su,10474493,1,Gare Kobenan Agban
@@ -236,6 +244,16 @@ route_id,trip_id,service_id,shape_id,direction_id,trip_headsign
 10235433,127,Mo-Su,10235432,1,M'pouto - CIAD
 10235433,128,Mo-Su,10261631,0,Gare Sud
 10235433,129,Mo-Su,10261632,1,Riviera 2
+10653984,414,Mo-Su,10653983,0,Mahou/Azur
+10653984,415,Mo-Su,10653982,1,palmeraie
+5985016,416,Mo-Su,5985015,0,Gare Sud Plateau
+5985016,417,Mo-Su,5986717,1,Terminus Aéroport FHB
+10653562,410,Mo-Su,10653561,0,Houphouet-Boigny
+10653562,411,Mo-Su,10653560,1,Abobo Gare
+10653808,412,Mo-Su,10653807,0,Angre Petro Ivoire
+10653808,413,Mo-Su,10653806,1,Abobo Gare
+9589447,418,Mo-Su,9589445,0,Terminus 15 Gare SOTRA Abobo Sogefiha
+9589447,419,Mo-Su,9589446,1,Terminus 15 Gare Sud SOTRA Plateau
 10411047,319,Mo-Su,10412113,1,Yopougon gare Gesco
 10411047,318,Mo-Su,10411046,0,Adjamé Agban
 10409494,313,Mo-Su,10409492,1,Adjamé Renault
@@ -388,8 +406,8 @@ route_id,trip_id,service_id,shape_id,direction_id,trip_headsign
 10246667,156,Mo-Su,10246666,0,PK 18 (Abobo)
 10246746,159,Mo-Su,10290940,1,Gare Abobo Sogefiha
 10246746,158,Mo-Su,10246745,0,Gare Sud
-5985016,399,Mo-Su,5986717,1,Terminus Aéroport FHB
-5985016,398,Mo-Su,5985015,0,Gare Sud Plateau
+10647547,399,Mo-Su,10647545,1,Marché de Port-Bouët
+10647547,398,Mo-Su,10647546,0,Vridi Cité
 10206969,48,Mo-Su,10241038,0,Abobo Doumé
 10206969,49,Mo-Su,10206968,1,Yopougon Sideci
 10206110,46,Mo-Su,10206109,0,Gare Cité Administrative

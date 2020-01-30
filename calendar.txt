@@ -1,2 +1,2 @@
 service_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday
-Mo-Su,20190101,20191231,1,1,1,1,1,1,1
+Mo-Su,20200101,20201231,1,1,1,1,1,1,1
