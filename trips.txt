@@ -59,6 +59,14 @@ route_id,trip_id,service_id,shape_id,direction_id,trip_headsign
 10192153,36,Mo-Su,10192285,0,Gare Sud
 10192143,35,Mo-Su,10192310,1,Gare Marcory
 10192143,34,Mo-Su,10192050,0,Cité Fairmont
+9589447,436,Mo-Su,9589445,0,Terminus 15 Gare SOTRA Abobo Sogefiha
+9589447,437,Mo-Su,9589446,1,Terminus 15 Gare Sud SOTRA Plateau
+5985016,434,Mo-Su,5985015,0,Gare Sud Plateau
+5985016,435,Mo-Su,5986717,1,Terminus Aéroport FHB
+10677691,432,Mo-Su,10677689,0,Sans fil
+10677691,433,Mo-Su,10677690,1,Koumassi Hôpital général
+10677516,430,Mo-Su,10677515,0,Soweto
+10677516,431,Mo-Su,10677514,1,Koumassi grand marché
 10430197,339,Mo-Su,10430195,1,Saint Jean
 10430197,338,Mo-Su,10430196,0,Abobo Azur Mobil
 10416736,335,Mo-Su,10416734,1,Carrefour 9km
@@ -246,14 +254,14 @@ route_id,trip_id,service_id,shape_id,direction_id,trip_headsign
 10235433,129,Mo-Su,10261632,1,Riviera 2
 10653984,414,Mo-Su,10653983,0,Mahou/Azur
 10653984,415,Mo-Su,10653982,1,palmeraie
-5985016,416,Mo-Su,5985015,0,Gare Sud Plateau
-5985016,417,Mo-Su,5986717,1,Terminus Aéroport FHB
+10669276,416,Mo-Su,10669275,0,terminus 81-82
+10669276,417,Mo-Su,10669274,1,palmeraie
 10653562,410,Mo-Su,10653561,0,Houphouet-Boigny
 10653562,411,Mo-Su,10653560,1,Abobo Gare
 10653808,412,Mo-Su,10653807,0,Angre Petro Ivoire
 10653808,413,Mo-Su,10653806,1,Abobo Gare
-9589447,418,Mo-Su,9589445,0,Terminus 15 Gare SOTRA Abobo Sogefiha
-9589447,419,Mo-Su,9589446,1,Terminus 15 Gare Sud SOTRA Plateau
+10670070,418,Mo-Su,10670069,0,Port de Pêche
+10670070,419,Mo-Su,10670068,1,Marché de Port-Bouët
 10411047,319,Mo-Su,10412113,1,Yopougon gare Gesco
 10411047,318,Mo-Su,10411046,0,Adjamé Agban
 10409494,313,Mo-Su,10409492,1,Adjamé Renault
@@ -374,6 +382,16 @@ route_id,trip_id,service_id,shape_id,direction_id,trip_headsign
 10230294,112,Mo-Su,10230474,0,Gare Nord
 10232988,119,Mo-Su,10217854,1,Koumassi Mesano
 10232988,118,Mo-Su,10217853,0,Liberte Adjame
+10677135,429,Mo-Su,10677134,1,Koumassi campement
+10677135,428,Mo-Su,10677133,0,Koumassi grand marché
+10670151,421,Mo-Su,10670150,1,Aéroport
+10670151,420,Mo-Su,10670149,0,Carrefour Aéroport
+10672696,423,Mo-Su,10672694,1,Koumassi grand marché
+10672696,422,Mo-Su,10672695,0,Terminus 05
+10676982,425,Mo-Su,10676981,1,Ancien Koumassi
+10676982,424,Mo-Su,10676980,0,Koumassi grand marché
+10677072,427,Mo-Su,10677071,1,Koumassi grand marché
+10677072,426,Mo-Su,10677070,0,Sans fil
 10408836,308,Mo-Su,10408835,0,Yopougon Micao
 10408836,309,Mo-Su,10408834,1,Yopougon Gabriel gare
 10408669,300,Mo-Su,10408667,0,Riviera 2

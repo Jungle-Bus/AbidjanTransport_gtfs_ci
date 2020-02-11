@@ -13,6 +13,7 @@ https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_
 https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Woro-woro d'Adjamé,Woro-woro d'Adjamé,Africa/Abidjan,
 https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Gbaka de Treichville,Gbaka de Treichville,Africa/Abidjan,
 https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Woro-woro de Cocody,Woro-woro de Cocody,Africa/Abidjan,
+https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Woro-woro de koumassi,Woro-woro de koumassi,Africa/Abidjan,
 https://www.facebook.com/aqualinesbycitrans/,Aqualines,Aqualines,Africa/Abidjan,
 https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Divers opérateurs,divers,Africa/Abidjan,fr
 https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Gbaka de Yopougon,Gbaka de Yopougon,Africa/Abidjan,
