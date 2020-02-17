@@ -1328,7 +1328,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3472803,-4.0097992,node/6969583471,,Clinique Providence,0
 5.2508117,-3.9424355,node/6952132241,,Arrêt,0
 5.3202726,-4.015578,node/6969583479,,Arrêt,0
-5.3172748,-4.0151837,node/6969583478,,Arrêt,0
+5.3172748,-4.0151837,node/6969583478,,[Arret sans nom],0
 5.2932236,-3.9690283,node/6919758030,,Arrêt,0
 5.3547793,-4.0029137,node/6903544089,,2ème pont,0
 5.3521055,-4.014163,node/6903544088,,Adjamé Liberté,0
