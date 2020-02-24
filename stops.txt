@@ -1447,7 +1447,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.4493063,-4.0136415,node/6934922726,,Arrêt,0
 5.4542173,-4.0119566,node/6902975751,,Monnaie,0
 5.4400103,-4.0141618,node/6934922728,,Arrêt,0
-5.4354972,-4.0153091,node/6908599215,,Gare Abobo Sogephia,0
+5.4354972,-4.0153091,node/6908599215,,Quai 49,0
 5.2568159,-3.9608596,node/6935274796,,Pharmacie Océan,0
 5.3501257,-4.032333,node/6904171066,,Station Afriquia,0
 5.3524283,-4.0328135,node/6904171067,,Carrefour Attecoubé,0
@@ -2067,7 +2067,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.4382745,-4.0147435,node/6474137925,,Cours Sociaux,0
 5.4381179,-4.019424,node/6474137927,,Avenue Kaza,0
 5.4351428,-4.0144508,node/6474137921,,Gare Abobo Sogephia,0
-5.4363696,-4.0125445,node/6474137923,,BICICI,0
+5.4364247,-4.0125419,node/6474137923,,BICICI,0
 5.3591227,-4.1010211,node/7055717190,,Rond-point de Gesco,0
 5.3514577,-4.1039213,node/7055717191,,Pharmacie Alicia,0
 5.3495944,-4.0993984,node/7055717192,,Sorbonne,0
