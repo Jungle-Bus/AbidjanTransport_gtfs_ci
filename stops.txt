@@ -1723,7 +1723,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3029659,-3.9640502,node/6939014888,,Terminus Remblais 03,0
 5.2646043,-4.0139727,node/6980029239,,Arrêt,0
 5.2684644,-4.0062828,node/6980029238,,Bank Of Africa,0
-5.43182,-4.0147115,node/6908782549,,[Arret sans nom],0
+5.43182,-4.0147361,node/6908782549,,[Arret sans nom],0
 5.3369705,-4.0217222,node/6913974340,,Gendarmerie,0
 5.2569228,-3.9723435,node/6980029237,,Arrêt,0
 5.2452454,-3.9344399,node/6980029236,,Arrêt,0
