@@ -399,7 +399,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3261567,-4.0771924,node/7055147057,,Yopougon Palais,0
 5.3140753,-4.0176728,node/7047063325,,Gare Lagunaire du Plateau Sotra,0
 5.4390733,-4.0446977,node/6915722686,,Anokoi,0
-5.3925854,-3.9920934,node/6912820406,,Ambassade de Chine,0
+5.3926201,-3.9920829,node/6912820406,,Ambassade de Chine,0
 5.4333404,-4.0266778,node/6915722685,,Arrêt,0
 5.365069,-3.9792552,node/6903639370,,Polyclinique Sacré-Coeur,0
 5.3642087,-3.9790994,node/6903639371,,Jules ferry,0
@@ -1369,7 +1369,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.4000185,-4.0054393,node/7058499893,,Marché,0
 5.3999884,-4.0059187,node/7058499892,,Mobil Azur,0
 5.4124193,-3.9814241,node/7058499897,,Fin goudron-Angré Château,0
-5.4147717,-3.9779788,node/7058499896,,Angré Château,0
+5.4147717,-3.9779788,node/7058499896,,Angré Château Fin Goudron,0
 5.4146182,-3.9783463,node/7058499895,,Angré Château,0
 5.3996113,-3.99739,node/7058499894,,Mahou,0
 5.3286546,-3.9324706,node/6903347574,,Cocody Riviera M'badon,0
