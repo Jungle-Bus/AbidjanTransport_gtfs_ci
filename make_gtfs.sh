@@ -10,7 +10,7 @@ cp ./data/ci-abidjan.zip ./output/abidjan.zip
 
 cd output
 
-python ../transitfeed-1.2.16/feedvalidator.py abidjan.zip || :
+python ../transitfeed/build/scripts-3.7/feedvalidator.py abidjan.zip || :
 
 unzip abidjan.zip
 
