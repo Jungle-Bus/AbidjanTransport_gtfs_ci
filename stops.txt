@@ -2330,7 +2330,7 @@ stop_lat,stop_lon,stop_id,parent_station,stop_name,location_type
 5.3671088,-3.9456984,node/6930917971,,Camp Millitaire d'Akouédo,0
 5.3701704,-3.9379911,node/6930917970,,Arrêt,0
 5.3617224,-3.9579964,node/6930917973,,Après barrage,0
-5.3641111,-3.9527809,node/6930917972,,[Arret sans nom],0
+5.3637324,-3.9527636,node/6930917972,,[Arret sans nom],0
 5.370611,-3.9761945,node/7056198868,,Attoban camp,0
 5.3667376,-3.9794621,node/7056198869,,Ong Joie de vivre,0
 5.3618139,-4.0725361,node/6961643500,,[Arret sans nom],0
