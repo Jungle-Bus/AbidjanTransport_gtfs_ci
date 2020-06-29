@@ -1,2 +1,2 @@
-feed_lang,feed_version,feed_publisher_url,feed_end_date,feed_publisher_name,feed_start_date
-fr,0.1,http://junglebus.io,20201231,Jungle Bus,20200101
+feed_start_date,feed_version,feed_lang,feed_publisher_name,feed_end_date,feed_publisher_url
+20200101,0.1,fr,Jungle Bus,20201231,http://junglebus.io
