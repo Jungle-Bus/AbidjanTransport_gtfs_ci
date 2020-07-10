@@ -3,13 +3,13 @@
 set -ev
 
 #install transitfeed
-git clone  --branch=python3 https://github.com/pecalleja/transitfeed.git
+git clone --branch=python3 https://github.com/pecalleja/transitfeed.git
 
 cd transitfeed
 
 pip install -e .
 
- cd ..
+cd ..
 
 # install osm2gtfs
 git clone --branch=python3 https://github.com/Jungle-Bus/osm2gtfs
