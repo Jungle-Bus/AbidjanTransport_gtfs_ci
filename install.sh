@@ -12,7 +12,7 @@ pip install -e .
 cd ..
 
 # install osm2gtfs
-git clone --branch=python3 https://github.com/Jungle-Bus/osm2gtfs
+git clone --branch=fix_shapes https://github.com/Jungle-Bus/osm2gtfs
 
 cd osm2gtfs
 
