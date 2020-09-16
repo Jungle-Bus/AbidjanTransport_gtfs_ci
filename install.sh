@@ -2,6 +2,10 @@
 
 set -ev
 
+# install GTFSVtor
+wget https://github.com/mecatran/gtfsvtor/releases/download/v0.1.1/gtfsvtor.zip
+unzip gtfsvtor.zip
+
 #install transitfeed
 git clone --branch=python3 https://github.com/pecalleja/transitfeed.git
 
