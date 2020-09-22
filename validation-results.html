@@ -166,11 +166,11 @@ span.var {
 				<span class="badge INFO">INFO
 				</span>
 			</span>
-			<span class="xsmaller"> - 14 
+			<span class="xsmaller"> - 9 
 				<span class="badge WARNING">WARNING
 				</span>
 			</span>
-			<span class="xsmaller"> - 33 
+			<span class="xsmaller"> - 27 
 				<span class="badge ERROR">ERROR
 				</span>
 			</span>
@@ -188,7 +188,7 @@ span.var {
 				<span class="smaller badge WARNING">WARNING
 				</span>No service exception
 			</li>
-			<li>9 
+			<li>4 
 				<span class="smaller badge WARNING">WARNING
 				</span>Stop too far from shape
 			</li>
@@ -200,7 +200,7 @@ span.var {
 				<span class="smaller badge WARNING">WARNING
 				</span>Unused agency
 			</li>
-			<li>33 
+			<li>27 
 				<span class="smaller badge ERROR">ERROR
 				</span>Stop too far from shape
 			</li>
@@ -236,7 +236,7 @@ span.var {
 					</td>
 					<td class="fieldname">
 					</td>
-					<td class="issue">Loaded 1 feed-info, 23 agencies, 308 routes, 3231 stops, 1 calendars, 0 calendar dates, 646 trips, 8528 stop times, 0 transfers, 0 pathways, 0 fare attributes, 0 fare rules
+					<td class="issue">Loaded 1 feed-info, 22 agencies, 308 routes, 3231 stops, 1 calendars, 0 calendar dates, 646 trips, 8524 stop times, 0 transfers, 0 pathways, 0 fare attributes, 0 fare rules
 					</td>
 				</tr>
 			</table>
@@ -293,13 +293,13 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>agency_lang
-						</td>
-						<td>agency_id
-						</td>
 						<td>agency_url
 						</td>
 						<td>agency_name
+						</td>
+						<td>agency_id
+						</td>
+						<td>agency_lang
 						</td>
 						<td>agency_timezone
 						</td>
@@ -308,13 +308,13 @@ span.var {
 				<tr>
 					<td class="linenr">L2
 					</td>
-					<td>fr
-					</td>
-					<td class="WARNING">divers
-					</td>
 					<td>https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan
 					</td>
 					<td>Divers opérateurs
+					</td>
+					<td class="WARNING">divers
+					</td>
+					<td>fr
 					</td>
 					<td>Africa/Abidjan
 					</td>
@@ -336,11 +336,11 @@ span.var {
 				<span class="badge INFO">INFO
 				</span>
 			</span>
-			<span class="smaller"> - 9
+			<span class="smaller"> - 4
 				<span class="badge WARNING">WARNING
 				</span>
 			</span>
-			<span class="smaller"> - 33
+			<span class="smaller"> - 27
 				<span class="badge ERROR">ERROR
 				</span>
 			</span>
@@ -350,11 +350,11 @@ span.var {
 				<span class="smaller badge INFO">INFO
 				</span>Stops too close
 			</li>
-			<li>9
+			<li>4
 				<span class="smaller badge WARNING">WARNING
 				</span>Stop too far from shape
 			</li>
-			<li>33
+			<li>27
 				<span class="smaller badge ERROR">ERROR
 				</span>Stop too far from shape
 			</li>
@@ -365,34 +365,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L85
 					</td>
-					<td/>
-					<td>node/6474137980
+					<td>0
 					</td>
-					<td class="ERROR">5.3225013
+					<td>node/6474137980
 					</td>
 					<td>Galerie du Parc
 					</td>
+					<td class="ERROR">5.3225013
+					</td>
 					<td class="ERROR">-4.0197472
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -412,143 +412,49 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
 						</td>
+						<td>stop_lat
+						</td>
 						<td>stop_lon
-						</td>
-						<td>location_type
-						</td>
-					</tr>
-				</thead>
-				<tr>
-					<td class="linenr">L135
-					</td>
-					<td/>
-					<td>node/6899034710
-					</td>
-					<td class="WARNING">5.3534116
-					</td>
-					<td>Adjamé Liberté
-					</td>
-					<td class="WARNING">-4.0160603
-					</td>
-					<td>0
-					</td>
-				</tr>
-			</table>
-			<table class="issuelist">
-				<tr>
-					<td class="severity WARNING">WARNING
-					</td>
-					<td class="fieldname">stop_lat, stop_lon
-					</td>
-					<td class="issue">Stop at sequence <span class='var'>1</span> on examplar trip <span class='id'>4</span> is too far from computed projection point <span class='var'>(5.353436,-4.015524)</span> on shape <span class='id'>10178669</span> (at arc-length <span class='var'>0.00</span>m): <span class='var'>59.39m</span> away
-					</td>
-				</tr>
-			</table>
-		</div>
-		<div class="subcategory">
-			<table class="sourceinfo">
-				<thead>
-					<tr>
-						<td class="linenr">
 						</td>
 						<td>parent_station
-						</td>
-						<td>stop_id
-						</td>
-						<td>stop_lat
-						</td>
-						<td>stop_name
-						</td>
-						<td>stop_lon
-						</td>
-						<td>location_type
-						</td>
-					</tr>
-				</thead>
-				<tr>
-					<td class="linenr">L145
-					</td>
-					<td/>
-					<td>node/6899241577
-					</td>
-					<td class="ERROR">5.3543459
-					</td>
-					<td>Adjamé Liberté
-					</td>
-					<td class="ERROR">-4.0164004
-					</td>
-					<td>0
-					</td>
-				</tr>
-			</table>
-			<table class="issuelist">
-				<tr>
-					<td class="severity ERROR">ERROR
-					</td>
-					<td class="fieldname">stop_lat, stop_lon
-					</td>
-					<td class="issue">Stop at sequence <span class='var'>1</span> on examplar trip <span class='id'>6</span> is too far from computed projection point <span class='var'>(5.355369,-4.016104)</span> on shape <span class='id'>10179434</span> (at arc-length <span class='var'>0.00</span>m): <span class='var'>118.44m</span> away
-					</td>
-				</tr>
-			</table>
-		</div>
-		<div class="subcategory">
-			<table class="sourceinfo">
-				<thead>
-					<tr>
-						<td class="linenr">
-						</td>
-						<td>parent_station
-						</td>
-						<td>stop_id
-						</td>
-						<td>stop_lat
-						</td>
-						<td>stop_name
-						</td>
-						<td>stop_lon
-						</td>
-						<td>location_type
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L159
 					</td>
-					<td/>
-					<td>node/6902638997
+					<td>0
 					</td>
-					<td class="INFO">5.4144283
+					<td>node/6902638997
 					</td>
 					<td>Boulangerie Samake
 					</td>
+					<td class="INFO">5.4144283
+					</td>
 					<td class="INFO">-4.0062697
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 				<tr>
 					<td class="linenr">L1325
 					</td>
-					<td/>
-					<td>node/6935401282
+					<td>0
 					</td>
-					<td class="INFO">5.4143906
+					<td>node/6935401282
 					</td>
 					<td>Arrêt
 					</td>
+					<td class="INFO">5.4143906
+					</td>
 					<td class="INFO">-4.0062493
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -568,49 +474,49 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L161
 					</td>
-					<td/>
-					<td>node/6902638999
+					<td>0
 					</td>
-					<td class="INFO">5.4101067
+					<td>node/6902638999
 					</td>
 					<td>Tchapatcha
 					</td>
+					<td class="INFO">5.4101067
+					</td>
 					<td class="INFO">-4.0063067
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 				<tr>
 					<td class="linenr">L399
 					</td>
-					<td/>
-					<td>node/6906590692
+					<td>0
 					</td>
-					<td class="INFO">5.4101483
+					<td>node/6906590692
 					</td>
 					<td>Chaîne Avion
 					</td>
+					<td class="INFO">5.4101483
+					</td>
 					<td class="INFO">-4.0063152
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -630,81 +536,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
 						</td>
+						<td>stop_lat
+						</td>
 						<td>stop_lon
-						</td>
-						<td>location_type
-						</td>
-					</tr>
-				</thead>
-				<tr>
-					<td class="linenr">L207
-					</td>
-					<td/>
-					<td>node/6902975757
-					</td>
-					<td class="ERROR">5.4225885
-					</td>
-					<td>Gare Gbaka Akeïkoi
-					</td>
-					<td class="ERROR">-4.0161726
-					</td>
-					<td>0
-					</td>
-				</tr>
-			</table>
-			<table class="issuelist">
-				<tr>
-					<td class="severity ERROR">ERROR
-					</td>
-					<td class="fieldname">stop_lat, stop_lon
-					</td>
-					<td class="issue">Stop at sequence <span class='var'>1</span> on examplar trip <span class='id'>10</span> is too far from computed projection point <span class='var'>(5.423713,-4.015614)</span> on shape <span class='id'>10184409</span> (at arc-length <span class='var'>0.00</span>m): <span class='var'>139.46m</span> away
-					</td>
-				</tr>
-			</table>
-		</div>
-		<div class="subcategory">
-			<table class="sourceinfo">
-				<thead>
-					<tr>
-						<td class="linenr">
 						</td>
 						<td>parent_station
-						</td>
-						<td>stop_id
-						</td>
-						<td>stop_lat
-						</td>
-						<td>stop_name
-						</td>
-						<td>stop_lon
-						</td>
-						<td>location_type
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L236
 					</td>
-					<td/>
-					<td>node/6903347574
+					<td>0
 					</td>
-					<td class="ERROR">5.3286546
+					<td>node/6903347574
 					</td>
 					<td>Cocody Riviera M'badon
 					</td>
+					<td class="ERROR">5.3286546
+					</td>
 					<td class="ERROR">-3.9324706
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -724,81 +583,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
 						</td>
+						<td>stop_lat
+						</td>
 						<td>stop_lon
-						</td>
-						<td>location_type
-						</td>
-					</tr>
-				</thead>
-				<tr>
-					<td class="linenr">L332
-					</td>
-					<td/>
-					<td>node/6904171080
-					</td>
-					<td class="ERROR">5.3126563
-					</td>
-					<td>Biafra
-					</td>
-					<td class="ERROR">-4.006092
-					</td>
-					<td>0
-					</td>
-				</tr>
-			</table>
-			<table class="issuelist">
-				<tr>
-					<td class="severity ERROR">ERROR
-					</td>
-					<td class="fieldname">stop_lat, stop_lon
-					</td>
-					<td class="issue">Stop at sequence <span class='var'>22</span> on examplar trip <span class='id'>88</span> is too far from computed projection point <span class='var'>(5.311547,-4.006661)</span> on shape <span class='id'>10220806</span> (at arc-length <span class='var'>9833.90</span>m): <span class='var'>138.54m</span> away
-					</td>
-				</tr>
-			</table>
-		</div>
-		<div class="subcategory">
-			<table class="sourceinfo">
-				<thead>
-					<tr>
-						<td class="linenr">
 						</td>
 						<td>parent_station
-						</td>
-						<td>stop_id
-						</td>
-						<td>stop_lat
-						</td>
-						<td>stop_name
-						</td>
-						<td>stop_lon
-						</td>
-						<td>location_type
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L445
 					</td>
-					<td/>
-					<td>node/6907147645
+					<td>0
 					</td>
-					<td class="ERROR">5.3478735
+					<td>node/6907147645
 					</td>
 					<td>Pont lycée technique
 					</td>
+					<td class="ERROR">5.3478735
+					</td>
 					<td class="ERROR">-4.0101289
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -818,34 +630,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L446
 					</td>
-					<td/>
-					<td>node/6907147646
+					<td>0
 					</td>
-					<td class="ERROR">5.3442806
+					<td>node/6907147646
 					</td>
 					<td>SODEMI
 					</td>
+					<td class="ERROR">5.3442806
+					</td>
 					<td class="ERROR">-4.0038018
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -865,34 +677,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L467
 					</td>
-					<td/>
-					<td>node/6908728771
+					<td>0
 					</td>
-					<td class="ERROR">5.343821
+					<td>node/6908728771
 					</td>
 					<td>ISTC
 					</td>
+					<td class="ERROR">5.343821
+					</td>
 					<td class="ERROR">-4.0008199
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -912,34 +724,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L471
 					</td>
-					<td/>
-					<td>node/6908782552
+					<td>0
 					</td>
-					<td class="ERROR">5.3450487
+					<td>node/6908782552
 					</td>
 					<td>Cité des Arts
 					</td>
+					<td class="ERROR">5.3450487
+					</td>
 					<td class="ERROR">-3.9978676
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -959,34 +771,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L555
 					</td>
-					<td/>
-					<td>node/6909546907
+					<td>0
 					</td>
-					<td class="ERROR">5.2571616
+					<td>node/6909546907
 					</td>
 					<td>Stade de la SIR
 					</td>
+					<td class="ERROR">5.2571616
+					</td>
 					<td class="ERROR">-3.9892306
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1006,49 +818,49 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L566
 					</td>
-					<td/>
-					<td>node/6909707221
+					<td>0
 					</td>
-					<td class="INFO">5.3226268
+					<td>node/6909707221
 					</td>
 					<td>Niangon Sud à droite
 					</td>
+					<td class="INFO">5.3226268
+					</td>
 					<td class="INFO">-4.1045
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 				<tr>
 					<td class="linenr">L601
 					</td>
-					<td/>
-					<td>node/6909812238
+					<td>0
 					</td>
-					<td class="INFO">5.3226401
+					<td>node/6909812238
 					</td>
 					<td>Niangon Sud à droite
 					</td>
+					<td class="INFO">5.3226401
+					</td>
 					<td class="INFO">-4.1045248
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1068,34 +880,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L720
 					</td>
-					<td/>
-					<td>node/6912820390
+					<td>0
 					</td>
-					<td class="ERROR">5.4005116
+					<td>node/6912820390
 					</td>
 					<td>Shawarma House
 					</td>
+					<td class="ERROR">5.4005116
+					</td>
 					<td class="ERROR">-3.9913523
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1115,49 +927,49 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L825
 					</td>
-					<td/>
-					<td>node/6915341537
+					<td>0
 					</td>
-					<td class="INFO">5.4264243
+					<td>node/6915341537
 					</td>
 					<td>Arrêt
 					</td>
+					<td class="INFO">5.4264243
+					</td>
 					<td class="INFO">-3.9896961
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 				<tr>
 					<td class="linenr">L2296
 					</td>
-					<td/>
-					<td>node/7077935892
+					<td>0
 					</td>
-					<td class="INFO">5.4264012
+					<td>node/7077935892
 					</td>
 					<td>Fofana CDCI
 					</td>
+					<td class="INFO">5.4264012
+					</td>
 					<td class="INFO">-3.9896987
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1177,34 +989,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L928
 					</td>
-					<td/>
-					<td>node/6916280448
+					<td>0
 					</td>
-					<td class="ERROR">5.3465781
+					<td>node/6916280448
 					</td>
 					<td>Cité BAD
 					</td>
+					<td class="ERROR">5.3465781
+					</td>
 					<td class="ERROR">-4.002571
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1224,34 +1036,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L1073
 					</td>
-					<td/>
-					<td>node/6927330416
+					<td>0
 					</td>
-					<td class="ERROR">5.3462362
+					<td>node/6927330416
 					</td>
 					<td>Gare Campus Cocody
 					</td>
+					<td class="ERROR">5.3462362
+					</td>
 					<td class="ERROR">-3.9938503
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1271,49 +1083,49 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L1084
 					</td>
-					<td/>
-					<td>node/6928179124
+					<td>0
 					</td>
-					<td class="INFO">5.3533983
+					<td>node/6928179124
 					</td>
 					<td>Cité étudiante Riviera 2
 					</td>
+					<td class="INFO">5.3533983
+					</td>
 					<td class="INFO">-3.9736351
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 				<tr>
 					<td class="linenr">L1773
 					</td>
-					<td/>
-					<td>node/7043603291
+					<td>0
 					</td>
-					<td class="INFO">5.3534289
+					<td>node/7043603291
 					</td>
 					<td>Cité étudiante Riviera 2
 					</td>
+					<td class="INFO">5.3534289
+					</td>
 					<td class="INFO">-3.9736383
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1333,49 +1145,49 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L1199
 					</td>
-					<td/>
-					<td>node/6933080260
+					<td>0
 					</td>
-					<td class="INFO">5.3283646
+					<td>node/6933080260
 					</td>
 					<td>Mosquée Cité Eden
 					</td>
+					<td class="INFO">5.3283646
+					</td>
 					<td class="INFO">-3.9401855
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 				<tr>
 					<td class="linenr">L2842
 					</td>
-					<td/>
-					<td>node/7843525585
+					<td>0
 					</td>
-					<td class="INFO">5.328365
+					<td>node/7843525585
 					</td>
 					<td>Terminus M'Pouto
 					</td>
+					<td class="INFO">5.328365
+					</td>
 					<td class="INFO">-3.9402086
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1395,49 +1207,49 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L1219
 					</td>
-					<td/>
-					<td>node/6934648717
+					<td>0
 					</td>
-					<td class="INFO">5.4321434
+					<td>node/6934648717
 					</td>
 					<td>Arrêt
 					</td>
+					<td class="INFO">5.4321434
+					</td>
 					<td class="INFO">-4.068663
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 				<tr>
 					<td class="linenr">L2212
 					</td>
-					<td/>
-					<td>node/7066312415
+					<td>0
 					</td>
-					<td class="INFO">5.4321703
+					<td>node/7066312415
 					</td>
 					<td>2ème Porte
 					</td>
+					<td class="INFO">5.4321703
+					</td>
 					<td class="INFO">-4.0686605
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1457,34 +1269,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L1295
 					</td>
-					<td/>
-					<td>node/6935274792
+					<td>0
 					</td>
-					<td class="ERROR">5.2569108
+					<td>node/6935274792
 					</td>
 					<td>Groupe Scolaire Petit Bassam
 					</td>
+					<td class="ERROR">5.2569108
+					</td>
 					<td class="ERROR">-3.9774759
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1504,34 +1316,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L1425
 					</td>
-					<td/>
-					<td>node/6944920986
+					<td>0
 					</td>
-					<td class="ERROR">5.4148038
+					<td>node/6944920986
 					</td>
 					<td>Terminus bus 51/52
 					</td>
+					<td class="ERROR">5.4148038
+					</td>
 					<td class="ERROR">-4.0334697
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1551,34 +1363,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L1438
 					</td>
-					<td/>
-					<td>node/6945864859
+					<td>0
 					</td>
-					<td class="ERROR">5.2657115
+					<td>node/6945864859
 					</td>
 					<td>[Arret sans nom]
 					</td>
+					<td class="ERROR">5.2657115
+					</td>
 					<td class="ERROR">-4.0087358
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1598,106 +1410,59 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L1612
 					</td>
-					<td/>
-					<td>node/6955514934
+					<td>0
 					</td>
-					<td class="WARNING">5.3635731
+					<td>node/6955514934
 					</td>
 					<td>Arrêt Pharmacie Palmeraie
 					</td>
-					<td class="WARNING">-3.9598243
+					<td class="WARNING">5.3635931
 					</td>
-					<td>0
-					</td>
-				</tr>
-			</table>
-			<table class="issuelist">
-				<tr>
-					<td class="severity WARNING">WARNING
-					</td>
-					<td class="fieldname">stop_lat, stop_lon
-					</td>
-					<td class="issue">Stop at sequence <span class='var'>1</span> on examplar trip <span class='id'>212</span> is too far from computed projection point <span class='var'>(5.362809,-3.959474)</span> on shape <span class='id'>10282979</span> (at arc-length <span class='var'>0.00</span>m): <span class='var'>93.40m</span> away
-					</td>
-				</tr>
-				<tr>
-					<td class="severity WARNING">WARNING
-					</td>
-					<td class="fieldname">stop_lat, stop_lon
-					</td>
-					<td class="issue">Stop at sequence <span class='var'>1</span> on examplar trip <span class='id'>218</span> is too far from computed projection point <span class='var'>(5.362809,-3.959474)</span> on shape <span class='id'>10285981</span> (at arc-length <span class='var'>0.00</span>m): <span class='var'>93.40m</span> away
-					</td>
-				</tr>
-				<tr>
-					<td class="severity WARNING">WARNING
-					</td>
-					<td class="fieldname">stop_lat, stop_lon
-					</td>
-					<td class="issue">Stop at sequence <span class='var'>1</span> on examplar trip <span class='id'>229</span> is too far from computed projection point <span class='var'>(5.362809,-3.959474)</span> on shape <span class='id'>10286820</span> (at arc-length <span class='var'>0.00</span>m): <span class='var'>93.40m</span> away
-					</td>
-				</tr>
-			</table>
-		</div>
-		<div class="subcategory">
-			<table class="sourceinfo">
-				<thead>
-					<tr>
-						<td class="linenr">
-						</td>
-						<td>parent_station
-						</td>
-						<td>stop_id
-						</td>
-						<td>stop_lat
-						</td>
-						<td>stop_name
-						</td>
-						<td>stop_lon
-						</td>
-						<td>location_type
-						</td>
-					</tr>
-				</thead>
-				<tr>
-					<td class="linenr">L1642
+					<td class="WARNING">-3.9597532
 					</td>
 					<td/>
-					<td>node/6966758106
-					</td>
-					<td class="ERROR">5.354878
-					</td>
-					<td>Oasis
-					</td>
-					<td class="ERROR">-4.0988526
-					</td>
-					<td>0
-					</td>
 				</tr>
 			</table>
 			<table class="issuelist">
 				<tr>
-					<td class="severity ERROR">ERROR
+					<td class="severity WARNING">WARNING
 					</td>
 					<td class="fieldname">stop_lat, stop_lon
 					</td>
-					<td class="issue">Stop at sequence <span class='var'>11</span> on examplar trip <span class='id'>221</span> is too far from computed projection point <span class='var'>(5.355017,-4.095756)</span> on shape <span class='id'>10286235</span> (at arc-length <span class='var'>4338.68</span>m): <span class='var'>343.17m</span> away
+					<td class="issue">Stop at sequence <span class='var'>1</span> on examplar trip <span class='id'>212</span> is too far from computed projection point <span class='var'>(5.362809,-3.959474)</span> on shape <span class='id'>10282979</span> (at arc-length <span class='var'>0.00</span>m): <span class='var'>92.51m</span> away
+					</td>
+				</tr>
+				<tr>
+					<td class="severity WARNING">WARNING
+					</td>
+					<td class="fieldname">stop_lat, stop_lon
+					</td>
+					<td class="issue">Stop at sequence <span class='var'>1</span> on examplar trip <span class='id'>218</span> is too far from computed projection point <span class='var'>(5.362809,-3.959474)</span> on shape <span class='id'>10285981</span> (at arc-length <span class='var'>0.00</span>m): <span class='var'>92.51m</span> away
+					</td>
+				</tr>
+				<tr>
+					<td class="severity WARNING">WARNING
+					</td>
+					<td class="fieldname">stop_lat, stop_lon
+					</td>
+					<td class="issue">Stop at sequence <span class='var'>1</span> on examplar trip <span class='id'>229</span> is too far from computed projection point <span class='var'>(5.362809,-3.959474)</span> on shape <span class='id'>10286820</span> (at arc-length <span class='var'>0.00</span>m): <span class='var'>92.51m</span> away
 					</td>
 				</tr>
 			</table>
@@ -1708,81 +1473,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
 						</td>
+						<td>stop_lat
+						</td>
 						<td>stop_lon
-						</td>
-						<td>location_type
-						</td>
-					</tr>
-				</thead>
-				<tr>
-					<td class="linenr">L1650
-					</td>
-					<td/>
-					<td>node/6966758115
-					</td>
-					<td class="ERROR">5.3529605
-					</td>
-					<td>Arrêt
-					</td>
-					<td class="ERROR">-4.0994742
-					</td>
-					<td>0
-					</td>
-				</tr>
-			</table>
-			<table class="issuelist">
-				<tr>
-					<td class="severity ERROR">ERROR
-					</td>
-					<td class="fieldname">stop_lat, stop_lon
-					</td>
-					<td class="issue">Stop at sequence <span class='var'>10</span> on examplar trip <span class='id'>220</span> is too far from computed projection point <span class='var'>(5.350098,-4.099433)</span> on shape <span class='id'>10286234</span> (at arc-length <span class='var'>14884.61</span>m): <span class='var'>318.29m</span> away
-					</td>
-				</tr>
-			</table>
-		</div>
-		<div class="subcategory">
-			<table class="sourceinfo">
-				<thead>
-					<tr>
-						<td class="linenr">
 						</td>
 						<td>parent_station
-						</td>
-						<td>stop_id
-						</td>
-						<td>stop_lat
-						</td>
-						<td>stop_name
-						</td>
-						<td>stop_lon
-						</td>
-						<td>location_type
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L1731
 					</td>
-					<td/>
-					<td>node/6979712510
+					<td>0
 					</td>
-					<td class="ERROR">5.3601
+					<td>node/6979712510
 					</td>
 					<td>Arrêt;Sodeci
 					</td>
+					<td class="ERROR">5.3601
+					</td>
 					<td class="ERROR">-3.9221386
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1802,34 +1520,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L1780
 					</td>
-					<td/>
-					<td>node/7046964142
+					<td>0
 					</td>
-					<td class="ERROR">5.3108107
+					<td>node/7046964142
 					</td>
 					<td>Gare Lagunaire de Treichville Sotra
 					</td>
+					<td class="ERROR">5.3108107
+					</td>
 					<td class="ERROR">-4.015859
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1857,34 +1575,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L1782
 					</td>
-					<td/>
-					<td>node/7047063325
+					<td>0
 					</td>
-					<td class="ERROR">5.3140753
+					<td>node/7047063325
 					</td>
 					<td>Gare Lagunaire du Plateau Sotra
 					</td>
+					<td class="ERROR">5.3140753
+					</td>
 					<td class="ERROR">-4.0176728
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1912,49 +1630,49 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L1794
 					</td>
-					<td/>
-					<td>node/7049258143
+					<td>0
 					</td>
-					<td class="INFO">5.3587021
+					<td>node/7049258143
 					</td>
 					<td>Arrêt
 					</td>
+					<td class="INFO">5.3587021
+					</td>
 					<td class="INFO">-4.0998034
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 				<tr>
 					<td class="linenr">L2111
 					</td>
-					<td/>
-					<td>node/7057928788
+					<td>0
 					</td>
-					<td class="INFO">5.3586789
+					<td>node/7057928788
 					</td>
 					<td>2ème
 					</td>
+					<td class="INFO">5.3586789
+					</td>
 					<td class="INFO">-4.0997664
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -1974,49 +1692,49 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L1818
 					</td>
-					<td/>
-					<td>node/7051905154
+					<td>0
 					</td>
-					<td class="INFO">5.3445751
+					<td>node/7051905154
 					</td>
 					<td>Terminus Anono
 					</td>
+					<td class="INFO">5.3445751
+					</td>
 					<td class="INFO">-3.9724706
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 				<tr>
 					<td class="linenr">L1820
 					</td>
-					<td/>
-					<td>node/7051905157
+					<td>0
 					</td>
-					<td class="INFO">5.34455
+					<td>node/7051905157
 					</td>
 					<td>Terminus Anono
 					</td>
+					<td class="INFO">5.34455
+					</td>
 					<td class="INFO">-3.9724521
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2036,49 +1754,49 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L1883
 					</td>
-					<td/>
-					<td>node/7052994964
+					<td>0
 					</td>
-					<td class="INFO">5.3484325
+					<td>node/7052994964
 					</td>
 					<td>Terminus Akouedo Basket
 					</td>
+					<td class="INFO">5.3484325
+					</td>
 					<td class="INFO">-3.9409667
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 				<tr>
 					<td class="linenr">L2721
 					</td>
-					<td/>
-					<td>node/7834873584
+					<td>0
 					</td>
-					<td class="INFO">5.348423
+					<td>node/7834873584
 					</td>
 					<td>Terminus Akouedo Basket
 					</td>
+					<td class="INFO">5.348423
+					</td>
 					<td class="INFO">-3.9409446
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2098,96 +1816,49 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
 						</td>
+						<td>stop_lat
+						</td>
 						<td>stop_lon
-						</td>
-						<td>location_type
-						</td>
-					</tr>
-				</thead>
-				<tr>
-					<td class="linenr">L1951
-					</td>
-					<td/>
-					<td>node/7054917910
-					</td>
-					<td class="ERROR">5.3161184
-					</td>
-					<td>Yopougon Niangon-Terminus 27
-					</td>
-					<td class="ERROR">-4.0900737
-					</td>
-					<td>0
-					</td>
-				</tr>
-			</table>
-			<table class="issuelist">
-				<tr>
-					<td class="severity ERROR">ERROR
-					</td>
-					<td class="fieldname">stop_lat, stop_lon
-					</td>
-					<td class="issue">Stop at sequence <span class='var'>12</span> on examplar trip <span class='id'>351</span> is too far from computed projection point <span class='var'>(5.316598,-4.088957)</span> on shape <span class='id'>10459358</span> (at arc-length <span class='var'>11253.58</span>m): <span class='var'>134.66m</span> away
-					</td>
-				</tr>
-			</table>
-		</div>
-		<div class="subcategory">
-			<table class="sourceinfo">
-				<thead>
-					<tr>
-						<td class="linenr">
 						</td>
 						<td>parent_station
-						</td>
-						<td>stop_id
-						</td>
-						<td>stop_lat
-						</td>
-						<td>stop_name
-						</td>
-						<td>stop_lon
-						</td>
-						<td>location_type
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L2105
 					</td>
-					<td/>
-					<td>node/7057276359
+					<td>0
 					</td>
-					<td class="INFO">5.3672748
+					<td>node/7057276359
 					</td>
 					<td>Gare Gesco
 					</td>
+					<td class="INFO">5.3672748
+					</td>
 					<td class="INFO">-4.1022501
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 				<tr>
 					<td class="linenr">L2107
 					</td>
-					<td/>
-					<td>node/7057912884
+					<td>0
 					</td>
-					<td class="INFO">5.3672679
+					<td>node/7057912884
 					</td>
 					<td>Gare Gesco
 					</td>
+					<td class="INFO">5.3672679
+					</td>
 					<td class="INFO">-4.102291
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2207,34 +1878,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L2299
 					</td>
-					<td/>
-					<td>node/7077935895
+					<td>0
 					</td>
-					<td class="ERROR">5.4154033
+					<td>node/7077935895
 					</td>
 					<td>Cité Grâce
 					</td>
+					<td class="ERROR">5.4154033
+					</td>
 					<td class="ERROR">-3.9931306
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2254,34 +1925,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L2300
 					</td>
-					<td/>
-					<td>node/7077935896
+					<td>0
 					</td>
-					<td class="ERROR">5.4147389
+					<td>node/7077935896
 					</td>
 					<td>Carrefour Angré
 					</td>
+					<td class="ERROR">5.4147389
+					</td>
 					<td class="ERROR">-3.995691
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2301,159 +1972,49 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
 						</td>
+						<td>stop_lat
+						</td>
 						<td>stop_lon
-						</td>
-						<td>location_type
-						</td>
-					</tr>
-				</thead>
-				<tr>
-					<td class="linenr">L2608
-					</td>
-					<td/>
-					<td>node/7171384785
-					</td>
-					<td class="WARNING">5.4434935
-					</td>
-					<td>Houphouet Boigny
-					</td>
-					<td class="WARNING">-4.008837
-					</td>
-					<td>0
-					</td>
-				</tr>
-			</table>
-			<table class="issuelist">
-				<tr>
-					<td class="severity WARNING">WARNING
-					</td>
-					<td class="fieldname">stop_lat, stop_lon
-					</td>
-					<td class="issue">Stop at sequence <span class='var'>1</span> on examplar trip <span class='id'>411</span> is too far from computed projection point <span class='var'>(5.442944,-4.008769)</span> on shape <span class='id'>10653560</span> (at arc-length <span class='var'>0.00</span>m): <span class='var'>61.54m</span> away
-					</td>
-				</tr>
-				<tr>
-					<td class="severity WARNING">WARNING
-					</td>
-					<td class="fieldname">stop_lat, stop_lon
-					</td>
-					<td class="issue">Stop at sequence <span class='var'>1</span> on examplar trip <span class='id'>573</span> is too far from computed projection point <span class='var'>(5.442944,-4.008769)</span> on shape <span class='id'>11592895</span> (at arc-length <span class='var'>0.00</span>m): <span class='var'>61.54m</span> away
-					</td>
-				</tr>
-			</table>
-		</div>
-		<div class="subcategory">
-			<table class="sourceinfo">
-				<thead>
-					<tr>
-						<td class="linenr">
 						</td>
 						<td>parent_station
-						</td>
-						<td>stop_id
-						</td>
-						<td>stop_lat
-						</td>
-						<td>stop_name
-						</td>
-						<td>stop_lon
-						</td>
-						<td>location_type
-						</td>
-					</tr>
-				</thead>
-				<tr>
-					<td class="linenr">L2609
-					</td>
-					<td/>
-					<td>node/7171384786
-					</td>
-					<td class="WARNING">5.4435552
-					</td>
-					<td>Houphouet Boigny
-					</td>
-					<td class="WARNING">-4.0087707
-					</td>
-					<td>0
-					</td>
-				</tr>
-			</table>
-			<table class="issuelist">
-				<tr>
-					<td class="severity WARNING">WARNING
-					</td>
-					<td class="fieldname">stop_lat, stop_lon
-					</td>
-					<td class="issue">Stop at sequence <span class='var'>4</span> on examplar trip <span class='id'>410</span> is too far from computed projection point <span class='var'>(5.442944,-4.008769)</span> on shape <span class='id'>10653561</span> (at arc-length <span class='var'>3706.31</span>m): <span class='var'>67.94m</span> away
-					</td>
-				</tr>
-				<tr>
-					<td class="severity WARNING">WARNING
-					</td>
-					<td class="fieldname">stop_lat, stop_lon
-					</td>
-					<td class="issue">Stop at sequence <span class='var'>5</span> on examplar trip <span class='id'>572</span> is too far from computed projection point <span class='var'>(5.442944,-4.008769)</span> on shape <span class='id'>11592896</span> (at arc-length <span class='var'>3328.47</span>m): <span class='var'>67.94m</span> away
-					</td>
-				</tr>
-			</table>
-		</div>
-		<div class="subcategory">
-			<table class="sourceinfo">
-				<thead>
-					<tr>
-						<td class="linenr">
-						</td>
-						<td>parent_station
-						</td>
-						<td>stop_id
-						</td>
-						<td>stop_lat
-						</td>
-						<td>stop_name
-						</td>
-						<td>stop_lon
-						</td>
-						<td>location_type
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L2807
 					</td>
-					<td/>
-					<td>node/7841011319
+					<td>0
 					</td>
-					<td class="INFO">5.3250865
+					<td>node/7841011319
 					</td>
 					<td>Gare de Warren Blockauss
 					</td>
+					<td class="INFO">5.3250865
+					</td>
 					<td class="INFO">-4.001542
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 				<tr>
 					<td class="linenr">L2813
 					</td>
-					<td/>
-					<td>node/7842766285
+					<td>0
 					</td>
-					<td class="INFO">5.3250653
+					<td>node/7842766285
 					</td>
 					<td>Gare de Warren Blockauss
 					</td>
+					<td class="INFO">5.3250653
+					</td>
 					<td class="INFO">-4.0015419
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2473,49 +2034,49 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L2830
 					</td>
-					<td/>
-					<td>node/7843264787
+					<td>0
 					</td>
-					<td class="INFO">5.3486238
+					<td>node/7843264787
 					</td>
 					<td>Akouedo au Basket
 					</td>
+					<td class="INFO">5.3486238
+					</td>
 					<td class="INFO">-3.9408008
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 				<tr>
 					<td class="linenr">L2833
 					</td>
-					<td/>
-					<td>node/7843272285
+					<td>0
 					</td>
-					<td class="INFO">5.348655
+					<td>node/7843272285
 					</td>
 					<td>Akouedo au Basket
 					</td>
+					<td class="INFO">5.348655
+					</td>
 					<td class="INFO">-3.9408264
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2535,34 +2096,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L2858
 					</td>
-					<td/>
-					<td>node/7847553386
+					<td>0
 					</td>
-					<td class="ERROR">5.3690635
+					<td>node/7847553386
 					</td>
 					<td>Andokoi - Zone Industrielle
 					</td>
+					<td class="ERROR">5.3690635
+					</td>
 					<td class="ERROR">-4.0806779
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2582,34 +2143,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L2913
 					</td>
-					<td/>
-					<td>node/7875553959
+					<td>0
 					</td>
-					<td class="ERROR">5.3407428
+					<td>node/7875553959
 					</td>
 					<td>Coopec Selmer
 					</td>
+					<td class="ERROR">5.3407428
+					</td>
 					<td class="ERROR">-4.0667083
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2629,34 +2190,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L2914
 					</td>
-					<td/>
-					<td>node/7875553960
+					<td>0
 					</td>
-					<td class="ERROR">5.3407328
+					<td>node/7875553960
 					</td>
 					<td>Banque BHCI
 					</td>
+					<td class="ERROR">5.3407328
+					</td>
 					<td class="ERROR">-4.0730511
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2676,34 +2237,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L3018
 					</td>
-					<td/>
-					<td>node/7884296060
+					<td>0
 					</td>
-					<td class="ERROR">5.3739931
+					<td>node/7884296060
 					</td>
 					<td>Carrefour Rue du commissariat du 12è
 					</td>
+					<td class="ERROR">5.3739931
+					</td>
 					<td class="ERROR">-3.9951865
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2723,34 +2284,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L3019
 					</td>
-					<td/>
-					<td>node/7884296061
+					<td>0
 					</td>
-					<td class="ERROR">5.3738963
+					<td>node/7884296061
 					</td>
 					<td>Terminus 12è
 					</td>
+					<td class="ERROR">5.3738963
+					</td>
 					<td class="ERROR">-3.992104
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2770,34 +2331,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L3020
 					</td>
-					<td/>
-					<td>node/7884296062
+					<td>0
 					</td>
-					<td class="ERROR">5.3748443
+					<td>node/7884296062
 					</td>
 					<td>Boulangerie le Roi du Pain
 					</td>
+					<td class="ERROR">5.3748443
+					</td>
 					<td class="ERROR">-3.9981464
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2817,34 +2378,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L3155
 					</td>
-					<td/>
-					<td>node/7888460988
+					<td>0
 					</td>
-					<td class="WARNING">5.420603
+					<td>node/7888460988
 					</td>
 					<td>Commissariat
 					</td>
+					<td class="WARNING">5.420603
+					</td>
 					<td class="WARNING">-3.9905722
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2864,34 +2425,34 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L3208
 					</td>
-					<td/>
-					<td>node/7902877638
+					<td>0
 					</td>
-					<td class="ERROR">5.355344
+					<td>node/7902877638
 					</td>
 					<td>Sable
 					</td>
+					<td class="ERROR">5.355344
+					</td>
 					<td class="ERROR">-4.0656059
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2911,49 +2472,49 @@ span.var {
 					<tr>
 						<td class="linenr">
 						</td>
-						<td>parent_station
+						<td>location_type
 						</td>
 						<td>stop_id
 						</td>
-						<td>stop_lat
-						</td>
 						<td>stop_name
+						</td>
+						<td>stop_lat
 						</td>
 						<td>stop_lon
 						</td>
-						<td>location_type
+						<td>parent_station
 						</td>
 					</tr>
 				</thead>
 				<tr>
 					<td class="linenr">L3224
 					</td>
-					<td/>
-					<td>node/7903535330
+					<td>0
 					</td>
-					<td class="INFO">5.3133727
+					<td>node/7903535330
 					</td>
 					<td>Yopougon Diop
 					</td>
+					<td class="INFO">5.3133727
+					</td>
 					<td class="INFO">-4.1114713
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 				<tr>
 					<td class="linenr">L3225
 					</td>
-					<td/>
-					<td>node/7903535331
+					<td>0
 					</td>
-					<td class="INFO">5.3133913
+					<td>node/7903535331
 					</td>
 					<td>Yopougon Diop
 					</td>
+					<td class="INFO">5.3133913
+					</td>
 					<td class="INFO">-4.1115095
 					</td>
-					<td>0
-					</td>
+					<td/>
 				</tr>
 			</table>
 			<table class="issuelist">
@@ -2968,6 +2529,6 @@ span.var {
 			</table>
 		</div>
 		<hr/>
-		<p class="comments">Validation done at Fri Sep 18 13:27:53 UTC 2020 by GTFSVTOR - Copyright (c) 2020 Mecatran
+		<p class="comments">Validation done at Tue Sep 22 07:27:12 UTC 2020 by GTFSVTOR - Copyright (c) 2020 Mecatran
 		</p>
 	</head>
