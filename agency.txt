@@ -1,24 +1,24 @@
-agency_url,agency_lang,agency_name,agency_timezone,agency_id
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,fr,Divers opérateurs,Africa/Abidjan,divers
-http://www.sotra.ci,,monbus,Africa/Abidjan,monbus
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Gbaka d'Adjamé,Africa/Abidjan,Gbaka d'Adjamé
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Gbaka d'Abobo,Africa/Abidjan,Gbaka d'Abobo
-http://www.sotra.ci,,monbus / Navette,Africa/Abidjan,monbus / Navette
-http://www.sotra.ci,,Express,Africa/Abidjan,Express
-http://www.sotra.ci,,Wibus,Africa/Abidjan,Wibus
-https://fr-fr.facebook.com/STL.ABIDJAN/,,STL,Africa/Abidjan,STL
-http://www.sotra.ci,,monbato,Africa/Abidjan,monbato
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Gbaka de Yopougon,Africa/Abidjan,Gbaka de Yopougon
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Gbaka de Treichville,Africa/Abidjan,Gbaka de Treichville
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Woro-woro de Cocody,Africa/Abidjan,Woro-woro de Cocody
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Woro-woro de Treichville,Africa/Abidjan,Woro-woro de Treichville
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Woro-woro de Yopougon,Africa/Abidjan,Woro-woro de Yopougon
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Woro-woro d'Adjamé,Africa/Abidjan,Woro-woro d'Adjamé
-https://www.facebook.com/aqualinesbycitrans/,,Aqualines,Africa/Abidjan,Aqualines
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Woro-woro de Port-Bouët,Africa/Abidjan,Woro-woro de Port-Bouët
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Woro-woro d'Abobo,Africa/Abidjan,Woro-woro d'Abobo
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Woro-woro de Koumassi,Africa/Abidjan,Woro-woro de Koumassi
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Gbaka de Koumassi,Africa/Abidjan,Gbaka de Koumassi
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Woro-woro de Marcory,Africa/Abidjan,Woro-woro de Marcory
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Woro-woro d'Attecoubé,Africa/Abidjan,Woro-woro d'Attecoubé
-https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,,Gbaka de Port-Bouët,Africa/Abidjan,Gbaka de Port-Bouët
+agency_lang,agency_id,agency_url,agency_timezone,agency_name
+fr,divers,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Divers opérateurs
+,monbus,http://www.sotra.ci,Africa/Abidjan,monbus
+,Gbaka d'Adjamé,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Gbaka d'Adjamé
+,Gbaka d'Abobo,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Gbaka d'Abobo
+,monbus / Navette,http://www.sotra.ci,Africa/Abidjan,monbus / Navette
+,Express,http://www.sotra.ci,Africa/Abidjan,Express
+,Wibus,http://www.sotra.ci,Africa/Abidjan,Wibus
+,STL,https://fr-fr.facebook.com/STL.ABIDJAN/,Africa/Abidjan,STL
+,monbato,http://www.sotra.ci,Africa/Abidjan,monbato
+,Gbaka de Yopougon,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Gbaka de Yopougon
+,Gbaka de Treichville,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Gbaka de Treichville
+,Woro-woro de Cocody,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Woro-woro de Cocody
+,Woro-woro de Treichville,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Woro-woro de Treichville
+,Woro-woro de Yopougon,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Woro-woro de Yopougon
+,Woro-woro d'Adjamé,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Woro-woro d'Adjamé
+,Aqualines,https://www.facebook.com/aqualinesbycitrans/,Africa/Abidjan,Aqualines
+,Woro-woro de Port-Bouët,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Woro-woro de Port-Bouët
+,Woro-woro d'Abobo,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Woro-woro d'Abobo
+,Woro-woro de Koumassi,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Woro-woro de Koumassi
+,Gbaka de Koumassi,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Gbaka de Koumassi
+,Woro-woro de Marcory,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Woro-woro de Marcory
+,Woro-woro d'Attecoubé,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Woro-woro d'Attecoubé
+,Gbaka de Port-Bouët,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,Gbaka de Port-Bouët
