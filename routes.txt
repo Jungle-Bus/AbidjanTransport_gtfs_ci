@@ -1,209 +1,209 @@
-route_short_name,route_type,agency_id,route_id,route_long_name,route_desc,route_color,route_text_color
-,3,Gbaka d'Adjamé,10179006,gbaka : Adjamé Liberté ↔ Treichville Gare de Bassam,,1779c2,ffffff
-,3,Gbaka d'Abobo,10179435,gbaka : Adjamé ↔ Abobo Gare Mairie,,1779c2,ffffff
-,3,Gbaka d'Abobo,10184139,gbaka : Adjamé Liberté ↔ Abobo Gare Mairie,,1779c2,ffffff
-,3,Gbaka d'Abobo,10184730,gbaka : Abobo Gare Mairie ↔Akeïkoi Village,,1779c2,ffffff
-,3,Gbaka d'Abobo,10184964,gbaka : Abobo Gare Mairie ↔ Kennedy Marché,,1779c2,ffffff
-,3,Gbaka d'Abobo,10185142,gbaka : Abobo Gare Mairie ↔ Kennedy Mosquée Ado,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10185169,gbaka : Adjamé gare en haut ↔ Cocody Riviera M'badon,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10185403,gbaka : Adjamé gare en haut ↔ Cocody Attoban Camp,,1779c2,ffffff
-,3,Gbaka d'Abobo,10185406,gbaka : Abobo Gare Mairie ↔ Abobo PK 18,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10402404,gbaka : Adjamé Liberté ↔ Cocody Riviera 2,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10402518,gbaka : Adjamé gare en haut ↔ Cocody Anono,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10402749,gbaka : Adjamé gare en haut ↔ Bingerville,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10403055,gbaka : Adjamé gare en haut ↔ Cocody Riviera M'pouto,,1779c2,ffffff
-,3,Gbaka de Yopougon,10403061,gbaka : Adjamé Texaco ↔ Yopougon Kowët,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10404238,gbaka : Adjamé gare en haut ↔ Cocody Akouédo,,1779c2,ffffff
-,3,Gbaka de Treichville,10406129,gbaka : Treichville Gare de Bassam ↔ Port-Bouët Gonzagueville,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10406387,gbaka : Yopougon Palais ↔ Adjamé Renault,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10406547,gbaka : Yopougon Niangon Terminus 27 ↔ Adjamé Liberté,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10406621,gbaka : Adjamé Liberté ↔ Koumassi,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10406865,gbaka : Adjamé Liberté ↔ Yopougon Palais,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10407729,gbaka : Adjamé Texaco ↔ Yopougon Camp Militaire,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10407850,gbaka : Yopougon Carrefour Académie ↔ Adjamé Liberté,,1779c2,ffffff
-,3,Woro-woro de Cocody,10408669,woro woro : Riviera 2 ↔ Angré Terminus 81-82,,1779c2,ffffff
-,3,Woro-woro de Cocody,10408694,woro woro : Riviera 2 ↔ Angré 22ème,,1779c2,ffffff
-,3,Woro-woro de Cocody,10408727,woro woro : Riviera 2 ↔ Attoban Camp,,1779c2,ffffff
-,3,Woro-woro de Treichville,10408771,woro woro : Treichville Gare de Bassam ↔ Treichville Gare Bateau-bus,,1779c2,ffffff
-,3,Woro-woro de Yopougon,10408836,woro woro : Yopougon Gabriel gare ↔ Yopougon Micao,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10409494,gbaka : Adjamé Renault ↔ Abobo Gare Mairie,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10409714,gbaka : Adjamé Liberté ↔ Carrefour Lokoa,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10410754,gbaka : Adjamé Liberté ↔ Bingerville,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10411047,gbaka : Yopougon gare Gesco ↔ Adjamé Agban,,1779c2,ffffff
-,3,Woro-woro de Cocody,10412424,woro woro : Zoo ↔ Vallon,,1779c2,ffffff
-,3,Woro-woro de Cocody,10412781,woro woro : Zoo ↔ Sococe Deux plateaux,,1779c2,ffffff
-,3,Woro-woro de Cocody,10413050,woro woro : Abobo Azur Mobil ↔ CHU Angré,,1779c2,ffffff
-,3,Woro-woro de Cocody,10413162,woro woro : Abobo Azur Mobil ↔ 8e Tranche CNPS en haut,,1779c2,ffffff
-,3,Woro-woro d'Adjamé,10413253,woro woro : Adjamé Liberté ↔ Adjamé Mairie Dallas,,1779c2,ffffff
-,3,Woro-woro de Cocody,10413686,woro woro : Abobo Azur Mobil ↔ Angré Château,,1779c2,ffffff
-,3,Woro-woro de Cocody,10416510,woro woro : Palmeraie ↔ Les Rosiers,,1779c2,ffffff
-,3,Woro-woro de Cocody,10416736,woro woro : Carrefour 9km ↔ Palmeraie SIPIM 4,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10430127,gbaka : Abobo Gare ↔ Ndotre,,1779c2,ffffff
-,3,Woro-woro de Cocody,10430197,woro woro : Abobo Azur Mobil ↔ Saint Jean,,1779c2,ffffff
-,3,Woro-woro de Cocody,10430593,woro woro : Zoo ↔ Aghien,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10430627,gbaka : Abobo Gendarmerie ↔ Yopougon Carrefour Zone,,1779c2,ffffff
-,3,Woro-woro de Cocody,10431102,woro woro : Zoo ↔ Attoban,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10442364,gbaka : Yopougon Sideci IGES ↔ Adjamé Liberté,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10459360,gbaka : Yopougon Niangon Terminus 27 ↔ Adjamé mosquée,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10459458,gbaka : Gare Kobenan Agban ↔ Yopougon marché Bagnon,,1779c2,ffffff
-,3,Gbaka d'Abobo,10460517,gbaka : BC ↔ Adjamé Nouvelle Gare,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10460657,gbaka : Abobo Gare ↔ Belle ville,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10460968,gbaka : Abobo Gare ↔ Gare d'Anyama,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10461146,gbaka : Abobo Gare ↔ Angré Petro Ivoire,,1779c2,ffffff
-,3,Gbaka d'Abobo,10461307,gbaka : Carrefour JAUG ↔ Adjamé Nouvelle Gare,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10461959,gbaka : Yopougon Lokoa ↔ Adjame mosquée,,1779c2,ffffff
-,4,Aqualines,10464893,bateau-bus : Yopougon (Abobo Doumé) ↔ Plateau,,1779c2,ffffff
-,4,Aqualines,10465035,bateau-bus : Abatta ↔ Plateau,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10474495,gbaka : Gare Kobenan Agban ↔ Yopougon koweit,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10474747,gbaka : Gare kobenan Agban ↔ Yopougon Lubafrique,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10476005,gbaka : Adjamé gare en haut ↔ Akouedo Attié,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10476178,gbaka : Gare Kobenan Agban ↔ Bingerville,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10476298,gbaka : Adjame Agban ↔ Yopougon boassi,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10480217,gbaka : Adjamé Agban ↔ Yopougon Camp Militaire,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10480360,gbaka : Gare Kobenan Agban ↔ Yopougon Niangon Terminus 27,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10480446,gbaka : Gare Kobenan Agban ↔ Yopougon Carrefour Académie,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10480461,gbaka : Yopougon Carrefour Académie ↔ Adjamé mosquée,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10480573,gbaka : Adjamé Agban ↔ Port-Bouët Vridi,,1779c2,ffffff
-,3,Gbaka d'Adjamé,10521453,gbaka : Adjame Agban ↔ Bingerville,,1779c2,ffffff
-,3,Woro-woro de Cocody,10628612,woro woro : Saint Jean ↔ Riviera 2,,1779c2,ffffff
-,3,Woro-woro de Cocody,10628718,woro woro : Saint Jean ↔ Angré Château,,1779c2,ffffff
-,3,Woro-woro de Cocody,10628857,woro woro : Saint Jean ↔ Angré Pétro Ivoire,,1779c2,ffffff
-,3,Woro-woro de Port-Bouët,10647547,woro woro : Marché de Port-Bouët ↔ Vridi Cité,,1779c2,ffffff
-,3,Woro-woro de Port-Bouët,10647596,woro woro : Marché de Port-Bouët ↔ Vridi Canal,,1779c2,ffffff
-,3,Woro-woro de Port-Bouët,10647737,woro woro : Marché de Port-Bouët ↔ Anani,,1779c2,ffffff
-,3,Woro-woro d'Abobo,10651885,woro woro : Abobo Gare ↔ BC,,1779c2,ffffff
-,3,Woro-woro d'Abobo,10651976,woro woro : Abobo Gendarmerie ↔ Ndotre,,1779c2,ffffff
-,3,Woro-woro d'Abobo,10653426,woro woro : Abobo Gare ↔ Biabou,,1779c2,ffffff
-,3,Woro-woro d'Abobo,10653562,woro woro : Abobo Gare ↔ Houphouet-Boigny,,1779c2,ffffff
-,3,Woro-woro d'Abobo,10653808,woro woro : Abobo Gare ↔ Angre Petro Ivoire,,1779c2,ffffff
-,3,Woro-woro de Cocody,10653984,woro woro : Palmeraie ↔ Mahou/Azur,,1779c2,ffffff
-,3,Woro-woro de Cocody,10669276,woro woro : Palmeraie ↔ Terminus 81-82,,1779c2,ffffff
-,3,Woro-woro de Port-Bouët,10670070,woro woro : Marché de Port-Bouët ↔ Port de Pêche,,1779c2,ffffff
-,3,Woro-woro de Port-Bouët,10670151,woro woro : Carrefour Aéroport ↔ Aéroport,,1779c2,ffffff
-,3,Woro-woro de Koumassi,10672696,woro woro : Koumassi grand marché ↔ Terminus 05,,1779c2,ffffff
-,3,Woro-woro de Koumassi,10676982,woro woro : Koumassi grand marché ↔ Ancien Koumassi,,1779c2,ffffff
-,3,Woro-woro de Koumassi,10677072,woro woro : Anoumabo sans fil ↔ Koumassi grand marché,,1779c2,ffffff
-,3,Woro-woro de Koumassi,10677135,woro woro : Koumassi grand marché ↔ Koumassi campement,,1779c2,ffffff
-,3,Woro-woro de Koumassi,10677516,woro woro : Koumassi grand marché ↔ Soweto,,1779c2,ffffff
-,3,Woro-woro de Koumassi,10677691,woro woro : Anoumabo sans fil ↔ Koumassi Hôpital général,,1779c2,ffffff
-,3,Woro-woro de Koumassi,11527162,woro woro : Gare communale ↔ Soweto,,1779c2,ffffff
-,3,Woro-woro de Koumassi,11527427,woro woro : Gare communale ↔ Sicogi,,1779c2,ffffff
-,3,Woro-woro de Koumassi,11529097,woro woro : Sicogi ↔ Terminus 32,,1779c2,ffffff
-,3,Woro-woro de Koumassi,11529225,woro woro : Anoumabo sans fil ↔ Sicogi,,1779c2,ffffff
-,3,Woro-woro de Koumassi,11529405,woro woro : Sicogi ↔ Soweto,,1779c2,ffffff
-,3,Woro-woro de Cocody,11529699,woro woro : 9 kilo ↔ Akouédo,,1779c2,ffffff
-,3,Woro-woro de Cocody,11531745,woro woro : 9 kilo ↔ Ciad Eden,,1779c2,ffffff
-,3,Woro-woro de Cocody,11531813,woro woro : 9 kilo ↔ Sol Beni au bateau,,1779c2,ffffff
-,3,Woro-woro de Cocody,11531971,woro woro : Gare Bonoumin ↔ Abri 2000,,1779c2,ffffff
-,3,Woro-woro de Cocody,11532200,woro woro : Station après barage ↔ CHU Angré,,1779c2,ffffff
-,3,Woro-woro de Cocody,11532307,woro woro : Station après barage ↔ Rosier Programme 6,,1779c2,ffffff
-,3,Woro-woro de Cocody,11532430,woro woro : Station après barage ↔ Petro ivoire,,1779c2,ffffff
-,3,Woro-woro de Cocody,11532537,woro woro : Rivera 2 ↔ Anono,,1779c2,ffffff
-,3,Gbaka de Koumassi,11535716,gbaka : Anoumabo sans fil ↔ Treichville Rue 12,,1779c2,ffffff
-,3,Woro-woro de Marcory,11538371,woro woro : Carrefour lycée ↔ Maison blanche,,1779c2,ffffff
-,3,Woro-woro de Marcory,11538539,woro woro : Gare Sotra Marcory ↔ Maison blanche,,1779c2,ffffff
-,3,Woro-woro de Marcory,11538775,woro woro : Carrefour Lycée ↔ CTAO,,1779c2,ffffff
-,3,Woro-woro de Marcory,11539470,woro woro :Gare Sotra Marcory ↔ CTAO,,1779c2,ffffff
-,3,Woro-woro de Marcory,11539584,woro woro : Hibiscus ↔ Mairie de Marcory,,1779c2,ffffff
-,3,Woro-woro de Cocody,11539651,woro woro : Rivera 2 station ↔ 9 Kilo,,1779c2,ffffff
-,3,Woro-woro de Cocody,11539787,woro woro : Saint Jean ↔ Blockhauss,,1779c2,ffffff
-,3,Woro-woro de Cocody,11543111,woro woro : Blockauss ↔ CHU de Cocody,,1779c2,ffffff
-,3,Woro-woro de Cocody,11543163,woro woro : Blockauss ↔ La Vie,,1779c2,ffffff
-,3,Woro-woro de Cocody,11543219,woro woro : Blockauss ↔ Patisserie,,1779c2,ffffff
-,3,Woro-woro de Cocody,11543567,woro woro : Rivera 2 station ↔ Akouédo,,1779c2,ffffff
-,3,Woro-woro de Cocody,11543885,woro woro : Rivera 2 station ↔ CIAD Eden,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11544387,woro woro : Siporex ↔ Toit rouge Jean-Paul2,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11544470,woro woro : Siporex ↔ Koweit,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11548462,woro woro : Siporex ↔ Andokoi,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11555785,woro woro : Sapeur Pompier ↔ Camp Militaire,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11555928,woro woro : Sapeur Pompier ↔ Terminus 40,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11569330,woro woro : Gabriel Gare ↔ Prison Civile,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11569444,woro woro : Siporex ↔ Camp militaire,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11572895,woro woro : Gabriel Gare ↔ Mossikro,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11573879,woro woro : Abobo Gare ↔ Terminus Derrière Rail,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11578622,woro woro : Complexe ↔ Koweit,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11580511,woro woro : BHCI ↔ Toit rouge Jean-Paul 2,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11580548,woro woro : BHCI ↔ Lama Fofana,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11581068,woro woro : BHCI ↔ Sapeur Pompier,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11581116,woro woro : Palais ↔ Toit rouge Jean-Paul 2,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11581529,woro woro : Camp Militaire ↔ Saguidiba,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11581693,woro woro : Camp Militaire ↔ Abobo Doumé,,1779c2,ffffff
-,3,Woro-woro de Cocody,11581772,woro woro : Zoo ↔ Pont Soro,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11581798,woro woro : Sable nouveau goudron ↔ Mossikro,,1779c2,ffffff
-,3,Woro-woro de Cocody,11581822,woro woro : Zoo ↔ Cascades,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11581842,woro woro : Sable nouveau goudron ↔ Millionnaire Antenne,,1779c2,ffffff
-,3,Woro-woro de Cocody,11581878,woro woro : Zoo ↔ Zinssou,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11583609,woro woro : Sapeur Pompier ↔ Saguidiba,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11583655,woro woro : Palais ↔ Camp Militaire,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11583703,woro woro : Koweit ↔ Toit rouge Jean-Paul 2,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11583900,woro woro : Camp Militaire ↔ Koweit,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11588596,woro woro : Palais ↔ Sapeur Pompier,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11588862,woro woro : BHCI ↔ Complexe,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11588965,woro woro : Keneya ↔ Nouveau Goudron,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11589210,woro woro : Zone industrielle ↔ Sable nouveau groudron,,1779c2,ffffff
-,3,Woro-woro de Cocody,11591910,woro woro : Gare carrefour 2 plateaux ↔ Vallon,,1779c2,ffffff
-,3,Woro-woro de Cocody,11592007,woro woro : Gare carrefour 2 plateaux ↔ Commissariat du 12è,,1779c2,ffffff
-,3,Woro-woro d'Adjamé,11592064,woro woro : Adjamé Liberté ↔ Saint Michel,,1779c2,ffffff
-,3,Woro-woro de Cocody,11592121,woro woro : Zoo ↔ Opera,,1779c2,ffffff
-,3,Gbaka de Yopougon,11592212,gbaka : Carrefour CHU ↔ Sable,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11592326,woro woro : Abobo Gendarmerie ↔ Terminus Derrière Rail Celeste,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11592385,woro woro : Carrefour Zone ↔ Zone industrielle,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11592419,woro woro : Carrefour Zone ↔ Micao,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11592466,woro woro : Keneya ↔ Carrefour CHU,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11592497,woro woro : Abobo Marché ↔ Kennedy,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11592571,woro woro : Mairie ↔ Gabriel Gare,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11592766,woro woro : Abobo Marché ↔ Dokui,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11592774,woro woro : Bel air ↔ Gabriel Gare,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11592840,woro woro : Coopec ananeraie ↔ Carrefour Oasis,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11592897,woro woro : Abobo marché ↔ Houphouet-Boigny,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11592959,woro woro : Abobo Marche ↔ Carrefour kennedy,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11593183,woro woro : Ancienne Gendarmerie ↔ Grand Carrefour,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11596432,woro woro : Keneya ↔ Coopec ananeraie,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11596455,woro woro : Bel air ↔ Keneya,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11596584,woro woro : Palais ↔ Koweit,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11596698,woro woro : Palais ↔ Abobo Doumé,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11596735,woro woro : Bel air ↔ Mossikro,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11596752,woro woro : Bel air ↔ Millionnaire Antenne,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11596793,woro woro : Sapeur Pompier ↔ Toit rouge Jean-Paul 2,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11596832,woro woro : Abobo Doumé ↔ Toit rouge Jean-Paul 2,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11596845,woro woro : Gare d'Anyama ↔ Mairie d'Anyama,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11596868,woro woro : Koweit ↔ Sable,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11596890,woro woro : Koweit ↔ Abobo Doumé,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11597012,woro woro : Lycée Moderne d'Abobo ↔ Houphouet-Boigny,,1779c2,ffffff
-,3,Woro-woro d'Attecoubé,11597021,woro woro : Mossikro ↔ Abobo Doumé Santé,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11597137,woro woro : Abobo Gendarmerie ↔ BC Carrefour Niamkey,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11597169,woro woro : Abobo Gendarmerie ↔ BC,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11597201,woro woro : Abobo Marche ↔ Habitat grace,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11597456,woro woro : Abobo Marché ↔ Abobo Baoulé,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11600234,woro woro : Abobo Gendarmerie ↔ Houphouet-Boigny,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11600299,woro woro : Abobo Samaké ↔ Abobo Baoulé,,1779c2,ffffff
-,3,Woro-woro d'Abobo,11600482,woro woro : Carrefour Kennedy ↔ Mosquée Ado,,1779c2,ffffff
-,3,Gbaka d'Abobo,11600997,gbaka : Lycée Moderne Abobo ↔ Adjamé Liberté,,1779c2,ffffff
-,3,Gbaka d'Abobo,11604247,gbaka : Abobo Samaké ↔ Biabou,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11619625,woro woro : Terminus 40 ↔ Camp Militaire,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11619658,woro woro : Terminus 40 ↔ Toit rouge Jean-Paul 2,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11619704,woro woro : Terminus 40 ↔ Abobo Doumé,,1779c2,ffffff
-,3,Gbaka de Yopougon,11619877,gbaka : Siporex ↔ Songon Agban,,1779c2,ffffff
-,3,Gbaka de Yopougon,11619939,gbaka : Sable ↔ Koweit,,1779c2,ffffff
-,3,Gbaka de Yopougon,11620000,gbaka : Yopougon Siporex ↔ Yopougon Lokoa,,1779c2,ffffff
-,3,Gbaka de Yopougon,11620022,gbaka : Yopougon Siporex ↔ Yopougon Académie,,1779c2,ffffff
-,3,Gbaka de Yopougon,11620051,gbaka : Yopougon Siporex ↔ Yopougon Gesco,,1779c2,ffffff
-,3,Gbaka de Yopougon,11620886,gbaka : Yopougon Acamedie ↔ Yopougon Diop,,1779c2,ffffff
-,3,Gbaka de Yopougon,11620905,gbaka : Yopougon Siporex ↔ Yopougon IGES,,1779c2,ffffff
-,3,Woro-woro de Port-Bouët,11702225,woro woro : Terre Rouge ↔ Carrefour deux poteaux,,1779c2,ffffff
-,3,Woro-woro de Port-Bouët,11702278,woro woro : Terre Rouge ↔ Benogosso,,1779c2,ffffff
-,3,Gbaka de Yopougon,11702376,gbaka : Yopougon Carrefour zone ↔ Ndotre,,1779c2,ffffff
-,3,Woro-woro de Yopougon,11702381,woro woro : Marché 23è ↔ Zone industrielle,,1779c2,ffffff
-,3,Gbaka de Yopougon,11702592,gbaka : Yopougon Carrefour zone ↔ Abobo Agripac,,1779c2,ffffff
-,3,Gbaka d'Abobo,11702772,gbaka : Abobo Marché ↔ Biabou,,1779c2,ffffff
-,3,Gbaka de Yopougon,11702874,gbaka : Yopougon Palais ↔ Beago Wolosso,,1779c2,ffffff
-,3,Gbaka de Yopougon,11702965,gbaka : Yopougon Koweit ↔ Zone Industrielle,,1779c2,ffffff
-,3,Gbaka de Yopougon,11703071,gbaka : Zone Industrielle ↔ Gesco,,1779c2,ffffff
-,3,Gbaka de Port-Bouët,11703076,gbaka : Casier ↔ Belleville,,1779c2,ffffff
-,3,Gbaka de Port-Bouët,11703113,gbaka : Mobiobi ↔ Terminus Mobiobi,,1779c2,ffffff
-,3,Gbaka de Yopougon,11703128,gbaka : Yopougon Locodjro Marine ↔ Attecoubé Garage,,1779c2,ffffff
-,3,Gbaka de Port-Bouët,11703171,gbaka : Gonzagueville Corridor ↔ Éléphant,,1779c2,ffffff
-,3,Gbaka de Port-Bouët,11703223,gbaka : Gonzagueville Corridor ↔ Abraham,,1779c2,ffffff
-,3,Gbaka de Port-Bouët,11703304,gbaka : Gonzagueville Corridor ↔ Usine,,1779c2,ffffff
-,3,Gbaka de Yopougon,11758498,gbaka : Yopougon IGES ↔ Adjame mosquée en bas du pont,,1779c2,ffffff
-,3,Gbaka de Yopougon,11758556,gbaka : Adjamé Texaco ↔ Yopougon Lubafrique,,1779c2,ffffff
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+r10179006,Gbaka d'Adjamé,,gbaka : Adjamé Liberté ↔ Treichville Gare de Bassam,,3,https://jungle-bus.github.io/unroll/route.html?line=10179006,,
+r10179435,Gbaka d'Abobo,,gbaka : Adjamé ↔ Abobo Gare Mairie,,3,https://jungle-bus.github.io/unroll/route.html?line=10179435,,
+r10184139,Gbaka d'Abobo,,gbaka : Adjamé Liberté ↔ Abobo Gare Mairie,,3,https://jungle-bus.github.io/unroll/route.html?line=10184139,,
+r10184730,Gbaka d'Abobo,,gbaka : Abobo Gare Mairie ↔Akeïkoi Village,,3,https://jungle-bus.github.io/unroll/route.html?line=10184730,,
+r10184964,Gbaka d'Abobo,,gbaka : Abobo Gare Mairie ↔ Kennedy Marché,,3,https://jungle-bus.github.io/unroll/route.html?line=10184964,,
+r10185142,Gbaka d'Abobo,,gbaka : Abobo Gare Mairie ↔ Kennedy Mosquée Ado,,3,https://jungle-bus.github.io/unroll/route.html?line=10185142,,
+r10185169,Gbaka d'Adjamé,,gbaka : Adjamé gare en haut ↔ Cocody Riviera M'badon,,3,https://jungle-bus.github.io/unroll/route.html?line=10185169,,
+r10185403,Gbaka d'Adjamé,,gbaka : Adjamé gare en haut ↔ Cocody Attoban Camp,,3,https://jungle-bus.github.io/unroll/route.html?line=10185403,,
+r10185406,Gbaka d'Abobo,,gbaka : Abobo Gare Mairie ↔ Abobo PK 18,,3,https://jungle-bus.github.io/unroll/route.html?line=10185406,,
+r10402404,Gbaka d'Adjamé,,gbaka : Adjamé Liberté ↔ Cocody Riviera 2,,3,https://jungle-bus.github.io/unroll/route.html?line=10402404,,
+r10402518,Gbaka d'Adjamé,,gbaka : Adjamé gare en haut ↔ Cocody Anono,,3,https://jungle-bus.github.io/unroll/route.html?line=10402518,,
+r10402749,Gbaka d'Adjamé,,gbaka : Adjamé gare en haut ↔ Bingerville,,3,https://jungle-bus.github.io/unroll/route.html?line=10402749,,
+r10403055,Gbaka d'Adjamé,,gbaka : Adjamé gare en haut ↔ Cocody Riviera M'pouto,,3,https://jungle-bus.github.io/unroll/route.html?line=10403055,,
+r10403061,Gbaka de Yopougon,,gbaka : Adjamé Texaco ↔ Yopougon Kowët,,3,https://jungle-bus.github.io/unroll/route.html?line=10403061,,
+r10404238,Gbaka d'Adjamé,,gbaka : Adjamé gare en haut ↔ Cocody Akouédo,,3,https://jungle-bus.github.io/unroll/route.html?line=10404238,,
+r10406129,Gbaka de Treichville,,gbaka : Treichville Gare de Bassam ↔ Port-Bouët Gonzagueville,,3,https://jungle-bus.github.io/unroll/route.html?line=10406129,,
+r10406387,Gbaka d'Adjamé,,gbaka : Yopougon Palais ↔ Adjamé Renault,,3,https://jungle-bus.github.io/unroll/route.html?line=10406387,,
+r10406547,Gbaka d'Adjamé,,gbaka : Yopougon Niangon Terminus 27 ↔ Adjamé Liberté,,3,https://jungle-bus.github.io/unroll/route.html?line=10406547,,
+r10406621,Gbaka d'Adjamé,,gbaka : Adjamé Liberté ↔ Koumassi,,3,https://jungle-bus.github.io/unroll/route.html?line=10406621,,
+r10406865,Gbaka d'Adjamé,,gbaka : Adjamé Liberté ↔ Yopougon Palais,,3,https://jungle-bus.github.io/unroll/route.html?line=10406865,,
+r10407729,Gbaka d'Adjamé,,gbaka : Adjamé Texaco ↔ Yopougon Camp Militaire,,3,https://jungle-bus.github.io/unroll/route.html?line=10407729,,
+r10407850,Gbaka d'Adjamé,,gbaka : Yopougon Carrefour Académie ↔ Adjamé Liberté,,3,https://jungle-bus.github.io/unroll/route.html?line=10407850,,
+r10408669,Woro-woro de Cocody,,woro woro : Riviera 2 ↔ Angré Terminus 81-82,,3,https://jungle-bus.github.io/unroll/route.html?line=10408669,ffff00,
+r10408694,Woro-woro de Cocody,,woro woro : Riviera 2 ↔ Angré 22ème,,3,https://jungle-bus.github.io/unroll/route.html?line=10408694,ffff00,
+r10408727,Woro-woro de Cocody,,woro woro : Riviera 2 ↔ Attoban Camp,,3,https://jungle-bus.github.io/unroll/route.html?line=10408727,ffff00,
+r10408771,Woro-woro de Treichville,,woro woro : Treichville Gare de Bassam ↔ Treichville Gare Bateau-bus,,3,https://jungle-bus.github.io/unroll/route.html?line=10408771,0000ff,
+r10408836,Woro-woro de Yopougon,,woro woro : Yopougon Gabriel gare ↔ Yopougon Micao,,3,https://jungle-bus.github.io/unroll/route.html?line=10408836,0000ff,
+r10409494,Gbaka d'Adjamé,,gbaka : Adjamé Renault ↔ Abobo Gare Mairie,,3,https://jungle-bus.github.io/unroll/route.html?line=10409494,,
+r10409714,Gbaka d'Adjamé,,gbaka : Adjamé Liberté ↔ Carrefour Lokoa,,3,https://jungle-bus.github.io/unroll/route.html?line=10409714,,
+r10410754,Gbaka d'Adjamé,,gbaka : Adjamé Liberté ↔ Bingerville,,3,https://jungle-bus.github.io/unroll/route.html?line=10410754,,
+r10411047,Gbaka d'Adjamé,,gbaka : Yopougon gare Gesco ↔ Adjamé Agban,,3,https://jungle-bus.github.io/unroll/route.html?line=10411047,,
+r10412424,Woro-woro de Cocody,,woro woro : Zoo ↔ Vallon,,3,https://jungle-bus.github.io/unroll/route.html?line=10412424,ffff00,
+r10412781,Woro-woro de Cocody,,woro woro : Zoo ↔ Sococe Deux plateaux,,3,https://jungle-bus.github.io/unroll/route.html?line=10412781,ffff00,
+r10413050,Woro-woro de Cocody,,woro woro : Abobo Azur Mobil ↔ CHU Angré,,3,https://jungle-bus.github.io/unroll/route.html?line=10413050,ffff00,
+r10413162,Woro-woro de Cocody,,woro woro : Abobo Azur Mobil ↔ 8e Tranche CNPS en haut,,3,https://jungle-bus.github.io/unroll/route.html?line=10413162,ffff00,
+r10413253,Woro-woro d'Adjamé,,woro woro : Adjamé Liberté ↔ Adjamé Mairie Dallas,,3,https://jungle-bus.github.io/unroll/route.html?line=10413253,008000,
+r10413686,Woro-woro de Cocody,,woro woro : Abobo Azur Mobil ↔ Angré Château,,3,https://jungle-bus.github.io/unroll/route.html?line=10413686,ffff00,
+r10416510,Woro-woro de Cocody,,woro woro : Palmeraie ↔ Les Rosiers,,3,https://jungle-bus.github.io/unroll/route.html?line=10416510,ffff00,
+r10416736,Woro-woro de Cocody,,woro woro : Carrefour 9km ↔ Palmeraie SIPIM 4,,3,https://jungle-bus.github.io/unroll/route.html?line=10416736,ffff00,
+r10430127,Gbaka d'Adjamé,,gbaka : Abobo Gare ↔ Ndotre,,3,https://jungle-bus.github.io/unroll/route.html?line=10430127,,
+r10430197,Woro-woro de Cocody,,woro woro : Abobo Azur Mobil ↔ Saint Jean,,3,https://jungle-bus.github.io/unroll/route.html?line=10430197,ffff00,
+r10430593,Woro-woro de Cocody,,woro woro : Zoo ↔ Aghien,,3,https://jungle-bus.github.io/unroll/route.html?line=10430593,ffff00,
+r10430627,Gbaka d'Adjamé,,gbaka : Abobo Gendarmerie ↔ Yopougon Carrefour Zone,,3,https://jungle-bus.github.io/unroll/route.html?line=10430627,,
+r10431102,Woro-woro de Cocody,,woro woro : Zoo ↔ Attoban,,3,https://jungle-bus.github.io/unroll/route.html?line=10431102,ffff00,
+r10442364,Gbaka d'Adjamé,,gbaka : Yopougon Sideci IGES ↔ Adjamé Liberté,,3,https://jungle-bus.github.io/unroll/route.html?line=10442364,,
+r10459360,Gbaka d'Adjamé,,gbaka : Yopougon Niangon Terminus 27 ↔ Adjamé mosquée,,3,https://jungle-bus.github.io/unroll/route.html?line=10459360,,
+r10459458,Gbaka d'Adjamé,,gbaka : Gare Kobenan Agban ↔ Yopougon marché Bagnon,,3,https://jungle-bus.github.io/unroll/route.html?line=10459458,,
+r10460517,Gbaka d'Abobo,,gbaka : BC ↔ Adjamé Nouvelle Gare,,3,https://jungle-bus.github.io/unroll/route.html?line=10460517,,
+r10460657,Gbaka d'Adjamé,,gbaka : Abobo Gare ↔ Belle ville,,3,https://jungle-bus.github.io/unroll/route.html?line=10460657,,
+r10460968,Gbaka d'Adjamé,,gbaka : Abobo Gare ↔ Gare d'Anyama,,3,https://jungle-bus.github.io/unroll/route.html?line=10460968,,
+r10461146,Gbaka d'Adjamé,,gbaka : Abobo Gare ↔ Angré Petro Ivoire,,3,https://jungle-bus.github.io/unroll/route.html?line=10461146,,
+r10461307,Gbaka d'Abobo,,gbaka : Carrefour JAUG ↔ Adjamé Nouvelle Gare,,3,https://jungle-bus.github.io/unroll/route.html?line=10461307,,
+r10461959,Gbaka d'Adjamé,,gbaka : Yopougon Lokoa ↔ Adjame mosquée,,3,https://jungle-bus.github.io/unroll/route.html?line=10461959,,
+r10464893,Aqualines,,bateau-bus : Yopougon (Abobo Doumé) ↔ Plateau,,4,https://jungle-bus.github.io/unroll/route.html?line=10464893,,
+r10465035,Aqualines,,bateau-bus : Abatta ↔ Plateau,,4,https://jungle-bus.github.io/unroll/route.html?line=10465035,,
+r10474495,Gbaka d'Adjamé,,gbaka : Gare Kobenan Agban ↔ Yopougon koweit,,3,https://jungle-bus.github.io/unroll/route.html?line=10474495,,
+r10474747,Gbaka d'Adjamé,,gbaka : Gare kobenan Agban ↔ Yopougon Lubafrique,,3,https://jungle-bus.github.io/unroll/route.html?line=10474747,,
+r10476005,Gbaka d'Adjamé,,gbaka : Adjamé gare en haut ↔ Akouedo Attié,,3,https://jungle-bus.github.io/unroll/route.html?line=10476005,,
+r10476178,Gbaka d'Adjamé,,gbaka : Gare Kobenan Agban ↔ Bingerville,,3,https://jungle-bus.github.io/unroll/route.html?line=10476178,,
+r10476298,Gbaka d'Adjamé,,gbaka : Adjame Agban ↔ Yopougon boassi,,3,https://jungle-bus.github.io/unroll/route.html?line=10476298,,
+r10480217,Gbaka d'Adjamé,,gbaka : Adjamé Agban ↔ Yopougon Camp Militaire,,3,https://jungle-bus.github.io/unroll/route.html?line=10480217,,
+r10480360,Gbaka d'Adjamé,,gbaka : Gare Kobenan Agban ↔ Yopougon Niangon Terminus 27,,3,https://jungle-bus.github.io/unroll/route.html?line=10480360,,
+r10480446,Gbaka d'Adjamé,,gbaka : Gare Kobenan Agban ↔ Yopougon Carrefour Académie,,3,https://jungle-bus.github.io/unroll/route.html?line=10480446,,
+r10480461,Gbaka d'Adjamé,,gbaka : Yopougon Carrefour Académie ↔ Adjamé mosquée,,3,https://jungle-bus.github.io/unroll/route.html?line=10480461,,
+r10480573,Gbaka d'Adjamé,,gbaka : Adjamé Agban ↔ Port-Bouët Vridi,,3,https://jungle-bus.github.io/unroll/route.html?line=10480573,,
+r10521453,Gbaka d'Adjamé,,gbaka : Adjame Agban ↔ Bingerville,,3,https://jungle-bus.github.io/unroll/route.html?line=10521453,,
+r10628612,Woro-woro de Cocody,,woro woro : Saint Jean ↔ Riviera 2,,3,https://jungle-bus.github.io/unroll/route.html?line=10628612,ffff00,
+r10628718,Woro-woro de Cocody,,woro woro : Saint Jean ↔ Angré Château,,3,https://jungle-bus.github.io/unroll/route.html?line=10628718,ffff00,
+r10628857,Woro-woro de Cocody,,woro woro : Saint Jean ↔ Angré Pétro Ivoire,,3,https://jungle-bus.github.io/unroll/route.html?line=10628857,ffff00,
+r10647547,Woro-woro de Port-Bouët,,woro woro : Marché de Port-Bouët ↔ Vridi Cité,,3,https://jungle-bus.github.io/unroll/route.html?line=10647547,ffff00,
+r10647596,Woro-woro de Port-Bouët,,woro woro : Marché de Port-Bouët ↔ Vridi Canal,,3,https://jungle-bus.github.io/unroll/route.html?line=10647596,ffff00,
+r10647737,Woro-woro de Port-Bouët,,woro woro : Marché de Port-Bouët ↔ Anani,,3,https://jungle-bus.github.io/unroll/route.html?line=10647737,ffff00,
+r10651885,Woro-woro d'Abobo,,woro woro : Abobo Gare ↔ BC,,3,https://jungle-bus.github.io/unroll/route.html?line=10651885,f5f5dc,
+r10651976,Woro-woro d'Abobo,,woro woro : Abobo Gendarmerie ↔ Ndotre,,3,https://jungle-bus.github.io/unroll/route.html?line=10651976,f5f5dc,
+r10653426,Woro-woro d'Abobo,,woro woro : Abobo Gare ↔ Biabou,,3,https://jungle-bus.github.io/unroll/route.html?line=10653426,f5f5dc,
+r10653562,Woro-woro d'Abobo,,woro woro : Abobo Gare ↔ Houphouet-Boigny,,3,https://jungle-bus.github.io/unroll/route.html?line=10653562,f5f5dc,
+r10653808,Woro-woro d'Abobo,,woro woro : Abobo Gare ↔ Angre Petro Ivoire,,3,https://jungle-bus.github.io/unroll/route.html?line=10653808,f5f5dc,
+r10653984,Woro-woro de Cocody,,woro woro : Palmeraie ↔ Mahou/Azur,,3,https://jungle-bus.github.io/unroll/route.html?line=10653984,ffff00,
+r10669276,Woro-woro de Cocody,,woro woro : Palmeraie ↔ Terminus 81-82,,3,https://jungle-bus.github.io/unroll/route.html?line=10669276,ffff00,
+r10670070,Woro-woro de Port-Bouët,,woro woro : Marché de Port-Bouët ↔ Port de Pêche,,3,https://jungle-bus.github.io/unroll/route.html?line=10670070,ffff00,
+r10670151,Woro-woro de Port-Bouët,,woro woro : Carrefour Aéroport ↔ Aéroport,,3,https://jungle-bus.github.io/unroll/route.html?line=10670151,ffff00,
+r10672696,Woro-woro de Koumassi,,woro woro : Koumassi grand marché ↔ Terminus 05,,3,https://jungle-bus.github.io/unroll/route.html?line=10672696,008000,
+r10676982,Woro-woro de Koumassi,,woro woro : Koumassi grand marché ↔ Ancien Koumassi,,3,https://jungle-bus.github.io/unroll/route.html?line=10676982,008000,
+r10677072,Woro-woro de Koumassi,,woro woro : Anoumabo sans fil ↔ Koumassi grand marché,,3,https://jungle-bus.github.io/unroll/route.html?line=10677072,008000,
+r10677135,Woro-woro de Koumassi,,woro woro : Koumassi grand marché ↔ Koumassi campement,,3,https://jungle-bus.github.io/unroll/route.html?line=10677135,008000,
+r10677516,Woro-woro de Koumassi,,woro woro : Koumassi grand marché ↔ Soweto,,3,https://jungle-bus.github.io/unroll/route.html?line=10677516,008000,
+r10677691,Woro-woro de Koumassi,,woro woro : Anoumabo sans fil ↔ Koumassi Hôpital général,,3,https://jungle-bus.github.io/unroll/route.html?line=10677691,008000,
+r11527162,Woro-woro de Koumassi,,woro woro : Gare communale ↔ Soweto,,3,https://jungle-bus.github.io/unroll/route.html?line=11527162,008000,
+r11527427,Woro-woro de Koumassi,,woro woro : Gare communale ↔ Sicogi,,3,https://jungle-bus.github.io/unroll/route.html?line=11527427,008000,
+r11529097,Woro-woro de Koumassi,,woro woro : Sicogi ↔ Terminus 32,,3,https://jungle-bus.github.io/unroll/route.html?line=11529097,008000,
+r11529225,Woro-woro de Koumassi,,woro woro : Anoumabo sans fil ↔ Sicogi,,3,https://jungle-bus.github.io/unroll/route.html?line=11529225,008000,
+r11529405,Woro-woro de Koumassi,,woro woro : Sicogi ↔ Soweto,,3,https://jungle-bus.github.io/unroll/route.html?line=11529405,008000,
+r11529699,Woro-woro de Cocody,,woro woro : 9 kilo ↔ Akouédo,,3,https://jungle-bus.github.io/unroll/route.html?line=11529699,ffff00,
+r11531745,Woro-woro de Cocody,,woro woro : 9 kilo ↔ Ciad Eden,,3,https://jungle-bus.github.io/unroll/route.html?line=11531745,ffff00,
+r11531813,Woro-woro de Cocody,,woro woro : 9 kilo ↔ Sol Beni au bateau,,3,https://jungle-bus.github.io/unroll/route.html?line=11531813,ffff00,
+r11531971,Woro-woro de Cocody,,woro woro : Gare Bonoumin ↔ Abri 2000,,3,https://jungle-bus.github.io/unroll/route.html?line=11531971,ffff00,
+r11532200,Woro-woro de Cocody,,woro woro : Station après barage ↔ CHU Angré,,3,https://jungle-bus.github.io/unroll/route.html?line=11532200,ffff00,
+r11532307,Woro-woro de Cocody,,woro woro : Station après barage ↔ Rosier Programme 6,,3,https://jungle-bus.github.io/unroll/route.html?line=11532307,ffff00,
+r11532430,Woro-woro de Cocody,,woro woro : Station après barage ↔ Petro ivoire,,3,https://jungle-bus.github.io/unroll/route.html?line=11532430,ffff00,
+r11532537,Woro-woro de Cocody,,woro woro : Rivera 2 ↔ Anono,,3,https://jungle-bus.github.io/unroll/route.html?line=11532537,ffff00,
+r11535716,Gbaka de Koumassi,,gbaka : Anoumabo sans fil ↔ Treichville Rue 12,,3,https://jungle-bus.github.io/unroll/route.html?line=11535716,,
+r11538371,Woro-woro de Marcory,,woro woro : Carrefour lycée ↔ Maison blanche,,3,https://jungle-bus.github.io/unroll/route.html?line=11538371,008000,
+r11538539,Woro-woro de Marcory,,woro woro : Gare Sotra Marcory ↔ Maison blanche,,3,https://jungle-bus.github.io/unroll/route.html?line=11538539,008000,
+r11538775,Woro-woro de Marcory,,woro woro : Carrefour Lycée ↔ CTAO,,3,https://jungle-bus.github.io/unroll/route.html?line=11538775,008000,
+r11539470,Woro-woro de Marcory,,woro woro :Gare Sotra Marcory ↔ CTAO,,3,https://jungle-bus.github.io/unroll/route.html?line=11539470,008000,
+r11539584,Woro-woro de Marcory,,woro woro : Hibiscus ↔ Mairie de Marcory,,3,https://jungle-bus.github.io/unroll/route.html?line=11539584,008000,
+r11539651,Woro-woro de Cocody,,woro woro : Rivera 2 station ↔ 9 Kilo,,3,https://jungle-bus.github.io/unroll/route.html?line=11539651,ffff00,
+r11539787,Woro-woro de Cocody,,woro woro : Saint Jean ↔ Blockhauss,,3,https://jungle-bus.github.io/unroll/route.html?line=11539787,ffff00,
+r11543111,Woro-woro de Cocody,,woro woro : Blockauss ↔ CHU de Cocody,,3,https://jungle-bus.github.io/unroll/route.html?line=11543111,ffff00,
+r11543163,Woro-woro de Cocody,,woro woro : Blockauss ↔ La Vie,,3,https://jungle-bus.github.io/unroll/route.html?line=11543163,ffff00,
+r11543219,Woro-woro de Cocody,,woro woro : Blockauss ↔ Patisserie,,3,https://jungle-bus.github.io/unroll/route.html?line=11543219,ffff00,
+r11543567,Woro-woro de Cocody,,woro woro : Rivera 2 station ↔ Akouédo,,3,https://jungle-bus.github.io/unroll/route.html?line=11543567,ffff00,
+r11543885,Woro-woro de Cocody,,woro woro : Rivera 2 station ↔ CIAD Eden,,3,https://jungle-bus.github.io/unroll/route.html?line=11543885,ffff00,
+r11544387,Woro-woro de Yopougon,,woro woro : Siporex ↔ Toit rouge Jean-Paul2,,3,https://jungle-bus.github.io/unroll/route.html?line=11544387,0000ff,
+r11544470,Woro-woro de Yopougon,,woro woro : Siporex ↔ Koweit,,3,https://jungle-bus.github.io/unroll/route.html?line=11544470,0000ff,
+r11548462,Woro-woro de Yopougon,,woro woro : Siporex ↔ Andokoi,,3,https://jungle-bus.github.io/unroll/route.html?line=11548462,0000ff,
+r11555785,Woro-woro de Yopougon,,woro woro : Sapeur Pompier ↔ Camp Militaire,,3,https://jungle-bus.github.io/unroll/route.html?line=11555785,0000ff,
+r11555928,Woro-woro de Yopougon,,woro woro : Sapeur Pompier ↔ Terminus 40,,3,https://jungle-bus.github.io/unroll/route.html?line=11555928,0000ff,
+r11569330,Woro-woro de Yopougon,,woro woro : Gabriel Gare ↔ Prison Civile,,3,https://jungle-bus.github.io/unroll/route.html?line=11569330,0000ff,
+r11569444,Woro-woro de Yopougon,,woro woro : Siporex ↔ Camp militaire,,3,https://jungle-bus.github.io/unroll/route.html?line=11569444,0000ff,
+r11572895,Woro-woro de Yopougon,,woro woro : Gabriel Gare ↔ Mossikro,,3,https://jungle-bus.github.io/unroll/route.html?line=11572895,0000ff,
+r11573879,Woro-woro d'Abobo,,woro woro : Abobo Gare ↔ Terminus Derrière Rail,,3,https://jungle-bus.github.io/unroll/route.html?line=11573879,f5f5dc,
+r11578622,Woro-woro de Yopougon,,woro woro : Complexe ↔ Koweit,,3,https://jungle-bus.github.io/unroll/route.html?line=11578622,0000ff,
+r11580511,Woro-woro de Yopougon,,woro woro : BHCI ↔ Toit rouge Jean-Paul 2,,3,https://jungle-bus.github.io/unroll/route.html?line=11580511,0000ff,
+r11580548,Woro-woro de Yopougon,,woro woro : BHCI ↔ Lama Fofana,,3,https://jungle-bus.github.io/unroll/route.html?line=11580548,0000ff,
+r11581068,Woro-woro de Yopougon,,woro woro : BHCI ↔ Sapeur Pompier,,3,https://jungle-bus.github.io/unroll/route.html?line=11581068,0000ff,
+r11581116,Woro-woro de Yopougon,,woro woro : Palais ↔ Toit rouge Jean-Paul 2,,3,https://jungle-bus.github.io/unroll/route.html?line=11581116,0000ff,
+r11581529,Woro-woro de Yopougon,,woro woro : Camp Militaire ↔ Saguidiba,,3,https://jungle-bus.github.io/unroll/route.html?line=11581529,0000ff,
+r11581693,Woro-woro de Yopougon,,woro woro : Camp Militaire ↔ Abobo Doumé,,3,https://jungle-bus.github.io/unroll/route.html?line=11581693,0000ff,
+r11581772,Woro-woro de Cocody,,woro woro : Zoo ↔ Pont Soro,,3,https://jungle-bus.github.io/unroll/route.html?line=11581772,ffff00,
+r11581798,Woro-woro de Yopougon,,woro woro : Sable nouveau goudron ↔ Mossikro,,3,https://jungle-bus.github.io/unroll/route.html?line=11581798,0000ff,
+r11581822,Woro-woro de Cocody,,woro woro : Zoo ↔ Cascades,,3,https://jungle-bus.github.io/unroll/route.html?line=11581822,ffff00,
+r11581842,Woro-woro de Yopougon,,woro woro : Sable nouveau goudron ↔ Millionnaire Antenne,,3,https://jungle-bus.github.io/unroll/route.html?line=11581842,0000ff,
+r11581878,Woro-woro de Cocody,,woro woro : Zoo ↔ Zinssou,,3,https://jungle-bus.github.io/unroll/route.html?line=11581878,ffff00,
+r11583609,Woro-woro de Yopougon,,woro woro : Sapeur Pompier ↔ Saguidiba,,3,https://jungle-bus.github.io/unroll/route.html?line=11583609,0000ff,
+r11583655,Woro-woro de Yopougon,,woro woro : Palais ↔ Camp Militaire,,3,https://jungle-bus.github.io/unroll/route.html?line=11583655,0000ff,
+r11583703,Woro-woro de Yopougon,,woro woro : Koweit ↔ Toit rouge Jean-Paul 2,,3,https://jungle-bus.github.io/unroll/route.html?line=11583703,0000ff,
+r11583900,Woro-woro de Yopougon,,woro woro : Camp Militaire ↔ Koweit,,3,https://jungle-bus.github.io/unroll/route.html?line=11583900,0000ff,
+r11588596,Woro-woro de Yopougon,,woro woro : Palais ↔ Sapeur Pompier,,3,https://jungle-bus.github.io/unroll/route.html?line=11588596,0000ff,
+r11588862,Woro-woro de Yopougon,,woro woro : BHCI ↔ Complexe,,3,https://jungle-bus.github.io/unroll/route.html?line=11588862,0000ff,
+r11588965,Woro-woro de Yopougon,,woro woro : Keneya ↔ Nouveau Goudron,,3,https://jungle-bus.github.io/unroll/route.html?line=11588965,0000ff,
+r11589210,Woro-woro de Yopougon,,woro woro : Zone industrielle ↔ Sable nouveau groudron,,3,https://jungle-bus.github.io/unroll/route.html?line=11589210,0000ff,
+r11591910,Woro-woro de Cocody,,woro woro : Gare carrefour 2 plateaux ↔ Vallon,,3,https://jungle-bus.github.io/unroll/route.html?line=11591910,ffff00,
+r11592007,Woro-woro de Cocody,,woro woro : Gare carrefour 2 plateaux ↔ Commissariat du 12è,,3,https://jungle-bus.github.io/unroll/route.html?line=11592007,ffff00,
+r11592064,Woro-woro d'Adjamé,,woro woro : Adjamé Liberté ↔ Saint Michel,,3,https://jungle-bus.github.io/unroll/route.html?line=11592064,008000,
+r11592121,Woro-woro de Cocody,,woro woro : Zoo ↔ Opera,,3,https://jungle-bus.github.io/unroll/route.html?line=11592121,008000,
+r11592212,Gbaka de Yopougon,,gbaka : Carrefour CHU ↔ Sable,,3,https://jungle-bus.github.io/unroll/route.html?line=11592212,,
+r11592326,Woro-woro d'Abobo,,woro woro : Abobo Gendarmerie ↔ Terminus Derrière Rail Celeste,,3,https://jungle-bus.github.io/unroll/route.html?line=11592326,f5f5dc,
+r11592385,Woro-woro de Yopougon,,woro woro : Carrefour Zone ↔ Zone industrielle,,3,https://jungle-bus.github.io/unroll/route.html?line=11592385,0000ff,
+r11592419,Woro-woro de Yopougon,,woro woro : Carrefour Zone ↔ Micao,,3,https://jungle-bus.github.io/unroll/route.html?line=11592419,0000ff,
+r11592466,Woro-woro de Yopougon,,woro woro : Keneya ↔ Carrefour CHU,,3,https://jungle-bus.github.io/unroll/route.html?line=11592466,0000ff,
+r11592497,Woro-woro d'Abobo,,woro woro : Abobo Marché ↔ Kennedy,,3,https://jungle-bus.github.io/unroll/route.html?line=11592497,f5f5dc,
+r11592571,Woro-woro de Yopougon,,woro woro : Mairie ↔ Gabriel Gare,,3,https://jungle-bus.github.io/unroll/route.html?line=11592571,0000ff,
+r11592766,Woro-woro d'Abobo,,woro woro : Abobo Marché ↔ Dokui,,3,https://jungle-bus.github.io/unroll/route.html?line=11592766,f5f5dc,
+r11592774,Woro-woro de Yopougon,,woro woro : Bel air ↔ Gabriel Gare,,3,https://jungle-bus.github.io/unroll/route.html?line=11592774,0000ff,
+r11592840,Woro-woro de Yopougon,,woro woro : Coopec ananeraie ↔ Carrefour Oasis,,3,https://jungle-bus.github.io/unroll/route.html?line=11592840,0000ff,
+r11592897,Woro-woro d'Abobo,,woro woro : Abobo marché ↔ Houphouet-Boigny,,3,https://jungle-bus.github.io/unroll/route.html?line=11592897,f5f5dc,
+r11592959,Woro-woro d'Abobo,,woro woro : Abobo Marche ↔ Carrefour kennedy,,3,https://jungle-bus.github.io/unroll/route.html?line=11592959,f5f5dc,
+r11593183,Woro-woro d'Abobo,,woro woro : Ancienne Gendarmerie ↔ Grand Carrefour,,3,https://jungle-bus.github.io/unroll/route.html?line=11593183,ffffff,
+r11596432,Woro-woro de Yopougon,,woro woro : Keneya ↔ Coopec ananeraie,,3,https://jungle-bus.github.io/unroll/route.html?line=11596432,0000ff,
+r11596455,Woro-woro de Yopougon,,woro woro : Bel air ↔ Keneya,,3,https://jungle-bus.github.io/unroll/route.html?line=11596455,0000ff,
+r11596584,Woro-woro de Yopougon,,woro woro : Palais ↔ Koweit,,3,https://jungle-bus.github.io/unroll/route.html?line=11596584,0000ff,
+r11596698,Woro-woro de Yopougon,,woro woro : Palais ↔ Abobo Doumé,,3,https://jungle-bus.github.io/unroll/route.html?line=11596698,0000ff,
+r11596735,Woro-woro de Yopougon,,woro woro : Bel air ↔ Mossikro,,3,https://jungle-bus.github.io/unroll/route.html?line=11596735,0000ff,
+r11596752,Woro-woro de Yopougon,,woro woro : Bel air ↔ Millionnaire Antenne,,3,https://jungle-bus.github.io/unroll/route.html?line=11596752,0000ff,
+r11596793,Woro-woro de Yopougon,,woro woro : Sapeur Pompier ↔ Toit rouge Jean-Paul 2,,3,https://jungle-bus.github.io/unroll/route.html?line=11596793,0000ff,
+r11596832,Woro-woro de Yopougon,,woro woro : Abobo Doumé ↔ Toit rouge Jean-Paul 2,,3,https://jungle-bus.github.io/unroll/route.html?line=11596832,0000ff,
+r11596845,Woro-woro d'Abobo,,woro woro : Gare d'Anyama ↔ Mairie d'Anyama,,3,https://jungle-bus.github.io/unroll/route.html?line=11596845,ffffff,
+r11596868,Woro-woro de Yopougon,,woro woro : Koweit ↔ Sable,,3,https://jungle-bus.github.io/unroll/route.html?line=11596868,0000ff,
+r11596890,Woro-woro de Yopougon,,woro woro : Koweit ↔ Abobo Doumé,,3,https://jungle-bus.github.io/unroll/route.html?line=11596890,0000ff,
+r11597012,Woro-woro d'Abobo,,woro woro : Lycée Moderne d'Abobo ↔ Houphouet-Boigny,,3,https://jungle-bus.github.io/unroll/route.html?line=11597012,f5f5dc,
+r11597021,Woro-woro d'Attecoubé,,woro woro : Mossikro ↔ Abobo Doumé Santé,,3,https://jungle-bus.github.io/unroll/route.html?line=11597021,008000,
+r11597137,Woro-woro d'Abobo,,woro woro : Abobo Gendarmerie ↔ BC Carrefour Niamkey,,3,https://jungle-bus.github.io/unroll/route.html?line=11597137,f5f5dc,
+r11597169,Woro-woro d'Abobo,,woro woro : Abobo Gendarmerie ↔ BC,,3,https://jungle-bus.github.io/unroll/route.html?line=11597169,f5f5dc,
+r11597201,Woro-woro d'Abobo,,woro woro : Abobo Marche ↔ Habitat grace,,3,https://jungle-bus.github.io/unroll/route.html?line=11597201,f5f5dc,
+r11597456,Woro-woro d'Abobo,,woro woro : Abobo Marché ↔ Abobo Baoulé,,3,https://jungle-bus.github.io/unroll/route.html?line=11597456,f5f5dc,
+r11600234,Woro-woro d'Abobo,,woro woro : Abobo Gendarmerie ↔ Houphouet-Boigny,,3,https://jungle-bus.github.io/unroll/route.html?line=11600234,f5f5dc,
+r11600299,Woro-woro d'Abobo,,woro woro : Abobo Samaké ↔ Abobo Baoulé,,3,https://jungle-bus.github.io/unroll/route.html?line=11600299,f5f5dc,
+r11600482,Woro-woro d'Abobo,,woro woro : Carrefour Kennedy ↔ Mosquée Ado,,3,https://jungle-bus.github.io/unroll/route.html?line=11600482,f5f5dc,
+r11600997,Gbaka d'Abobo,,gbaka : Lycée Moderne Abobo ↔ Adjamé Liberté,,3,https://jungle-bus.github.io/unroll/route.html?line=11600997,,
+r11604247,Gbaka d'Abobo,,gbaka : Abobo Samaké ↔ Biabou,,3,https://jungle-bus.github.io/unroll/route.html?line=11604247,,
+r11619625,Woro-woro de Yopougon,,woro woro : Terminus 40 ↔ Camp Militaire,,3,https://jungle-bus.github.io/unroll/route.html?line=11619625,0000ff,
+r11619658,Woro-woro de Yopougon,,woro woro : Terminus 40 ↔ Toit rouge Jean-Paul 2,,3,https://jungle-bus.github.io/unroll/route.html?line=11619658,0000ff,
+r11619704,Woro-woro de Yopougon,,woro woro : Terminus 40 ↔ Abobo Doumé,,3,https://jungle-bus.github.io/unroll/route.html?line=11619704,0000ff,
+r11619877,Gbaka de Yopougon,,gbaka : Siporex ↔ Songon Agban,,3,https://jungle-bus.github.io/unroll/route.html?line=11619877,,
+r11619939,Gbaka de Yopougon,,gbaka : Sable ↔ Koweit,,3,https://jungle-bus.github.io/unroll/route.html?line=11619939,,
+r11620000,Gbaka de Yopougon,,gbaka : Yopougon Siporex ↔ Yopougon Lokoa,,3,https://jungle-bus.github.io/unroll/route.html?line=11620000,,
+r11620022,Gbaka de Yopougon,,gbaka : Yopougon Siporex ↔ Yopougon Académie,,3,https://jungle-bus.github.io/unroll/route.html?line=11620022,,
+r11620051,Gbaka de Yopougon,,gbaka : Yopougon Siporex ↔ Yopougon Gesco,,3,https://jungle-bus.github.io/unroll/route.html?line=11620051,,
+r11620886,Gbaka de Yopougon,,gbaka : Yopougon Acamedie ↔ Yopougon Diop,,3,https://jungle-bus.github.io/unroll/route.html?line=11620886,,
+r11620905,Gbaka de Yopougon,,gbaka : Yopougon Siporex ↔ Yopougon IGES,,3,https://jungle-bus.github.io/unroll/route.html?line=11620905,,
+r11702225,Woro-woro de Port-Bouët,,woro woro : Terre Rouge ↔ Carrefour deux poteaux,,3,https://jungle-bus.github.io/unroll/route.html?line=11702225,ffff00,
+r11702278,Woro-woro de Port-Bouët,,woro woro : Terre Rouge ↔ Benogosso,,3,https://jungle-bus.github.io/unroll/route.html?line=11702278,ffff00,
+r11702376,Gbaka de Yopougon,,gbaka : Yopougon Carrefour zone ↔ Ndotre,,3,https://jungle-bus.github.io/unroll/route.html?line=11702376,,
+r11702381,Woro-woro de Yopougon,,woro woro : Marché 23è ↔ Zone industrielle,,3,https://jungle-bus.github.io/unroll/route.html?line=11702381,0000ff,
+r11702592,Gbaka de Yopougon,,gbaka : Yopougon Carrefour zone ↔ Abobo Agripac,,3,https://jungle-bus.github.io/unroll/route.html?line=11702592,,
+r11702772,Gbaka d'Abobo,,gbaka : Abobo Marché ↔ Biabou,,3,https://jungle-bus.github.io/unroll/route.html?line=11702772,,
+r11702874,Gbaka de Yopougon,,gbaka : Yopougon Palais ↔ Beago Wolosso,,3,https://jungle-bus.github.io/unroll/route.html?line=11702874,,
+r11702965,Gbaka de Yopougon,,gbaka : Yopougon Koweit ↔ Zone Industrielle,,3,https://jungle-bus.github.io/unroll/route.html?line=11702965,,
+r11703071,Gbaka de Yopougon,,gbaka : Zone Industrielle ↔ Gesco,,3,https://jungle-bus.github.io/unroll/route.html?line=11703071,,
+r11703076,Gbaka de Port-Bouët,,gbaka : Casier ↔ Belleville,,3,https://jungle-bus.github.io/unroll/route.html?line=11703076,,
+r11703113,Gbaka de Port-Bouët,,gbaka : Mobiobi ↔ Terminus Mobiobi,,3,https://jungle-bus.github.io/unroll/route.html?line=11703113,,
+r11703128,Gbaka de Yopougon,,gbaka : Yopougon Locodjro Marine ↔ Attecoubé Garage,,3,https://jungle-bus.github.io/unroll/route.html?line=11703128,,
+r11703171,Gbaka de Port-Bouët,,gbaka : Gonzagueville Corridor ↔ Éléphant,,3,https://jungle-bus.github.io/unroll/route.html?line=11703171,,
+r11703223,Gbaka de Port-Bouët,,gbaka : Gonzagueville Corridor ↔ Abraham,,3,https://jungle-bus.github.io/unroll/route.html?line=11703223,,
+r11703304,Gbaka de Port-Bouët,,gbaka : Gonzagueville Corridor ↔ Usine,,3,https://jungle-bus.github.io/unroll/route.html?line=11703304,,
+r11758498,Gbaka de Yopougon,,gbaka : Yopougon IGES ↔ Adjame mosquée en bas du pont,,3,https://jungle-bus.github.io/unroll/route.html?line=11758498,,
+r11758556,Gbaka de Yopougon,,gbaka : Adjamé Texaco ↔ Yopougon Lubafrique,,3,https://jungle-bus.github.io/unroll/route.html?line=11758556,,
