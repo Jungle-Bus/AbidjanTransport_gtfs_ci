@@ -1,21 +1,5 @@
 {
-    "query": {
-        "bbox": {
-            "n": "5.6367",
-            "s": "5.2121", 
-            "e": "-3.7154", 
-            "w": "-4.2973" 
-        },
-        "tags": {
-            "route": ["bus", "ferry"],
-            "operator": ["divers", "Citrans"]
-        }
-    },
-    "stops": {
-        "name_without": "Arret sans nom",
-        "name_auto": "no"
-    },
-    "agency": {
+    "default_agency": {
         "agency_id": "divers",
         "agency_name": "Divers opérateurs",
         "agency_url": "https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan",
@@ -25,12 +9,24 @@
         "agency_fare_url": ""
     },
     "feed_info": {
-        "publisher_name": "Jungle Bus",
-        "publisher_url": "http://junglebus.io",
-        "version": "0.1",
-        "start_date": "20210601",
-        "end_date": "20220415"
+        "feed_publisher_name": "Jungle Bus",
+        "feed_publisher_url": "http://junglebus.io",
+        "feed_version": "0.1",
+        "feed_lang": "fr",
+        "feed_start_date": "20210901",
+        "feed_end_date": "20220601"
     },
-    "output_file": "data/ci-abidjan.zip",
-    "selector": "ci_abidjan"
+    "make_stop_times": {
+        "algo": "osm_duration_tag",
+        "speed_by_mode": {
+            "ferry": 10,
+            "bus": 10
+        }
+    },
+    "default_stop_name": "[Arrêt]",
+    "use_network_as_agency": "True",
+    "osm_filter" : {
+        "mode" : ["bus", "ferry"],
+        "operator": ["divers", "Citrans"]
+    }
 }

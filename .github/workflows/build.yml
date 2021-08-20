@@ -2,7 +2,7 @@ name: Make GTFS
 
 on:
   schedule:
-    - cron:  '0 0 20 * *'
+    - cron:  '0 18 * * 5'
   push:
     branches-ignore:
       - 'gh-pages'
@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.7]
+        python-version: [3.8]
 
     steps:
     - uses: actions/checkout@v2
@@ -21,6 +21,11 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: ${{ matrix.python-version }}
+    - name: Install poetry
+      run: |
+        curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+        echo "$HOME/.poetry/bin" >> $GITHUB_PATH
+        sudo apt-get install osmium-tool
     - name: Install dependencies
       run: ./install.sh
     - name: Generate GTFS
