@@ -10,7 +10,7 @@ mkdir output
 
 cd prism
 
-poetry run python prism/cli.py ../pt_data.osm.pbf --outdir ../output/ --loglevel=WARNING --config ../2021_conf.json
+poetry run python prism/cli.py ../pt_data.osm.pbf --outdir ../output/ --loglevel=WARNING --config ../2021_conf.json -gtfs -csv
 
 cd ..
 
@@ -21,5 +21,7 @@ cp validation-results.html ./output/validation-results.html
 cd output
 
 unzip output_gtfs.zip
+
+unzip as_csv.zip
 
 cd ..
