@@ -10,8 +10,8 @@
     },
     "feed_info": {
         "feed_publisher_name": "Jungle Bus",
-        "feed_publisher_url": "http://junglebus.io",
-        "feed_version": "0.1",
+        "feed_publisher_url": "https://jungle-bus.github.io/AbidjanTransport2021/",
+        "feed_contact_url" : "https://jungle-bus.github.io/AbidjanTransport2021/",
         "feed_lang": "fr",
         "feed_start_date": "20210901",
         "feed_end_date": "20220601"
