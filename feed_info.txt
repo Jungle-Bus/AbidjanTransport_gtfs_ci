@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,default_lang,feed_contact_email,feed_contact_url
-Jungle Bus,https://jungle-bus.github.io/AbidjanTransport2021/,fr,20210901,20220601,202109171814,,contact@junglebus.io,https://jungle-bus.github.io/AbidjanTransport2021/
+Jungle Bus,https://jungle-bus.github.io/AbidjanTransport2021/,fr,20210901,20220601,202109241816,,contact@junglebus.io,https://jungle-bus.github.io/AbidjanTransport2021/
