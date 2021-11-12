@@ -131,3 +131,19 @@ OSM QA : Missing frequency (interval tag) on OSM line r11544470 or OSM route r11
 OSM QA : Missing frequency (interval tag) on OSM line r11544470 or OSM route r11544468
 OSM QA : Missing frequency (interval tag) on OSM line r11555785 or OSM route r11555783
 OSM QA : Missing frequency (interval tag) on OSM line r11555785 or OSM route r11555784
+OSM QA : Missing frequency (interval tag) on OSM line r13421219 or OSM route r13421218
+OSM QA : Missing travel duration (duration tag) on OSM route r13421218
+OSM QA : Missing frequency (interval tag) on OSM line r13421219 or OSM route r13421217
+OSM QA : Missing travel duration (duration tag) on OSM route r13421217
+OSM QA : Missing frequency (interval tag) on OSM line r13421393 or OSM route r13421391
+OSM QA : Missing travel duration (duration tag) on OSM route r13421391
+OSM QA : Missing frequency (interval tag) on OSM line r13421393 or OSM route r13421392
+OSM QA : Missing travel duration (duration tag) on OSM route r13421392
+OSM QA : Missing frequency (interval tag) on OSM line r13423262 or OSM route r13423260
+OSM QA : Missing travel duration (duration tag) on OSM route r13423260
+OSM QA : Missing frequency (interval tag) on OSM line r13423262 or OSM route r13423261
+OSM QA : Missing travel duration (duration tag) on OSM route r13423261
+OSM QA : Missing frequency (interval tag) on OSM line r13423303 or OSM route r13423302
+OSM QA : Missing travel duration (duration tag) on OSM route r13423302
+OSM QA : Missing frequency (interval tag) on OSM line r13423303 or OSM route r13423301
+OSM QA : Missing travel duration (duration tag) on OSM route r13423301

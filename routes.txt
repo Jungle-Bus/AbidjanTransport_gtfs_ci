@@ -20,7 +20,7 @@ r10406547,Gbaka d'Adjamé,,gbaka : Yopougon Niangon Terminus 27 ↔ Adjamé Libe
 r10406621,Gbaka d'Adjamé,,gbaka : Adjamé Liberté ↔ Koumassi,,3,https://jungle-bus.github.io/unroll/route.html?line=10406621,,
 r10406865,Gbaka d'Adjamé,,gbaka : Adjamé Liberté ↔ Yopougon Palais,,3,https://jungle-bus.github.io/unroll/route.html?line=10406865,,
 r10407729,Gbaka d'Adjamé,,gbaka : Adjamé Texaco ↔ Yopougon Camp Militaire,,3,https://jungle-bus.github.io/unroll/route.html?line=10407729,,
-r10407850,Gbaka d'Adjamé,,gbaka : Yopougon Carrefour Académie ↔ Adjamé Liberté,,3,https://jungle-bus.github.io/unroll/route.html?line=10407850,,
+r10407850,Gbaka d'Adjamé,,gbaka : Yopougon Carrefour Académie ↔ Adjamé Texaco,,3,https://jungle-bus.github.io/unroll/route.html?line=10407850,,
 r10408669,Woro-woro de Cocody,,woro woro : Riviera 2 ↔ Angré Terminus 81-82,,3,https://jungle-bus.github.io/unroll/route.html?line=10408669,ffff00,000000
 r10408694,Woro-woro de Cocody,,woro woro : Riviera 2 ↔ Angré 22ème,,3,https://jungle-bus.github.io/unroll/route.html?line=10408694,ffff00,000000
 r10408727,Woro-woro de Cocody,,woro woro : Riviera 2 ↔ Attoban Camp,,3,https://jungle-bus.github.io/unroll/route.html?line=10408727,ffff00,000000
@@ -207,3 +207,8 @@ r11703223,Gbaka de Port-Bouët,,gbaka : Gonzagueville Corridor ↔ Abraham,,3,ht
 r11703304,Gbaka de Port-Bouët,,gbaka : Gonzagueville Corridor ↔ Usine,,3,https://jungle-bus.github.io/unroll/route.html?line=11703304,,
 r11758498,Gbaka de Yopougon,,gbaka : Yopougon IGES ↔ Adjame mosquée en bas du pont,,3,https://jungle-bus.github.io/unroll/route.html?line=11758498,,
 r11758556,Gbaka de Yopougon,,gbaka : Adjamé Texaco ↔ Yopougon Lubafrique,,3,https://jungle-bus.github.io/unroll/route.html?line=11758556,,
+r13411244,Gbaka de yopougon,,gbaka : Yopougon Siporex ↔ Yopougon Micao,,3,https://jungle-bus.github.io/unroll/route.html?line=13411244,,
+r13421219,Gbaka d'Abobo,,gbaka : Belle Cité ↔ Belle Cité en Bas,,3,https://jungle-bus.github.io/unroll/route.html?line=13421219,,
+r13421393,Woro-woro d'Abobo,,woro woro : Lycée Moderne d'Abobo ↔ Avocatier Carrefour Niamkey,,3,https://jungle-bus.github.io/unroll/route.html?line=13421393,f5f5dc,000000
+r13423262,Woro-woro d'Abobo,,Woro-woro : Lycée Moderne d'Abobo ↔ Belle Cité,,3,https://jungle-bus.github.io/unroll/route.html?line=13423262,f5f5dc,000000
+r13423303,Woro-woro d'Abobo,,Woro-woro : Gare d'Abobo ↔ Carrefour Angré,,3,https://jungle-bus.github.io/unroll/route.html?line=13423303,f5f5dc,000000
