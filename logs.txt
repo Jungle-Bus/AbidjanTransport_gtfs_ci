@@ -1,4 +1,3 @@
-OSM QA : the geometry of the route r10430196 is not a linestring. Check from 22777432 way.
 OSM QA : Missing frequency (interval tag) on OSM line r10179006 or OSM route r10178669
 OSM QA : Missing frequency (interval tag) on OSM line r10179006 or OSM route r10178996
 OSM QA : Missing frequency (interval tag) on OSM line r10179435 or OSM route r10179434
