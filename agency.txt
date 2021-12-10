@@ -16,3 +16,4 @@ Woro-woro de Marcory,Woro-woro de Marcory,https://wiki.openstreetmap.org/wiki/FR
 Woro-woro d'Attecoubé,Woro-woro d'Attecoubé,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,fr,,,
 Gbaka de Port-Bouët,Gbaka de Port-Bouët,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,fr,,,
 Gbaka de Bingerville,Gbaka de Bingerville,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,fr,,,
+Woro-woro de Bingerville,Woro-woro de Bingerville,https://wiki.openstreetmap.org/wiki/FR:WikiProject_C%C3%B4te_d'Ivoire/Transport_Abidjan,Africa/Abidjan,fr,,,

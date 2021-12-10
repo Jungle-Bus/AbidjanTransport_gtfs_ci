@@ -255,3 +255,11 @@ r13499675,Gbaka d'Abobo,,gbaka : Agripac ↔ Treichville,,3,https://jungle-bus.g
 r13499973,Gbaka d'Abobo,,gbaka : Gendarmerie ↔ Treichville Port de Pêche,,3,https://jungle-bus.github.io/unroll/route.html?line=13499973,,
 r13500113,Gbaka d'Abobo,,gbaka : Ancienne Gendarmerie ↔ Belle Ville,,3,https://jungle-bus.github.io/unroll/route.html?line=13500113,,
 r13500219,Gbaka d'Abobo,,gbaka : Samake ↔ Liberté,,3,https://jungle-bus.github.io/unroll/route.html?line=13500219,,
+r13531691,Woro-woro de Bingerville,,woro woro : Nouveau Marché ↔ Santai,,3,https://jungle-bus.github.io/unroll/route.html?line=13531691,ffa500,000000
+r13531849,Woro-woro de Bingerville,,woro woro : Nouveau Marché ↔ Adjin,,3,https://jungle-bus.github.io/unroll/route.html?line=13531849,ffa500,000000
+r13531947,Woro-woro de Bingerville,,woro woro : Nouveau Marché ↔ S3i,,3,https://jungle-bus.github.io/unroll/route.html?line=13531947,ffa500,000000
+r13532024,Woro-woro de Bingerville,,woro woro : Nouveau Marché ↔ École Régionale d’Agriculture,,3,https://jungle-bus.github.io/unroll/route.html?line=13532024,ffa500,000000
+r13532225,Woro-woro de Bingerville,,woro woro : Nouveau Marché ↔ Delacelle,,3,https://jungle-bus.github.io/unroll/route.html?line=13532225,ffa500,000000
+r13532726,Gbaka d'Abobo,,gbaka : Lycée Moderne d'Abobo ↔ Zoo,,3,https://jungle-bus.github.io/unroll/route.html?line=13532726,,
+r13532887,Gbaka d'Abobo,,gbaka : N'dotre ↔ Château,,3,https://jungle-bus.github.io/unroll/route.html?line=13532887,,
+r13533699,Woro-woro de Cocody,,woro woro : SGBCI Cocody ↔ Vallon/ Las Palmas,,3,https://jungle-bus.github.io/unroll/route.html?line=13533699,,
