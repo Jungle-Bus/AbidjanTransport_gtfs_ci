@@ -218,8 +218,8 @@ r13463948,Gbaka d'Adjamé,,gbaka : Treichville Gare Bassam ↔ Grand Carrefour K
 r13466128,Gbaka d'Adjamé,,gbaka : Adjamé Texaco ↔ N'dotre,,3,https://jungle-bus.github.io/unroll/route.html?line=13466128,,
 r13469152,Gbaka d'Adjamé,,gbaka : Adjamé Texaco ↔ Yopougon Boassi,,3,https://jungle-bus.github.io/unroll/route.html?line=13469152,,
 r13469249,Gbaka d'Adjamé,,gbaka : Adjamé Texaco ↔ Yopougon Micao,,3,https://jungle-bus.github.io/unroll/route.html?line=13469249,,
-r13486886,Woro-woro de Yopougon,,woro woro : Lubafrique ↔ Cité Verte,,3,https://jungle-bus.github.io/unroll/route.html?line=13486886,,
-r13486931,Woro-woro de Yopougon,,woro woro : Lubafrique ↔ Marché Bagnon,,3,https://jungle-bus.github.io/unroll/route.html?line=13486931,,
+r13486886,Woro-woro de Yopougon,,woro woro : Lubafrique ↔ Cité Verte,,3,https://jungle-bus.github.io/unroll/route.html?line=13486886,0000ff,ffffff
+r13486931,Woro-woro de Yopougon,,woro woro : Lubafrique ↔ Marché Bagnon,,3,https://jungle-bus.github.io/unroll/route.html?line=13486931,0000ff,ffffff
 r13486952,Woro-woro de Cocody,,woro woro : 2 Plateaux Mobile ↔ 2 Plateaux Vallons,,3,https://jungle-bus.github.io/unroll/route.html?line=13486952,ffff00,000000
 r13486968,Woro-woro de Cocody,,woro woro : 2 Plateaux Mobile ↔ Angré CNPS,,3,https://jungle-bus.github.io/unroll/route.html?line=13486968,ffff00,000000
 r13486974,Woro-woro de Cocody,,woro woro : 2 Plateaux Mobile ↔ Plateau Dokoui Azur,,3,https://jungle-bus.github.io/unroll/route.html?line=13486974,ffff00,000000

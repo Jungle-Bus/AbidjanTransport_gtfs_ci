@@ -1,9 +1,3 @@
-OSM QA : the geometry of the route r10184962 is not a linestring. Check from 737339590 way.
-OSM QA : the geometry of the route r10184963 is not a linestring. Check from 845138590 way.
-OSM QA : the geometry of the route r11592495 is not a linestring. Check from 845138590 way.
-OSM QA : the geometry of the route r11592496 is not a linestring. Check from 737339590 way.
-OSM QA : the geometry of the route r11592957 is not a linestring. Check from 737339590 way.
-OSM QA : the geometry of the route r11592958 is not a linestring. Check from 845138590 way.
 OSM QA : Missing frequency (interval tag) on OSM line r10179006 or OSM route r10178669
 OSM QA : Missing frequency (interval tag) on OSM line r10179006 or OSM route r10178996
 OSM QA : Missing frequency (interval tag) on OSM line r10402518 or OSM route r10402517
@@ -105,79 +99,12 @@ OSM QA : Missing frequency (interval tag) on OSM line r11555785 or OSM route r11
 OSM QA : Missing frequency (interval tag) on OSM line r13421219 or OSM route r13421218
 OSM QA : Missing frequency (interval tag) on OSM line r13421219 or OSM route r13421217
 OSM QA : Missing frequency (interval tag) on OSM line r13487772 or OSM route r13487771
-OSM QA : Missing travel duration (duration tag) on OSM route r13487771
 OSM QA : Missing frequency (interval tag) on OSM line r13487772 or OSM route r13487770
-OSM QA : Missing travel duration (duration tag) on OSM route r13487770
-OSM QA : Missing travel duration (duration tag) on OSM route r13487950
-OSM QA : Missing travel duration (duration tag) on OSM route r13487951
 OSM QA : Missing frequency (interval tag) on OSM line r13488047 or OSM route r13488045
-OSM QA : Missing travel duration (duration tag) on OSM route r13488045
 OSM QA : Missing frequency (interval tag) on OSM line r13488047 or OSM route r13488046
-OSM QA : Missing travel duration (duration tag) on OSM route r13488046
-OSM QA : Missing travel duration (duration tag) on OSM route r13489591
-OSM QA : Missing travel duration (duration tag) on OSM route r13489592
-OSM QA : Missing travel duration (duration tag) on OSM route r13493716
-OSM QA : Missing travel duration (duration tag) on OSM route r13493715
-OSM QA : Missing travel duration (duration tag) on OSM route r13494495
-OSM QA : Missing travel duration (duration tag) on OSM route r13494496
-OSM QA : Missing travel duration (duration tag) on OSM route r13494645
-OSM QA : Missing travel duration (duration tag) on OSM route r13494710
-OSM QA : Missing travel duration (duration tag) on OSM route r13494709
 OSM QA : Missing frequency (interval tag) on OSM line r13494776 or OSM route r13494775
-OSM QA : Missing travel duration (duration tag) on OSM route r13494775
 OSM QA : Missing frequency (interval tag) on OSM line r13494776 or OSM route r13494774
-OSM QA : Missing travel duration (duration tag) on OSM route r13494774
-OSM QA : Missing travel duration (duration tag) on OSM route r13495194
-OSM QA : Missing travel duration (duration tag) on OSM route r13495193
-OSM QA : Missing travel duration (duration tag) on OSM route r13496910
-OSM QA : Missing travel duration (duration tag) on OSM route r13496909
-OSM QA : Missing travel duration (duration tag) on OSM route r13497449
-OSM QA : Missing travel duration (duration tag) on OSM route r13497448
-OSM QA : Missing travel duration (duration tag) on OSM route r13497826
-OSM QA : Missing travel duration (duration tag) on OSM route r13497825
-OSM QA : Missing travel duration (duration tag) on OSM route r13498051
-OSM QA : Missing travel duration (duration tag) on OSM route r13498050
-OSM QA : Missing travel duration (duration tag) on OSM route r13498095
-OSM QA : Missing travel duration (duration tag) on OSM route r13498094
-OSM QA : Missing travel duration (duration tag) on OSM route r13498115
-OSM QA : Missing travel duration (duration tag) on OSM route r13498114
-OSM QA : Missing travel duration (duration tag) on OSM route r13499111
-OSM QA : Missing travel duration (duration tag) on OSM route r13499110
-OSM QA : Missing travel duration (duration tag) on OSM route r13499674
-OSM QA : Missing travel duration (duration tag) on OSM route r13499673
-OSM QA : Missing travel duration (duration tag) on OSM route r13499972
-OSM QA : Missing travel duration (duration tag) on OSM route r13499971
 OSM QA : Missing frequency (interval tag) on OSM line r13500113 or OSM route r13500112
-OSM QA : Missing travel duration (duration tag) on OSM route r13500112
 OSM QA : Missing frequency (interval tag) on OSM line r13500113 or OSM route r13500111
-OSM QA : Missing travel duration (duration tag) on OSM route r13500111
 OSM QA : Missing frequency (interval tag) on OSM line r13500219 or OSM route r13500218
-OSM QA : Missing travel duration (duration tag) on OSM route r13500218
 OSM QA : Missing frequency (interval tag) on OSM line r13500219 or OSM route r13500217
-OSM QA : Missing travel duration (duration tag) on OSM route r13500217
-OSM QA : Missing travel duration (duration tag) on OSM route r13532724
-OSM QA : Missing travel duration (duration tag) on OSM route r13532725
-OSM QA : Missing travel duration (duration tag) on OSM route r13532885
-OSM QA : Missing travel duration (duration tag) on OSM route r13532886
-OSM QA : Missing travel duration (duration tag) on OSM route r13533698
-OSM QA : Missing travel duration (duration tag) on OSM route r13533697
-OSM QA : Missing travel duration (duration tag) on OSM route r13533785
-OSM QA : Missing travel duration (duration tag) on OSM route r13533784
-OSM QA : Missing travel duration (duration tag) on OSM route r13533873
-OSM QA : Missing travel duration (duration tag) on OSM route r13533872
-OSM QA : Missing travel duration (duration tag) on OSM route r13536679
-OSM QA : Missing travel duration (duration tag) on OSM route r13536678
-OSM QA : Missing travel duration (duration tag) on OSM route r13536842
-OSM QA : Missing travel duration (duration tag) on OSM route r13536841
-OSM QA : Missing travel duration (duration tag) on OSM route r13537311
-OSM QA : Missing travel duration (duration tag) on OSM route r13537310
-OSM QA : Missing travel duration (duration tag) on OSM route r13540086
-OSM QA : Missing travel duration (duration tag) on OSM route r13540085
-OSM QA : Missing travel duration (duration tag) on OSM route r13543439
-OSM QA : Missing travel duration (duration tag) on OSM route r13543438
-OSM QA : Missing travel duration (duration tag) on OSM route r13543471
-OSM QA : Missing travel duration (duration tag) on OSM route r13543470
-OSM QA : Missing travel duration (duration tag) on OSM route r13543556
-OSM QA : Missing travel duration (duration tag) on OSM route r13543557
-OSM QA : Invalid colour: bleue found on OSM line r13486886
-OSM QA : Invalid colour: bleue found on OSM line r13486931
