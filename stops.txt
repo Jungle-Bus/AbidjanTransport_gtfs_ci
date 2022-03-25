@@ -388,7 +388,7 @@ n7055596704,,Carrefour sapeur-pompier,,5.3283313,-4.0608108,,,0,,,0
 n7055596705,,Carrefour Gandhi,,5.3241945,-4.0597688,,,0,,,0
 n7055596706,,Yopougon camp militaire,,5.3197051,-4.0616222,,,0,,,0
 n7055596707,,Yopougon camp militaire,,5.3196904,-4.0617268,,,0,,,0
-n7055596709,,Église catholique Sainte Marie,,5.3210872,-4.0622967,,,0,,,0
+n7055596709,,Église catholique Sainte Marie Madeleine,,5.3210872,-4.0622967,,,0,,,0
 n7055596711,,Carrefour sapeur-pompier,,5.3289148,-4.0606928,,,0,,,0
 n7055596712,,Centre de santé B.A.E,,5.3305786,-4.0568438,,,0,,,0
 n7055596713,,La Poste,,5.3342053,-4.0550801,,,0,,,0
