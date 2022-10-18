@@ -1,8 +1,6 @@
 name: Make GTFS
 
 on:
-  schedule:
-    - cron:  '0 18 * * 5'
   push:
     branches-ignore:
       - 'gh-pages'
